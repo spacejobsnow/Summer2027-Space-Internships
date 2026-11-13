@@ -1,0 +1,11 @@
+title: Summer 2027 Space and Aerospace Internships
+description: Every open internship and co-op at space companies (SpaceX, Blue Origin, Rocket Lab, NASA JPL, Lockheed Martin and more), updated daily by SpaceJobs.Now.
+theme: jekyll-theme-primer
+url: https://spacejobsnow.github.io
+baseurl: /Summer2027-Space-Internships
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-relative-links
+exclude:
+  - scripts

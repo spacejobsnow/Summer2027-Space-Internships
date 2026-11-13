@@ -8,6 +8,7 @@ A role is added when the company posts it and taken off when the company takes i
 
 - United States: the table below
 - [Europe, Canada and Asia-Pacific](INTERNATIONAL.md): ESA, Airbus, Thales Alenia Space, ArianeGroup, DLR, CNES, OHB and more (634 roles)
+- Graduating? Entry-level roles have their own list: [New-Grad-Space-Jobs](https://github.com/spacejobsnow/New-Grad-Space-Jobs)
 - The same list as data: [data/internships.json](data/internships.json) (CC BY 4.0)
 
 Many US roles require US citizenship or US person status (export rules); each role's page says so.
