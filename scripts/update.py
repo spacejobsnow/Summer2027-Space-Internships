@@ -26,6 +26,27 @@ FIELDS = [
     ("science-imaging", "Science, imaging and Earth data"), ("business-programs", "Business and programs"),
     ("supply-chain-facilities", "Supply chain and facilities"),
 ]
+# The internship program guides on SpaceJobs.Now (deadlines, pay, who may apply and how), read from each program's own
+# pages. A deadline is shown only while it is ahead.
+GUIDES = [
+    ("NASA internships", "/employers/nasa", "2027-03-01", "Summer 2027 applications"),
+    ("NASA JPL internships", "/employers/jpl/internships", "2027-03-12", "Summer 2027 applications"),
+    ("ESA internships (ESA member state citizens)", "/employers/esa/internships", "2026-11-30", "2027 student internships"),
+    ("SpaceX internships", "/employers/spacex/internships", None, None),
+    ("Blue Origin internships", "/employers/blue-origin/internships", None, None),
+    ("Lockheed Martin internships", "/employers/lockheed-martin/internships", None, None),
+    ("Northrop Grumman internships", "/employers/northrop-grumman", None, None),
+    ("Boeing internships", "/employers/boeing", None, None),
+    ("Rocket Lab internships", "/employers/rocket-lab/internships", None, None),
+    ("The Aerospace Corporation internships", "/employers/aerospace-corporation/internships", None, None),
+    ("ULA internships", "/employers/united-launch-alliance/internships", None, None),
+    ("Firefly Aerospace internships", "/employers/firefly-aerospace/internships", None, None),
+    ("Axiom Space internships", "/employers/axiom-space/internships", None, None),
+    ("Varda internships", "/employers/varda/internships", None, None),
+    ("Impulse Space internships", "/employers/impulse-space/internships", None, None),
+    ("Muon Space internships", "/employers/muon-space/internships", None, None),
+    ("Astranis internships", "/employers/astranis/internships", None, None),
+]
 STATE_NAMES = {"AL": "alabama", "AZ": "arizona", "CA": "california", "CO": "colorado", "FL": "florida", "MD": "maryland",
                "NM": "new-mexico", "PA": "pennsylvania", "TX": "texas", "VA": "virginia", "WA": "washington"}
 
@@ -107,6 +128,13 @@ def main():
     head += [f"- [{label}]({link('/space-internships/' + slug)}) ({kinds[slug]})" for slug, label in FIELDS if kinds.get(slug)]
     head += ["", "## By state", ""]
     head.append(", ".join(f"[{code}]({link('/space-internships/' + STATE_NAMES[code])}) ({n})" for code, n in sorted(states.items(), key=lambda s: -s[1]) if code in STATE_NAMES))
+    today_iso = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
+    deadlines = sorted((d, name, path, what) for name, path, d, what in GUIDES if d and d >= today_iso)
+    if deadlines:
+        head += ["", "## Deadlines ahead", ""]
+        head += [f"- **{dt.date.fromisoformat(d).strftime('%-d %b %Y')}**: [{name}]({link(path)}), {what}" for d, name, path, what in deadlines]
+    head += ["", "## Program guides", "", "How each program works, what it pays and who may apply, read from the employer's own pages:", ""]
+    head.append(", ".join(f"[{name.replace(' internships', '')}]({link(path)})" for name, path, d, what in GUIDES))
     head += [
         "",
         "## Guides",
