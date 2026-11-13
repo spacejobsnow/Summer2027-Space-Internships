@@ -1,0 +1,17 @@
+name: A role is wrong or closed
+description: Report a row that is out of date or filed wrongly
+title: "Fix: "
+labels: ["fix"]
+body:
+  - type: input
+    id: role
+    attributes:
+      label: The role's link in the list
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong
+    validations:
+      required: true

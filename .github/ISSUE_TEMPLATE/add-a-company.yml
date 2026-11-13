@@ -1,0 +1,25 @@
+name: Add a company
+description: Ask for a space company's roles to be read into the list
+title: "Add: "
+labels: ["company"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Example Space Inc.
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Its careers page
+      description: The address where the company itself posts its openings
+      placeholder: https://example.space/careers
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: Anything else
+      description: For example which team or site hires interns or new graduates
