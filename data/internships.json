@@ -1,33 +1,137 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "internships": [
   {
-   "company": "Impulse Space",
-   "title": "RF Test Engineering Intern (Summer 2027)",
-   "location": "Redondo Beach, California",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$32/hr",
-   "term": "Summer 2027",
-   "field": "rf-communications",
-   "posted": "2026-11-13",
-   "url": "https://spacejobs.now/jobs/impulse-space/rf-test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "ArianeGroup",
-   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur d'essais - D\u00e9veloppement des m\u00e9thodes d\u2019analyse d\u2019images",
-   "location": "Saint-M\u00e9dard-en-Jalles, Issac, France",
+   "company": "Eutelsat",
+   "title": "Stage - Ing\u00e9nieur Traitement du Signal et G\u00e9olocalisation Satellitaire",
+   "location": "Issy-Les-Moulineaux, France",
    "in_us": false,
    "states": [],
    "pay": null,
    "term": null,
-   "field": "systems-test",
+   "field": "rf-communications",
+   "posted": "2026-11-14",
+   "url": "https://spacejobs.now/jobs/eutelsat/stage-ingenieur-traitement-du-signal-et-geolocalisation-satellitaire?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Ursa Major",
+   "title": "2027 Summer Ballistics Analyst Intern",
+   "location": "Berthoud, Colorado",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$30.00/hr",
+   "term": null,
+   "field": "other",
    "posted": "2026-11-13",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-d-essais-developpement-des-methodes-d-analyse-d-images?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/ursa-major/2027-summer-ballistics-analyst-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Intuitive Machines",
+   "title": "Logistics and Mechanisms Engineering Intern",
+   "location": "Glen Burnie, MD",
+   "in_us": true,
+   "states": [
+    "MD"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "supply-chain-facilities",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/intuitive-machines/logistics-and-mechanisms-engineering-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Intuitive Machines",
+   "title": "Lunar Lander Mission Operations Intern",
+   "location": "Houston, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "launch-mission-ops",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/intuitive-machines/lunar-lander-mission-operations-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Intuitive Machines",
+   "title": "Satellite Mission Operations Intern \u2013 Altus",
+   "location": "Houston, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "launch-mission-ops",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/intuitive-machines/satellite-mission-operations-intern-altus?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Intuitive Machines",
+   "title": "Guidance, Navigation & Controls (GNC) Intern",
+   "location": "Houston, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "gnc-flight-software",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/intuitive-machines/guidance-navigation-controls-gnc-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Thales Alenia Space",
+   "title": "STAGE - Ing\u00e9nieur de D\u00e9veloppement logiciel Bancs de test - F/H",
+   "location": "Toulouse, Haute-Garonne, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "ground-software",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-de-developpement-logiciel-bancs-de-test-f-h?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ArianeGroup",
+   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur Mat\u00e9riaux et Proc\u00e9d\u00e9s - Composite oxyde pour application spatiale",
+   "location": "Le Haillan, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-materiaux-et-procedes-composite-oxyde-pour-application-spatiale?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ArianeGroup",
+   "title": "Internship and Masterthesis (m/f/d) in the Area of Large Language Model (LLM) for automation of production processes",
+   "location": "Bremen, Germany",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "manufacturing",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/arianegroup/internship-and-masterthesis-m-f-d-in-the-area-of-large-language-model-llm-for-automation?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ArianeGroup",
+   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur en Syst\u00e8me embarqu\u00e9 / r\u00e9seau de neurone sur FPGA",
+   "location": "Les Mureaux, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-11-13",
+   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-en-systeme-embarque-reseau-de-neurone-sur-fpga?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Muon Space",
@@ -60,14 +164,13 @@
   {
    "company": "Lockheed Martin",
    "title": "Software Engineer Intern - Summer 2027",
-   "location": "King of Prussia, PA and 3 more",
+   "location": "King of Prussia, PA and 1 more",
    "in_us": true,
    "states": [
     "PA",
-    "CO",
-    "CA"
+    "CO"
    ],
-   "pay": "$20.14\u2013$35.19/hr",
+   "pay": "$20.14\u2013$31.67/hr",
    "term": "Summer 2027",
    "field": "ground-software",
    "posted": "2026-11-12",
@@ -418,7 +521,7 @@
   },
   {
    "company": "ArianeGroup",
-   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieure en M\u00e9canique spatiale et IA - Surveillance de l\u2019espace",
+   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur en M\u00e9canique spatiale et IA - Surveillance de l\u2019espace",
    "location": "Les Mureaux, France",
    "in_us": false,
    "states": [],
@@ -426,7 +529,7 @@
    "term": null,
    "field": "gnc-flight-software",
    "posted": "2026-11-12",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieure-en-mecanique-spatiale-et-ia-surveillance-de-l-espace?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-en-mecanique-spatiale-et-ia-surveillance-de-l-espace?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "ArianeGroup",
@@ -482,6 +585,20 @@
   },
   {
    "company": "Lockheed Martin",
+   "title": "Cyber Software Engineer Intern - Summer 2027",
+   "location": "Herndon, VA",
+   "in_us": true,
+   "states": [
+    "VA"
+   ],
+   "pay": "$22.66\u2013$31.67/hr",
+   "term": "Summer 2027",
+   "field": "ground-software",
+   "posted": "2026-11-11",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/cyber-software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
    "title": "Computer/Software Engineering Intern",
    "location": "Littleton, CO",
    "in_us": true,
@@ -520,18 +637,6 @@
    "field": "other",
    "posted": "2026-11-11",
    "url": "https://spacejobs.now/jobs/the-exploration-company/eclss-v-v-engineer-intern?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Isar Aerospace",
-   "title": "Intern AI & Data Transformation",
-   "location": "Parsdorf, Bavaria, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "other",
-   "posted": "2026-11-11",
-   "url": "https://spacejobs.now/jobs/isar-aerospace/intern-ai-data-transformation?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Constellr",
@@ -586,6 +691,20 @@
    "field": "other",
    "posted": "2026-11-10",
    "url": "https://spacejobs.now/jobs/lockheed-martin/ai-ml-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "DevSecOps Engineering Intern - Summer 2027",
+   "location": "King of Prussia, PA",
+   "in_us": true,
+   "states": [
+    "PA"
+   ],
+   "pay": "$22.66\u2013$31.67/hr",
+   "term": "Summer 2027",
+   "field": "other",
+   "posted": "2026-11-10",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/devsecops-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Lockheed Martin",
@@ -1490,18 +1609,6 @@
    "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-gnc-developpement-d-algorithmes-de-controle-en-presence-d?utm_source=github&utm_medium=internship-list"
   },
   {
-   "company": "ArianeGroup",
-   "title": "STAGE - Ing\u00e9nieur analyse des performances syst\u00e8me d'un lanceur r\u00e9utilisable",
-   "location": "Les Mureaux, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "launch-mission-ops",
-   "posted": "2026-11-06",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieur-analyse-des-performances-systeme-d-un-lanceur-reutilisable?utm_source=github&utm_medium=internship-list"
-  },
-  {
    "company": "Airbus Defence and Space",
    "title": "STAGE 2027 PMO \u2013 Optimisation de la phase d'appel d'offres ( h/f)",
    "location": "Toulouse Area, France",
@@ -2182,20 +2289,6 @@
    "field": "systems-test",
    "posted": "2026-11-02",
    "url": "https://spacejobs.now/jobs/orbion-space-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Viasat",
-   "title": "Digital and Programmable Logic Engineer Intern",
-   "location": "Tempe, AZ",
-   "in_us": true,
-   "states": [
-    "AZ"
-   ],
-   "pay": "$25.96\u2013$67.07/hr",
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-11-02",
-   "url": "https://spacejobs.now/jobs/viasat/digital-and-programmable-logic-engineer-intern?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -5376,258 +5469,6 @@
    "url": "https://spacejobs.now/jobs/iridium/iridium-systems-mission-operations-internship-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
-   "company": "United Launch Alliance",
-   "title": "Finance & Business Internship Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "business-programs",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/finance-business-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Government & Political Science Internship - Summer 2027",
-   "location": "Arlington, VA",
-   "in_us": true,
-   "states": [
-    "VA"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "business-programs",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/government-political-science-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Human Resources Internship - Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "business-programs",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/human-resources-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Video Editing Internship Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "business-programs",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/video-editing-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Cyber Security Internship - Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "ground-software",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/cyber-security-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Information Technology Internship Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "ground-software",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/information-technology-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Software Engineering Internship Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "ground-software",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Composite Engineering Internship - Summer 2027",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/composite-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Material and Process Engineering Internship Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/material-and-process-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Mechanical Engineering Internship - Summer 2027",
-   "location": "Cape Canaveral, FL",
-   "in_us": true,
-   "states": [
-    "FL"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/mechanical-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Industrial Engineering Internship - Summer 2027",
-   "location": "Cape Canaveral, FL",
-   "in_us": true,
-   "states": [
-    "FL"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "manufacturing",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/industrial-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Weld Engineering Internship - Summer 2027",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "manufacturing",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/weld-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Avionics & Electrical Engineering Internship Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "avionics-electrical",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/avionics-electrical-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Quality Engineering Internship Summer 2027",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "quality-safety",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/quality-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Civil Engineering Internship - Summer 2027",
-   "location": "Cape Canaveral, FL",
-   "in_us": true,
-   "states": [
-    "FL"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "supply-chain-facilities",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/civil-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Logistics & Transportation Internship - Summer 2027",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "supply-chain-facilities",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/logistics-transportation-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Material Requirements Planning Specialist (MRP) Internship - Summer 2027",
-   "location": "Decatur, AL",
-   "in_us": true,
-   "states": [
-    "AL"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "supply-chain-facilities",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/material-requirements-planning-specialist-mrp-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "United Launch Alliance",
-   "title": "Supply Chain Internship - Summer 2027",
-   "location": "Centennial, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$23.10\u2013$37.95/hr",
-   "term": "Summer 2027",
-   "field": "supply-chain-facilities",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/united-launch-alliance/supply-chain-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
    "company": "Loft Orbital",
    "title": "Summer 2027 Internship \u2013 Thermal & Manufacturing Engineering",
    "location": "Golden, CO",
@@ -6709,7 +6550,7 @@
   {
    "company": "ArianeGroup",
    "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur en supply chain - Projet logistique industrielle",
-   "location": "Le Haillan, France and 1 more",
+   "location": "Le Haillan, France",
    "in_us": false,
    "states": [],
    "pay": null,
@@ -7071,18 +6912,6 @@
    "field": "systems-test",
    "posted": "2026-10-26",
    "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-en-amelioration-des-methodes-d-exploitation-de-donnees-d-essais?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "ArianeGroup",
-   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur Syst\u00e8me a\u00e9ronautique et espace",
-   "location": "Les Mureaux, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-26",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-systeme-aeronautique-et-espace?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "ArianeGroup",
@@ -9175,7 +9004,7 @@
   {
    "company": "ArianeGroup",
    "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur CND",
-   "location": "Le Haillan, France and 1 more",
+   "location": "Vernon, France",
    "in_us": false,
    "states": [],
    "pay": null,
@@ -12887,20 +12716,6 @@
    "field": "propulsion",
    "posted": "2026-09-09",
    "url": "https://spacejobs.now/jobs/rocket-lab/turbomachinery-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Rocket Lab",
-   "title": "Turbomachinery Intern Spring 2027",
-   "location": "Long Beach, CA",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$28.00/hr",
-   "term": "Spring 2027",
-   "field": "propulsion",
-   "posted": "2026-09-09",
-   "url": "https://spacejobs.now/jobs/rocket-lab/turbomachinery-intern-spring-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Rocket Lab",
