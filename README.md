@@ -2,12 +2,12 @@
 
 Every open internship and co-op at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list), a free job board for the space industry.
 
-**471 open in the United States, 635 in Europe, Canada and Asia-Pacific, at 86 companies. 204 name Summer 2027 so far. Updated 14 Nov 2026.**
+**484 open in the United States, 634 in Europe, Canada and Asia-Pacific, at 85 companies. 222 name Summer 2027 so far. Updated 15 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
 - United States: the table below
-- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md): ESA, Airbus, Thales Alenia Space, ArianeGroup, DLR, CNES, OHB and more (635 roles)
+- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md): ESA, Airbus, Thales Alenia Space, ArianeGroup, DLR, CNES, OHB and more (634 roles)
 - Graduating? Entry-level roles have their own list: [New-Grad-Space-Jobs](https://github.com/spacejobsnow/New-Grad-Space-Jobs)
 - The same list as data: [data/internships.json](data/internships.json) (CC BY 4.0)
 
@@ -15,23 +15,23 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 ## By field
 
-- [Software and IT](https://spacejobs.now/space-internships/ground-software?utm_source=github&utm_medium=internship-list) (132)
+- [Software and IT](https://spacejobs.now/space-internships/ground-software?utm_source=github&utm_medium=internship-list) (134)
 - [Flight software and GNC](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list) (90)
-- [Mechanical, structures and thermal](https://spacejobs.now/space-internships/mechanical-structures?utm_source=github&utm_medium=internship-list) (114)
+- [Mechanical, structures and thermal](https://spacejobs.now/space-internships/mechanical-structures?utm_source=github&utm_medium=internship-list) (117)
 - [Avionics and electrical](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list) (65)
-- [RF, communications and payloads](https://spacejobs.now/space-internships/rf-communications?utm_source=github&utm_medium=internship-list) (75)
+- [RF, communications and payloads](https://spacejobs.now/space-internships/rf-communications?utm_source=github&utm_medium=internship-list) (74)
 - [Propulsion](https://spacejobs.now/space-internships/propulsion?utm_source=github&utm_medium=internship-list) (37)
-- [Systems, integration and test](https://spacejobs.now/space-internships/systems-test?utm_source=github&utm_medium=internship-list) (124)
+- [Systems, integration and test](https://spacejobs.now/space-internships/systems-test?utm_source=github&utm_medium=internship-list) (120)
 - [Launch and mission operations](https://spacejobs.now/space-internships/launch-mission-ops?utm_source=github&utm_medium=internship-list) (33)
-- [Manufacturing](https://spacejobs.now/space-internships/manufacturing?utm_source=github&utm_medium=internship-list) (70)
-- [Quality and mission assurance](https://spacejobs.now/space-internships/quality-safety?utm_source=github&utm_medium=internship-list) (62)
-- [Science, imaging and Earth data](https://spacejobs.now/space-internships/science-imaging?utm_source=github&utm_medium=internship-list) (79)
-- [Business and programs](https://spacejobs.now/space-internships/business-programs?utm_source=github&utm_medium=internship-list) (134)
-- [Supply chain and facilities](https://spacejobs.now/space-internships/supply-chain-facilities?utm_source=github&utm_medium=internship-list) (44)
+- [Manufacturing](https://spacejobs.now/space-internships/manufacturing?utm_source=github&utm_medium=internship-list) (72)
+- [Quality and mission assurance](https://spacejobs.now/space-internships/quality-safety?utm_source=github&utm_medium=internship-list) (63)
+- [Science, imaging and Earth data](https://spacejobs.now/space-internships/science-imaging?utm_source=github&utm_medium=internship-list) (80)
+- [Business and programs](https://spacejobs.now/space-internships/business-programs?utm_source=github&utm_medium=internship-list) (140)
+- [Supply chain and facilities](https://spacejobs.now/space-internships/supply-chain-facilities?utm_source=github&utm_medium=internship-list) (47)
 
 ## By state
 
-[CA](https://spacejobs.now/space-internships/california?utm_source=github&utm_medium=internship-list) (232), [CO](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list) (68), [WA](https://spacejobs.now/space-internships/washington?utm_source=github&utm_medium=internship-list) (49), [TX](https://spacejobs.now/space-internships/texas?utm_source=github&utm_medium=internship-list) (43), [VA](https://spacejobs.now/space-internships/virginia?utm_source=github&utm_medium=internship-list) (34), [MD](https://spacejobs.now/space-internships/maryland?utm_source=github&utm_medium=internship-list) (14), [FL](https://spacejobs.now/space-internships/florida?utm_source=github&utm_medium=internship-list) (13), [NM](https://spacejobs.now/space-internships/new-mexico?utm_source=github&utm_medium=internship-list) (9), [PA](https://spacejobs.now/space-internships/pennsylvania?utm_source=github&utm_medium=internship-list) (9), [AL](https://spacejobs.now/space-internships/alabama?utm_source=github&utm_medium=internship-list) (8), [AZ](https://spacejobs.now/space-internships/arizona?utm_source=github&utm_medium=internship-list) (6)
+[CA](https://spacejobs.now/space-internships/california?utm_source=github&utm_medium=internship-list) (229), [CO](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list) (75), [WA](https://spacejobs.now/space-internships/washington?utm_source=github&utm_medium=internship-list) (49), [TX](https://spacejobs.now/space-internships/texas?utm_source=github&utm_medium=internship-list) (43), [VA](https://spacejobs.now/space-internships/virginia?utm_source=github&utm_medium=internship-list) (35), [FL](https://spacejobs.now/space-internships/florida?utm_source=github&utm_medium=internship-list) (16), [MD](https://spacejobs.now/space-internships/maryland?utm_source=github&utm_medium=internship-list) (14), [AL](https://spacejobs.now/space-internships/alabama?utm_source=github&utm_medium=internship-list) (13), [NM](https://spacejobs.now/space-internships/new-mexico?utm_source=github&utm_medium=internship-list) (9), [PA](https://spacejobs.now/space-internships/pennsylvania?utm_source=github&utm_medium=internship-list) (9), [AZ](https://spacejobs.now/space-internships/arizona?utm_source=github&utm_medium=internship-list) (6)
 
 ## Deadlines ahead
 
@@ -51,7 +51,7 @@ How each program works, what it pays and who may apply, read from the employer's
 - [Summer 2027](https://spacejobs.now/space-internships/summer-2027?utm_source=github&utm_medium=internship-list), [Spring 2027](https://spacejobs.now/space-internships/spring-2027?utm_source=github&utm_medium=internship-list) and [Winter 2027](https://spacejobs.now/space-internships/winter-2027?utm_source=github&utm_medium=internship-list) lists
 - [Entry-level space jobs for new graduates](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=internship-list)
 
-## United States (471)
+## United States (484)
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
@@ -136,9 +136,7 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Orbion Space Technology** | [Engineering Intern - Summer 2027](https://spacejobs.now/jobs/orbion-space-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houghton, MI |  | Summer 2027 | Nov 2 |
 | **Lockheed Martin** | [Dev Sec Ops Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/dev-sec-ops-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Herndon, VA | $22.66–$31.67/hr | Summer 2027 | Nov 2 |
 | **The Aerospace Corporation** | [2027 Software Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-software-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  |  | Nov 2 |
-| **Northrop Grumman** | [2027 Software Engineering Intern - Colorado Springs](https://spacejobs.now/jobs/northrop-grumman/2027-software-engineering-intern-colorado-springs?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO | $24.25–$30.50/hr |  | Nov 2 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Business Admin (Academic Part Time Intern)](https://spacejobs.now/jobs/jpl/business-admin-academic-part-time-intern?utm_source=github&utm_medium=internship-list) | Pasadena, CA | $21/hr |  | Nov 2 |
-| **Northrop Grumman** | [2027 Systems Engineering Intern - Colorado Springs CO](https://spacejobs.now/jobs/northrop-grumman/2027-systems-engineering-intern-colorado-springs-co?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO | $24.25–$30.50/hr |  | Oct 31 |
 | **The Aerospace Corporation** | [2027 Space Domain Awareness Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-space-domain-awareness-graduate-intern?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO |  |  | Oct 30 |
 | **Benchmark Space Systems** | [Mechanical Analysis Engineering Intern](https://spacejobs.now/jobs/benchmark-space-systems/mechanical-analysis-engineering-intern?utm_source=github&utm_medium=internship-list) | Burlington, Vermont | $23–$26/hr |  | Oct 30 |
 | **Impulse Space** | [Enterprise Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/enterprise-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $32/hr | Summer 2027 | Oct 30 |
@@ -156,13 +154,29 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Impulse Space** | [Space Operations Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/space-operations-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Iridium** | [Iridium Software Engineering Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA | $31/hr | Summer 2027 | Oct 30 |
 | **Iridium** | [Iridium Systems & Mission Operations Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-systems-mission-operations-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA and 3 more | $31/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Finance & Business Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/finance-business-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Government & Political Science Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/government-political-science-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Arlington, VA |  | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Human Resources Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/human-resources-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Video Editing Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/video-editing-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Cyber Security Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/cyber-security-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Information Technology Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/information-technology-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Software Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Composite Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/composite-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Material and Process Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/material-and-process-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Mechanical Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/mechanical-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Industrial Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/industrial-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL |  | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Weld Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/weld-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Avionics & Electrical Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/avionics-electrical-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Quality Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/quality-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Civil Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/civil-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL |  | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Logistics & Transportation Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/logistics-transportation-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Material Requirements Planning Specialist (MRP) Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/material-requirements-planning-specialist-mrp-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027 | Oct 30 |
+| **United Launch Alliance** | [Supply Chain Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/supply-chain-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
 | **Loft Orbital** | [Summer 2027 Internship – Thermal & Manufacturing Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-thermal-manufacturing-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027 | Oct 30 |
-| **The Aerospace Corporation** | [2027 Formal Methods Researcher Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-formal-methods-researcher-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  |  | Oct 30 |
 | **The Aerospace Corporation** | [2027 Risk and Reliability Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-risk-and-reliability-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  |  | Oct 30 |
 | **Blue Origin** | [Summer 2027 Non-Destructive Test Inspector – Internship](https://spacejobs.now/jobs/blue-origin/summer-2027-non-destructive-test-inspector-internship?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $22/hr | Summer 2027 | Oct 30 |
 | **Axiom Space** | [IT Infrastructure Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/it-infrastructure-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 30 |
 | **Astranis** | [Procurement Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/procurement-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Oct 29 |
-| **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Sunnyvale, CA | $25.18–$35.19/hr |  | Oct 29 |
 | **Rocket Lab** | [Quality Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/quality-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Spring 2027 | Oct 29 |
 | **Rendezvous Robotics** | [Manufacturing and Test Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/manufacturing-and-test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Oct 29 |
 | **Benchmark Space Systems** | [Mechatronics Engineering Intern](https://spacejobs.now/jobs/benchmark-space-systems/mechatronics-engineering-intern?utm_source=github&utm_medium=internship-list) | Pleasanton, California | $24–$27/hr |  | Oct 29 |
@@ -385,7 +399,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Astranis** | [Software Engineer Backend Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/software-engineer-backend-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 22 |
 | **Astranis** | [Hardware Test Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/hardware-test-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 22 |
 | **The Aerospace Corporation** | [2027 Modeling and Simulation Graduate Intern - Communication and Ground Architectures](https://spacejobs.now/jobs/aerospace-corporation/2027-modeling-and-simulation-graduate-intern-communication-and-ground-architectures?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  |  | Sep 22 |
-| **Blue Origin** | [Electronics/Electrical Systems Engineer Co-Op (Fixed Term)](https://spacejobs.now/jobs/blue-origin/electronics-electrical-systems-engineer-co-op-fixed-term?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $22.50–$31.50/hr |  | Sep 22 |
 | **Astranis** | [Assembly, Integration, and Test Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/assembly-integration-and-test-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 21 |
 | **Astranis** | [Assembly, Integration, and Test Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/assembly-integration-and-test-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 21 |
 | **Cowboy Space** | [Intern, Software Engineering, 2027](https://spacejobs.now/jobs/cowboy-space/intern-software-engineering-2027?utm_source=github&utm_medium=internship-list) | San Carlos, California | $1,800/wk |  | Sep 21 |

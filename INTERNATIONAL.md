@@ -1,6 +1,6 @@
 # Space internships in Europe, Canada and Asia-Pacific
 
-635 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 14 Nov 2026.
+634 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 15 Nov 2026.
 
 [Back to the United States list](README.md)
 
@@ -359,7 +359,6 @@
 | **CNES (French space agency)** | [STAGE - Ingénieur.e modélisation des systèmes propulsifs H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-modelisation-des-systemes-propulsifs-h-f?utm_source=github&utm_medium=internship-list) | Paris, France |  |  | Oct 30 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e analyse des risques en opérations spatiales H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-analyse-des-risques-en-operations-spatiales-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
 | **CNES (French space agency)** | [STAGE – Performance et couverture du segment sol VHF SVOM H/F](https://spacejobs.now/jobs/cnes/stage-performance-et-couverture-du-segment-sol-vhf-svom-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
-| **Boeing** | [Working student / Werkstudent - Flight Deck / Systems Engineering (m/f/d)](https://spacejobs.now/jobs/boeing/working-student-werkstudent-flight-deck-systems-engineering-m-f-d?utm_source=github&utm_medium=internship-list) | Neu-Isenburg, Germany |  |  | Oct 30 |
 | **Thales Alenia Space** | [Stage Ingénieur Développement, Automatisation outils informatiques – (H/F)](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-developpement-automatisation-outils-informatiques-h-f?utm_source=github&utm_medium=internship-list) | Cannes, Alpes-Maritimes, France |  |  | Oct 29 |
 | **Thales Alenia Space** | [Stage – Ingénieur Informatique – Conception et déploiement d’un système informatique pour observation de satellites (H/F)](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-informatique-conception-et-deploiement-d-un-systeme-informatique-pour?utm_source=github&utm_medium=internship-list) | Cannes, Alpes-Maritimes, France |  |  | Oct 29 |
 | **Thales Alenia Space** | [Stage – Ingénieur optique – Caractérisation filtres spectraux – (H/F)](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-optique-caracterisation-filtres-spectraux-h-f?utm_source=github&utm_medium=internship-list) | Cannes, Alpes-Maritimes, France |  |  | Oct 29 |
