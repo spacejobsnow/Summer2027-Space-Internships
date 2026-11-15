@@ -80,6 +80,56 @@ def posted(job):
         return ""
 
 
+STATE_LABEL = {"AL": "Alabama", "AZ": "Arizona", "CA": "California", "CO": "Colorado", "FL": "Florida", "MD": "Maryland",
+               "NM": "New Mexico", "PA": "Pennsylvania", "TX": "Texas", "VA": "Virginia", "WA": "Washington"}
+
+
+def page(path, title, description, lines):
+    full = os.path.join(ROOT, path)
+    os.makedirs(os.path.dirname(full), exist_ok=True)
+    front = ["---", f"title: \"{title}\"", f"description: \"{description}\"", "---", ""]
+    with open(full, "w") as f:
+        f.write("\n".join(front + lines + [""]))
+
+
+PAGES_BASE = "https://spacejobsnow.github.io/Summer2027-Space-Internships/"
+
+
+def write_pages(by_field, by_state, today):
+    """One page per field and per state (US roles only), so a search for propulsion internships or space internships in
+    Texas finds a list of exactly those; every row opens the role's page on SpaceJobs.Now."""
+    for slug, label in FIELDS:
+        jobs = by_field.get(slug) or []
+        if not jobs:
+            continue
+        companies = sorted({j["company"] for j in jobs}, key=lambda c: -sum(1 for j in jobs if j["company"] == c))
+        title = f"{label} internships at space companies (2027)"
+        desc = f"{len(jobs)} open {label.lower()} internships and co-ops at space companies in the US ({', '.join(companies[:4])} and more), updated daily."
+        page(f"fields/{slug}.md", title, desc, [
+            f"# {title}", "",
+            f"**{len(jobs)} open in the United States at {len(companies)} companies, most at {', '.join(companies[:5])}. Updated {today}.**", "",
+            f"Read each night from each company's own careers site by [SpaceJobs.Now]({link('/space-internships/' + slug)}), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.", "",
+            "[All space internships](../README.md) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)", "",
+        ] + rows(jobs))
+    written = [f"fields/{slug}" for slug, _ in FIELDS if by_field.get(slug)]
+    for code, jobs in by_state.items():
+        if not jobs:
+            continue
+        written.append(f"states/{STATE_NAMES[code]}")
+        name = STATE_LABEL[code]
+        companies = sorted({j["company"] for j in jobs}, key=lambda c: -sum(1 for j in jobs if j["company"] == c))
+        title = f"Space and aerospace internships in {name} (2027)"
+        desc = f"{len(jobs)} open space internships and co-ops in {name} ({', '.join(companies[:4])} and more), updated daily."
+        page(f"states/{STATE_NAMES[code]}.md", title, desc, [
+            f"# {title}", "",
+            f"**{len(jobs)} open at {len(companies)} companies, most at {', '.join(companies[:5])}. Updated {today}.**", "",
+            f"Read each night from each company's own careers site by [SpaceJobs.Now]({link('/space-internships/' + STATE_NAMES[code])}), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.", "",
+            "[All space internships](../README.md) · [By field](../README.md#by-field) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)", "",
+        ] + rows(jobs))
+    with open(os.path.join(ROOT, "data", "pages.txt"), "w") as f:
+        f.write("\n".join([PAGES_BASE, PAGES_BASE + "INTERNATIONAL"] + [PAGES_BASE + w for w in written]) + "\n")
+
+
 def rows(jobs):
     out = ["| Company | Role | Location | Pay | Term | Posted |", "|---|---|---|---|---|---|"]
     for j in jobs:
@@ -125,9 +175,11 @@ def main():
         "## By field",
         "",
     ]
-    head += [f"- [{label}]({link('/space-internships/' + slug)}) ({kinds[slug]})" for slug, label in FIELDS if kinds.get(slug)]
+    us_by_field = {slug: [j for j in us if j.get("kind") == slug] for slug, _ in FIELDS}
+    us_by_state = {code: [j for j in us if code in (j.get("states") or [])] for code in STATE_NAMES}
+    head += [f"- [{label}](fields/{slug}.md) ({len(us_by_field[slug])} in the US)" for slug, label in FIELDS if us_by_field.get(slug)]
     head += ["", "## By state", ""]
-    head.append(", ".join(f"[{code}]({link('/space-internships/' + STATE_NAMES[code])}) ({n})" for code, n in sorted(states.items(), key=lambda s: -s[1]) if code in STATE_NAMES))
+    head.append(", ".join(f"[{STATE_LABEL[code]}](states/{STATE_NAMES[code]}.md) ({len(us_by_state[code])})" for code in sorted(us_by_state, key=lambda c: -len(us_by_state[c])) if us_by_state[code]))
     today_iso = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     deadlines = sorted((d, name, path, what) for name, path, d, what in GUIDES if d and d >= today_iso)
     if deadlines:
@@ -167,6 +219,7 @@ def main():
     ]
     with open(os.path.join(ROOT, "INTERNATIONAL.md"), "w") as f:
         f.write("\n".join(intl + rows(abroad) + [""]))
+    write_pages(us_by_field, us_by_state, today)
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     data = [{"company": j["company"], "title": j["title"], "location": j.get("place"), "in_us": in_us(j), "states": j.get("states") or [],
              "pay": j.get("pay"), "term": term(j) or None, "field": j.get("kind"), "posted": (j.get("postedAt") or "")[:10], "url": link(j["path"])} for j in ordered]

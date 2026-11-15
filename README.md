@@ -15,23 +15,23 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 ## By field
 
-- [Software and IT](https://spacejobs.now/space-internships/ground-software?utm_source=github&utm_medium=internship-list) (134)
-- [Flight software and GNC](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list) (90)
-- [Mechanical, structures and thermal](https://spacejobs.now/space-internships/mechanical-structures?utm_source=github&utm_medium=internship-list) (117)
-- [Avionics and electrical](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list) (65)
-- [RF, communications and payloads](https://spacejobs.now/space-internships/rf-communications?utm_source=github&utm_medium=internship-list) (74)
-- [Propulsion](https://spacejobs.now/space-internships/propulsion?utm_source=github&utm_medium=internship-list) (37)
-- [Systems, integration and test](https://spacejobs.now/space-internships/systems-test?utm_source=github&utm_medium=internship-list) (120)
-- [Launch and mission operations](https://spacejobs.now/space-internships/launch-mission-ops?utm_source=github&utm_medium=internship-list) (33)
-- [Manufacturing](https://spacejobs.now/space-internships/manufacturing?utm_source=github&utm_medium=internship-list) (72)
-- [Quality and mission assurance](https://spacejobs.now/space-internships/quality-safety?utm_source=github&utm_medium=internship-list) (63)
-- [Science, imaging and Earth data](https://spacejobs.now/space-internships/science-imaging?utm_source=github&utm_medium=internship-list) (80)
-- [Business and programs](https://spacejobs.now/space-internships/business-programs?utm_source=github&utm_medium=internship-list) (140)
-- [Supply chain and facilities](https://spacejobs.now/space-internships/supply-chain-facilities?utm_source=github&utm_medium=internship-list) (47)
+- [Software and IT](fields/ground-software.md) (58 in the US)
+- [Flight software and GNC](fields/gnc-flight-software.md) (42 in the US)
+- [Mechanical, structures and thermal](fields/mechanical-structures.md) (62 in the US)
+- [Avionics and electrical](fields/avionics-electrical.md) (38 in the US)
+- [RF, communications and payloads](fields/rf-communications.md) (19 in the US)
+- [Propulsion](fields/propulsion.md) (22 in the US)
+- [Systems, integration and test](fields/systems-test.md) (62 in the US)
+- [Launch and mission operations](fields/launch-mission-ops.md) (12 in the US)
+- [Manufacturing](fields/manufacturing.md) (28 in the US)
+- [Quality and mission assurance](fields/quality-safety.md) (13 in the US)
+- [Science, imaging and Earth data](fields/science-imaging.md) (13 in the US)
+- [Business and programs](fields/business-programs.md) (51 in the US)
+- [Supply chain and facilities](fields/supply-chain-facilities.md) (26 in the US)
 
 ## By state
 
-[CA](https://spacejobs.now/space-internships/california?utm_source=github&utm_medium=internship-list) (229), [CO](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list) (75), [WA](https://spacejobs.now/space-internships/washington?utm_source=github&utm_medium=internship-list) (49), [TX](https://spacejobs.now/space-internships/texas?utm_source=github&utm_medium=internship-list) (43), [VA](https://spacejobs.now/space-internships/virginia?utm_source=github&utm_medium=internship-list) (35), [FL](https://spacejobs.now/space-internships/florida?utm_source=github&utm_medium=internship-list) (16), [MD](https://spacejobs.now/space-internships/maryland?utm_source=github&utm_medium=internship-list) (14), [AL](https://spacejobs.now/space-internships/alabama?utm_source=github&utm_medium=internship-list) (13), [NM](https://spacejobs.now/space-internships/new-mexico?utm_source=github&utm_medium=internship-list) (9), [PA](https://spacejobs.now/space-internships/pennsylvania?utm_source=github&utm_medium=internship-list) (9), [AZ](https://spacejobs.now/space-internships/arizona?utm_source=github&utm_medium=internship-list) (6)
+[California](states/california.md) (229), [Colorado](states/colorado.md) (75), [Washington](states/washington.md) (49), [Texas](states/texas.md) (43), [Virginia](states/virginia.md) (35), [Florida](states/florida.md) (16), [Maryland](states/maryland.md) (14), [Alabama](states/alabama.md) (13), [New Mexico](states/new-mexico.md) (9), [Pennsylvania](states/pennsylvania.md) (9), [Arizona](states/arizona.md) (6)
 
 ## Deadlines ahead
 

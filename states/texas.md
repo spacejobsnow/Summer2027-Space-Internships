@@ -1,0 +1,58 @@
+---
+title: "Space and aerospace internships in Texas (2027)"
+description: "43 open space internships and co-ops in Texas (Axiom Space, Firefly Aerospace, Intuitive Machines, Amentum and more), updated daily."
+---
+
+# Space and aerospace internships in Texas (2027)
+
+**43 open at 10 companies, most at Axiom Space, Firefly Aerospace, Intuitive Machines, Amentum, Blue Origin. Updated 15 Nov 2026.**
+
+Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/texas?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
+
+[All space internships](../README.md) · [By field](../README.md#by-field) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)
+
+| Company | Role | Location | Pay | Term | Posted |
+|---|---|---|---|---|---|
+| **Intuitive Machines** | [Lunar Lander Mission Operations Intern](https://spacejobs.now/jobs/intuitive-machines/lunar-lander-mission-operations-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 13 |
+| **Intuitive Machines** | [Satellite Mission Operations Intern – Altus](https://spacejobs.now/jobs/intuitive-machines/satellite-mission-operations-intern-altus?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 13 |
+| **Intuitive Machines** | [Guidance, Navigation & Controls (GNC) Intern](https://spacejobs.now/jobs/intuitive-machines/guidance-navigation-controls-gnc-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 13 |
+| **Intuitive Machines** | [Marketing & Communications Operations Intern](https://spacejobs.now/jobs/intuitive-machines/marketing-communications-operations-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 12 |
+| **Intuitive Machines** | [Propulsion Intern - Aerospace Engineering](https://spacejobs.now/jobs/intuitive-machines/propulsion-intern-aerospace-engineering?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 12 |
+| **Intuitive Machines** | [Assembly Integration & Test Intern](https://spacejobs.now/jobs/intuitive-machines/assembly-integration-test-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 12 |
+| **Axiom Space** | [Contracts Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/contracts-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Nov 12 |
+| **Venus Aerospace** | [Summer 2027 Internship](https://spacejobs.now/jobs/venus-aerospace/summer-2027-internship?utm_source=github&utm_medium=internship-list) | Houston, TX | $26/hr to $30/hr | Summer 2027 | Nov 9 |
+| **CesiumAstro** | [Summer 2027 - Embedded Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-embedded-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
+| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
+| **Barrios Technology** | [Data and Computer Eng/Sci Intern - Summer 2027](https://spacejobs.now/jobs/barrios-technology/data-and-computer-eng-sci-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Nov 9 |
+| **Barrios Technology** | [Engineering Intern - Summer 2027](https://spacejobs.now/jobs/barrios-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Nov 9 |
+| **Axiom Space** | [IT Infrastructure Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/it-infrastructure-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 30 |
+| **Axiom Space** | [Human Resources Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/human-resources-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 29 |
+| **Axiom Space** | [Enterprise Data Analyst Intern, Power BI & Data Quality (Summer 2027)](https://spacejobs.now/jobs/axiom-space/enterprise-data-analyst-intern-power-bi-data-quality-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 29 |
+| **Amentum** | [SkillBridge Intern - NASA Front Door Support](https://spacejobs.now/jobs/amentum/skillbridge-intern-nasa-front-door-support?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Oct 29 |
+| **Amentum** | [Spring 2027 Intern - Structural Dynamics Engineer](https://spacejobs.now/jobs/amentum/spring-2027-intern-structural-dynamics-engineer?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Spring 2027 | Oct 28 |
+| **Firefly Aerospace** | [Internship - Ground Support Equipment - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-ground-support-equipment-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 23 |
+| **Firefly Aerospace** | [Internship - Mechanical Engineering - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-mechanical-engineering-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 23 |
+| **Firefly Aerospace** | [Internship - Software Engineering - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-software-engineering-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 20 |
+| **Firefly Aerospace** | [Internship - Launch Site Development - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-launch-site-development-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 20 |
+| **Firefly Aerospace** | [Internship - Materials & Process - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-materials-process-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 20 |
+| **Firefly Aerospace** | [Internship - Propulsion Manufacturing - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-propulsion-manufacturing-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 20 |
+| **Firefly Aerospace** | [Internship - Structures Manufacturing (Composites) - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-structures-manufacturing-composites-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 20 |
+| **Firefly Aerospace** | [Internship - Electrical Engineering - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-electrical-engineering-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 20 |
+| **Firefly Aerospace** | [Internship - Engine Test - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-engine-test-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 20 |
+| **Firefly Aerospace** | [Internship - Mission Operations (Spacecraft) - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-mission-operations-spacecraft-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 20 |
+| **Axiom Space** | [Communications & Marketing Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/communications-marketing-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Legal Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/legal-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Systems Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Mechanical/Aerospace Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/mechanical-aerospace-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Production & Logistics Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/production-logistics-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Supply Chain Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/supply-chain-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Mission Operations Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/mission-operations-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Blue Origin** | [Summer 2027 Test Engineering Internship - Graduate](https://spacejobs.now/jobs/blue-origin/summer-2027-test-engineering-internship-graduate?utm_source=github&utm_medium=internship-list) | Van Horn, TX | $38/hr | Summer 2027 | Oct 13 |
+| **Amentum** | [Performance Engineering Intern](https://spacejobs.now/jobs/amentum/performance-engineering-intern?utm_source=github&utm_medium=internship-list) | Houston, TX | $24.52/hr |  | Oct 5 |
+| **CesiumAstro** | [Summer 2027 - Manufacturing Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-manufacturing-internship?utm_source=github&utm_medium=internship-list) | Austin, TX |  | Summer 2027 | Sep 16 |
+| **E-Space** | [E-Space 2027 Summer Internship, Arlington TX](https://spacejobs.now/jobs/e-space/e-space-2027-summer-internship-arlington-tx?utm_source=github&utm_medium=internship-list) | Arlington, TX |  |  | Sep 11 |
+| **The Exploration Company** | [Summer 2027 Internship (Engineering)](https://spacejobs.now/jobs/the-exploration-company/summer-2027-internship-engineering?utm_source=github&utm_medium=internship-list) | Houston, Texas |  | Summer 2027 | Sep 3 |
+| **The Exploration Company** | [Spring 2027 Internship (Engineering)](https://spacejobs.now/jobs/the-exploration-company/spring-2027-internship-engineering?utm_source=github&utm_medium=internship-list) | Houston, Texas |  | Spring 2027 | Sep 3 |
+| **Blue Origin** | [2026 Intern Conversion - Fluid Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-fluid-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $81,313–$113,838/yr |  | Aug 12 |
+| **Blue Origin** | [2026 Intern Conversion - Guidance, Navigation & Control Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-guidance-navigation-control-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $87,816–$122,942/yr |  | Aug 11 |
