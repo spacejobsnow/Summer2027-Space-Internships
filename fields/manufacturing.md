@@ -1,11 +1,11 @@
 ---
 title: "Manufacturing internships at space companies (2027)"
-description: "28 open manufacturing internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, Astranis, United Launch Alliance and more), updated daily."
+description: "28 open manufacturing internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, Astranis, Rendezvous Robotics and more), updated daily."
 ---
 
 # Manufacturing internships at space companies (2027)
 
-**28 open in the United States at 16 companies, most at Blue Origin, Rocket Lab, Astranis, United Launch Alliance, Impulse Space. Updated 15 Nov 2026.**
+**28 open in the United States at 16 companies, most at Blue Origin, Rocket Lab, Astranis, Rendezvous Robotics, Firefly Aerospace. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/manufacturing?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

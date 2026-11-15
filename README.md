@@ -33,6 +33,10 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 [California](states/california.md) (229), [Colorado](states/colorado.md) (75), [Washington](states/washington.md) (49), [Texas](states/texas.md) (43), [Virginia](states/virginia.md) (35), [Florida](states/florida.md) (16), [Maryland](states/maryland.md) (14), [Alabama](states/alabama.md) (13), [New Mexico](states/new-mexico.md) (9), [Pennsylvania](states/pennsylvania.md) (9), [Arizona](states/arizona.md) (6)
 
+## By company
+
+[The Aerospace Corporation](companies/aerospace-corporation.md) (51), [Blue Origin](companies/blue-origin.md) (48), [Astranis](companies/astranis.md) (47), [Rocket Lab](companies/rocket-lab.md) (36), [Lockheed Martin](companies/lockheed-martin.md) (29), [Varda Space Industries](companies/varda.md) (27), [United Launch Alliance](companies/united-launch-alliance.md) (18), [Muon Space](companies/muon-space.md) (16), [Impulse Space](companies/impulse-space.md) (14), [Axiom Space](companies/axiom-space.md) (12), [CesiumAstro](companies/cesiumastro.md) (12), [SpaceX](companies/spacex.md) (12), [Virginia Space](companies/virginia-space.md) (11), [Lunar Outpost](companies/lunar-outpost.md) (11), [Firefly Aerospace](companies/firefly-aerospace.md) (10), [Intuitive Machines](companies/intuitive-machines.md) (9), [Ursa Major](companies/ursa-major.md) (8), [Rendezvous Robotics](companies/rendezvous-robotics.md) (8), [Benchmark Space Systems](companies/benchmark-space-systems.md) (7), [AeroVironment (AV)](companies/aerovironment.md) (7), [Inversion Space](companies/inversion-space.md) (7), [Voyager Technologies](companies/voyager.md) (7), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (6), [Apex](companies/apex.md) (5), [Reflect Orbital](companies/reflect-orbital.md) (5)
+
 ## Deadlines ahead
 
 - **30 Nov 2026**: [ESA internships (ESA member state citizens)](https://spacejobs.now/employers/esa/internships?utm_source=github&utm_medium=internship-list), 2027 student internships

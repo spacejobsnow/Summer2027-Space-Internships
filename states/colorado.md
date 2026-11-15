@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "75 open space internships and co-ops in Colorado (Lockheed Martin, Lunar Outpost, United Launch Alliance, Ursa Major and more), updated daily."
+description: "75 open space internships and co-ops in Colorado (Lockheed Martin, Lunar Outpost, United Launch Alliance, Rendezvous Robotics and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**75 open at 11 companies, most at Lockheed Martin, Lunar Outpost, United Launch Alliance, Ursa Major, CesiumAstro. Updated 15 Nov 2026.**
+**75 open at 11 companies, most at Lockheed Martin, Lunar Outpost, United Launch Alliance, Rendezvous Robotics, Ursa Major. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

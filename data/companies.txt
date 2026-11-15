@@ -1,0 +1,25 @@
+The Aerospace Corporation	aerospace-corporation	51
+Blue Origin	blue-origin	48
+Astranis	astranis	47
+Rocket Lab	rocket-lab	36
+Lockheed Martin	lockheed-martin	29
+Varda Space Industries	varda	27
+United Launch Alliance	united-launch-alliance	18
+Muon Space	muon-space	16
+Impulse Space	impulse-space	14
+Axiom Space	axiom-space	12
+CesiumAstro	cesiumastro	12
+SpaceX	spacex	12
+Virginia Space	virginia-space	11
+Lunar Outpost	lunar-outpost	11
+Firefly Aerospace	firefly-aerospace	10
+Intuitive Machines	intuitive-machines	9
+Ursa Major	ursa-major	8
+Rendezvous Robotics	rendezvous-robotics	8
+Benchmark Space Systems	benchmark-space-systems	7
+AeroVironment (AV)	aerovironment	7
+Inversion Space	inversion-space	7
+Voyager Technologies	voyager	7
+NASA Jet Propulsion Laboratory (JPL)	jpl	6
+Apex	apex	5
+Reflect Orbital	reflect-orbital	5
