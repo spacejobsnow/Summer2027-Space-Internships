@@ -1,6 +1,6 @@
 ---
 title: "AeroVironment (AV) internships 2027: open roles, pay and how to apply"
-description: "7 open AeroVironment (AV) internships and co-ops in the US (systems, integration and test, quality and mission assurance, business and programs), updated daily."
+description: "7 open AeroVironment (AV) internships and co-ops in the US (Systems, integration and test; Mechanical, structures and thermal; Quality and mission assurance), updated daily."
 ---
 
 # AeroVironment (AV) internships (2027)

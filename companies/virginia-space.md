@@ -1,6 +1,6 @@
 ---
 title: "Virginia Space internships 2027: open roles, pay and how to apply"
-description: "11 open Virginia Space internships and co-ops in the US (business and programs, supply chain and facilities, software and it), updated daily."
+description: "11 open Virginia Space internships and co-ops in the US (Business and programs; Supply chain and facilities; Mechanical, structures and thermal), updated daily."
 ---
 
 # Virginia Space internships (2027)

@@ -1,6 +1,6 @@
 ---
 title: "Muon Space internships 2027: open roles, pay and how to apply"
-description: "16 open Muon Space internships and co-ops in the US (systems, integration and test, software and it, business and programs), updated daily."
+description: "16 open Muon Space internships and co-ops in the US (Systems, integration and test; Business and programs; Software and IT), updated daily."
 ---
 
 # Muon Space internships (2027)

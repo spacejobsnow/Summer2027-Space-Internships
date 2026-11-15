@@ -1,6 +1,6 @@
 ---
 title: "Firefly Aerospace internships 2027: open roles, pay and how to apply"
-description: "10 open Firefly Aerospace internships and co-ops in the US (mechanical, structures and thermal, launch and mission operations, manufacturing), updated daily."
+description: "10 open Firefly Aerospace internships and co-ops in the US (Mechanical, structures and thermal; Launch and mission operations; Manufacturing), updated daily."
 ---
 
 # Firefly Aerospace internships (2027)

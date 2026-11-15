@@ -144,10 +144,10 @@ def write_company_pages(us, today):
             continue
         name = jobs[0]["company"]
         jobs = sorted(jobs, key=lambda j: j.get("postedAt") or "", reverse=True)
-        fields = sorted({j.get("kind") for j in jobs if j.get("kind")}, key=lambda k: -sum(1 for j in jobs if j.get("kind") == k))
         labels = dict(FIELDS)
+        fields = sorted({j.get("kind") for j in jobs if j.get("kind") in labels}, key=lambda k: -sum(1 for j in jobs if j.get("kind") == k))
         title = f"{name} internships 2027: open roles, pay and how to apply"
-        desc = f"{len(jobs)} open {name} internships and co-ops in the US ({', '.join(labels.get(f, f) for f in fields[:3]).lower()}), updated daily."
+        desc = f"{len(jobs)} open {name} internships and co-ops in the US" + (f" ({'; '.join(labels[f] for f in fields[:3])})" if fields else "") + ", updated daily."
         guide = f"/employers/{slug}/internships"
         page(f"companies/{slug}.md", title, desc, [
             f"# {name} internships (2027)", "",

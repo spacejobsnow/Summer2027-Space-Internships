@@ -1,6 +1,6 @@
 ---
 title: "Rendezvous Robotics internships 2027: open roles, pay and how to apply"
-description: "8 open Rendezvous Robotics internships and co-ops in the US (flight software and gnc, manufacturing, mechanical, structures and thermal), updated daily."
+description: "8 open Rendezvous Robotics internships and co-ops in the US (Flight software and GNC; Mechanical, structures and thermal; Manufacturing), updated daily."
 ---
 
 # Rendezvous Robotics internships (2027)

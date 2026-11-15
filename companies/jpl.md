@@ -1,6 +1,6 @@
 ---
 title: "NASA Jet Propulsion Laboratory (JPL) internships 2027: open roles, pay and how to apply"
-description: "6 open NASA Jet Propulsion Laboratory (JPL) internships and co-ops in the US (business and programs, avionics and electrical), updated daily."
+description: "6 open NASA Jet Propulsion Laboratory (JPL) internships and co-ops in the US (Business and programs; Avionics and electrical), updated daily."
 ---
 
 # NASA Jet Propulsion Laboratory (JPL) internships (2027)

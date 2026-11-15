@@ -1,6 +1,6 @@
 ---
 title: "Inversion Space internships 2027: open roles, pay and how to apply"
-description: "7 open Inversion Space internships and co-ops in the US (flight software and gnc, mechanical, structures and thermal, software and it), updated daily."
+description: "7 open Inversion Space internships and co-ops in the US (Flight software and GNC; Mechanical, structures and thermal; RF, communications and payloads), updated daily."
 ---
 
 # Inversion Space internships (2027)

@@ -1,6 +1,6 @@
 ---
 title: "Lockheed Martin internships 2027: open roles, pay and how to apply"
-description: "29 open Lockheed Martin internships and co-ops in the US (software and it, other, flight software and gnc), updated daily."
+description: "29 open Lockheed Martin internships and co-ops in the US (Software and IT; Flight software and GNC; Systems, integration and test), updated daily."
 ---
 
 # Lockheed Martin internships (2027)

@@ -1,6 +1,6 @@
 ---
 title: "Ursa Major internships 2027: open roles, pay and how to apply"
-description: "8 open Ursa Major internships and co-ops in the US (business and programs, supply chain and facilities, other), updated daily."
+description: "8 open Ursa Major internships and co-ops in the US (Business and programs; Supply chain and facilities; Quality and mission assurance), updated daily."
 ---
 
 # Ursa Major internships (2027)

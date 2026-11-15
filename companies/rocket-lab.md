@@ -1,6 +1,6 @@
 ---
 title: "Rocket Lab internships 2027: open roles, pay and how to apply"
-description: "36 open Rocket Lab internships and co-ops in the US (supply chain and facilities, propulsion, business and programs), updated daily."
+description: "36 open Rocket Lab internships and co-ops in the US (Supply chain and facilities; Propulsion; Mechanical, structures and thermal), updated daily."
 ---
 
 # Rocket Lab internships (2027)

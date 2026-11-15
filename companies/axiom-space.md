@@ -1,6 +1,6 @@
 ---
 title: "Axiom Space internships 2027: open roles, pay and how to apply"
-description: "12 open Axiom Space internships and co-ops in the US (business and programs, software and it, supply chain and facilities), updated daily."
+description: "12 open Axiom Space internships and co-ops in the US (Business and programs; Software and IT; Supply chain and facilities), updated daily."
 ---
 
 # Axiom Space internships (2027)

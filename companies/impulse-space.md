@@ -1,6 +1,6 @@
 ---
 title: "Impulse Space internships 2027: open roles, pay and how to apply"
-description: "14 open Impulse Space internships and co-ops in the US (software and it, systems, integration and test, manufacturing), updated daily."
+description: "14 open Impulse Space internships and co-ops in the US (Software and IT; Systems, integration and test; Manufacturing), updated daily."
 ---
 
 # Impulse Space internships (2027)

@@ -1,6 +1,6 @@
 ---
 title: "Reflect Orbital internships 2027: open roles, pay and how to apply"
-description: "5 open Reflect Orbital internships and co-ops in the US (software and it, flight software and gnc, launch and mission operations), updated daily."
+description: "5 open Reflect Orbital internships and co-ops in the US (Flight software and GNC; Software and IT; Launch and mission operations), updated daily."
 ---
 
 # Reflect Orbital internships (2027)

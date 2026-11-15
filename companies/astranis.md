@@ -1,6 +1,6 @@
 ---
 title: "Astranis internships 2027: open roles, pay and how to apply"
-description: "47 open Astranis internships and co-ops in the US (systems, integration and test, mechanical, structures and thermal, avionics and electrical), updated daily."
+description: "47 open Astranis internships and co-ops in the US (Systems, integration and test; Mechanical, structures and thermal; Avionics and electrical), updated daily."
 ---
 
 # Astranis internships (2027)
