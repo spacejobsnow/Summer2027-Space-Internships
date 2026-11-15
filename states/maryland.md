@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Maryland (2027)"
-description: "14 open space internships and co-ops in Maryland (Rocket Lab, Intuitive Machines, AeroVironment (AV), Johns Hopkins APL and more), updated daily."
+description: "14 open space internships and co-ops in Maryland (Rocket Lab, Intuitive Machines, AeroVironment (AV), Lockheed Martin and more), updated daily."
 ---
 
 # Space and aerospace internships in Maryland (2027)
 
-**14 open at 5 companies, most at Rocket Lab, Intuitive Machines, AeroVironment (AV), Johns Hopkins APL, Lockheed Martin. Updated 15 Nov 2026.**
+**14 open at 5 companies, most at Rocket Lab, Intuitive Machines, AeroVironment (AV), Lockheed Martin, Johns Hopkins APL. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/maryland?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
