@@ -5,7 +5,7 @@ description: "42 open flight software and gnc internships and co-ops at space co
 
 # Flight software and GNC internships at space companies (2027)
 
-**42 open in the United States at 16 companies, most at The Aerospace Corporation, Blue Origin, Lockheed Martin, Varda Space Industries, Astranis. Updated 15 Nov 2026.**
+**42 open in the United States at 16 companies, most at The Aerospace Corporation, Blue Origin, Lockheed Martin, Varda Space Industries, CesiumAstro. Updated 15 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
