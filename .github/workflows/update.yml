@@ -23,3 +23,8 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "Update the list ($(date -u +%F))"
           git push
+      - name: Tell search engines the list changed (IndexNow)
+        run: |
+          curl -s -X POST https://api.indexnow.org/indexnow -H "Content-Type: application/json; charset=utf-8" \
+            -d '{"host":"spacejobsnow.github.io","key":"fbb75c5fcea9d288daab79fd8a99bbb6","keyLocation":"https://spacejobsnow.github.io/Summer2027-Space-Internships/fbb75c5fcea9d288daab79fd8a99bbb6.txt","urlList":["https://spacejobsnow.github.io/Summer2027-Space-Internships/","https://spacejobsnow.github.io/Summer2027-Space-Internships/INTERNATIONAL"]}' \
+            -o /dev/null -w "IndexNow %{http_code}\n" || true
