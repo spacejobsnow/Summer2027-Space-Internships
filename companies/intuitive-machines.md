@@ -1,6 +1,6 @@
 ---
 title: "Intuitive Machines internships 2027: open roles, pay and how to apply"
-description: "9 open Intuitive Machines internships and co-ops in the US (Launch and mission operations; Supply chain and facilities; Science, imaging and Earth data), updated daily."
+description: "9 open Intuitive Machines internships and co-ops in the US (Launch and mission operations; Propulsion; Supply chain and facilities), updated daily."
 ---
 
 # Intuitive Machines internships (2027)
