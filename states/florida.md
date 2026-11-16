@@ -5,7 +5,7 @@ description: "16 open space internships and co-ops in Florida (Blue Origin, Cesi
 
 # Space and aerospace internships in Florida (2027)
 
-**16 open at 6 companies, most at Blue Origin, CesiumAstro, United Launch Alliance, Star Catcher, Lockheed Martin. Updated 16 Nov 2026.**
+**16 open at 6 companies, most at Blue Origin, CesiumAstro, United Launch Alliance, Star Catcher, Stoke Space. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/florida?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

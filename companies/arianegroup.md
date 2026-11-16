@@ -1,6 +1,6 @@
 ---
 title: "ArianeGroup internships 2027: open roles, pay and how to apply"
-description: "114 open ArianeGroup internships and co-ops outside the US (Manufacturing; Quality and mission assurance; Mechanical, structures and thermal), updated daily."
+description: "114 open ArianeGroup internships and co-ops outside the US (Manufacturing; Quality and mission assurance; Software and IT), updated daily."
 ---
 
 # ArianeGroup internships (2027)

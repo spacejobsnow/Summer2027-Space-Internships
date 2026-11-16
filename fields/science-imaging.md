@@ -1,11 +1,11 @@
 ---
 title: "Science, imaging and Earth data internships at space companies (2027)"
-description: "13 open science, imaging and earth data internships and co-ops at space companies in the US (The Aerospace Corporation, Varda Space Industries, Anduril, Vantor and more), updated daily."
+description: "13 open science, imaging and earth data internships and co-ops at space companies in the US (The Aerospace Corporation, Varda Space Industries, Intuitive Machines, Vantor and more), updated daily."
 ---
 
 # Science, imaging and Earth data internships at space companies (2027)
 
-**13 open in the United States at 5 companies, most at The Aerospace Corporation, Varda Space Industries, Anduril, Vantor, Intuitive Machines. Updated 16 Nov 2026.**
+**13 open in the United States at 5 companies, most at The Aerospace Corporation, Varda Space Industries, Intuitive Machines, Vantor, Anduril. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/science-imaging?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
