@@ -1,6 +1,6 @@
 ---
 title: "Varda Space Industries internships 2027: open roles, pay and how to apply"
-description: "27 open Varda Space Industries internships and co-ops in the US (Mechanical, structures and thermal; Flight software and GNC; Science, imaging and Earth data), updated daily."
+description: "27 open Varda Space Industries internships and co-ops in the US (Mechanical, structures and thermal; Flight software and GNC; Software and IT), updated daily."
 ---
 
 # Varda Space Industries internships (2027)

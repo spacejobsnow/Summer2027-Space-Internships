@@ -1,6 +1,6 @@
 ---
 title: "Thales Alenia Space internships 2027: open roles, pay and how to apply"
-description: "118 open Thales Alenia Space internships and co-ops outside the US (RF, communications and payloads; Software and IT; Systems, integration and test), updated daily."
+description: "118 open Thales Alenia Space internships and co-ops outside the US (Software and IT; RF, communications and payloads; Systems, integration and test), updated daily."
 ---
 
 # Thales Alenia Space internships (2027)

@@ -1,6 +1,6 @@
 ---
 title: "Lunar Outpost internships 2027: open roles, pay and how to apply"
-description: "11 open Lunar Outpost internships and co-ops in the US (Systems, integration and test; Flight software and GNC; Business and programs), updated daily."
+description: "11 open Lunar Outpost internships and co-ops in the US (Systems, integration and test; Mechanical, structures and thermal; Business and programs), updated daily."
 ---
 
 # Lunar Outpost internships (2027)

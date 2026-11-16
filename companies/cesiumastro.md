@@ -1,6 +1,6 @@
 ---
 title: "CesiumAstro internships 2027: open roles, pay and how to apply"
-description: "12 open CesiumAstro internships and co-ops in the US (Avionics and electrical; Flight software and GNC; Systems, integration and test), updated daily."
+description: "12 open CesiumAstro internships and co-ops in the US (Flight software and GNC; Avionics and electrical; Systems, integration and test), updated daily."
 ---
 
 # CesiumAstro internships (2027)
