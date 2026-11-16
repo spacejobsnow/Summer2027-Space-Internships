@@ -5,7 +5,7 @@ description: "229 open space internships and co-ops in California (Astranis, The
 
 # Space and aerospace internships in California (2027)
 
-**229 open at 29 companies, most at Astranis, The Aerospace Corporation, Varda Space Industries, Rocket Lab, Impulse Space. Updated 15 Nov 2026.**
+**229 open at 29 companies, most at Astranis, The Aerospace Corporation, Varda Space Industries, Rocket Lab, Impulse Space. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/california?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

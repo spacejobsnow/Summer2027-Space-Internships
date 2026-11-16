@@ -1,15 +1,15 @@
 ---
 title: "Intuitive Machines internships 2027: open roles, pay and how to apply"
-description: "9 open Intuitive Machines internships and co-ops in the US (Launch and mission operations; Science, imaging and Earth data; Propulsion), updated daily."
+description: "9 open Intuitive Machines internships and co-ops in the US (Launch and mission operations; Business and programs; Systems, integration and test), updated daily."
 ---
 
 # Intuitive Machines internships (2027)
 
-**9 open in the United States. Updated 15 Nov 2026.**
+**9 open in the United States. Updated 16 Nov 2026.**
 
 How Intuitive Machines's internship program works, who may apply and when: [Intuitive Machines internships on SpaceJobs.Now](https://spacejobs.now/employers/intuitive-machines/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
-[All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state)
+[All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|

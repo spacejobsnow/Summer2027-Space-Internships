@@ -80,6 +80,7 @@ def posted(job):
         return ""
 
 
+ALL_ROLES = []
 STATE_LABEL = {"AL": "Alabama", "AZ": "Arizona", "CA": "California", "CO": "Colorado", "FL": "Florida", "MD": "Maryland",
                "NM": "New Mexico", "PA": "Pennsylvania", "TX": "Texas", "VA": "Virginia", "WA": "Washington"}
 
@@ -126,7 +127,7 @@ def write_pages(by_field, by_state, today, us_all):
             f"Read each night from each company's own careers site by [SpaceJobs.Now]({link('/space-internships/' + STATE_NAMES[code])}), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.", "",
             "[All space internships](../README.md) · [By field](../README.md#by-field) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)", "",
         ] + rows(jobs))
-    written += write_company_pages(us_all, today)
+    written += write_company_pages(ALL_ROLES, today)
     with open(os.path.join(ROOT, "data", "pages.txt"), "w") as f:
         f.write("\n".join([PAGES_BASE, PAGES_BASE + "INTERNATIONAL"] + [PAGES_BASE + w for w in written]) + "\n")
 
@@ -146,14 +147,20 @@ def write_company_pages(us, today):
         jobs = sorted(jobs, key=lambda j: j.get("postedAt") or "", reverse=True)
         labels = dict(FIELDS)
         fields = sorted({j.get("kind") for j in jobs if j.get("kind") in labels}, key=lambda k: -sum(1 for j in jobs if j.get("kind") == k))
+        n_us = sum(1 for j in jobs if in_us(j))
+        where = "in the US" if n_us == len(jobs) else ("outside the US" if n_us == 0 else f"({n_us} in the US)")
         title = f"{name} internships 2027: open roles, pay and how to apply"
-        desc = f"{len(jobs)} open {name} internships and co-ops in the US" + (f" ({'; '.join(labels[f] for f in fields[:3])})" if fields else "") + ", updated daily."
+        desc = f"{len(jobs)} open {name} internships and co-ops {where}" + (f" ({'; '.join(labels[f] for f in fields[:3])})" if fields else "") + ", updated daily."
         guide = f"/employers/{slug}/internships"
+        today_iso = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
+        ahead = [(d, what) for gname, gpath, d, what in GUIDES if gpath.startswith(f"/employers/{slug}") and d and d >= today_iso]
+        deadline = [f"**Deadline: {dt.date.fromisoformat(ahead[0][0]).strftime('%-d %B %Y')}** ({ahead[0][1]}).", ""] if ahead else []
         page(f"companies/{slug}.md", title, desc, [
             f"# {name} internships (2027)", "",
-            f"**{len(jobs)} open in the United States. Updated {today}.**", "",
+            f"**{len(jobs)} open" + ("" if n_us == 0 else f", {n_us} of them in the United States" if n_us < len(jobs) else " in the United States") + f". Updated {today}.**", "",
             f"How {name}'s internship program works, who may apply and when: [{name} internships on SpaceJobs.Now]({link(guide)}). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.", "",
-            "[All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state)", "",
+        ] + deadline + [
+            "[All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)", "",
         ] + rows(jobs))
         written.append(f"companies/{slug}")
         listed.append((name, slug, len(jobs)))
@@ -254,8 +261,16 @@ def main():
         "[Back to the United States list](README.md)",
         "",
     ]
+    by_emp_abroad = {}
+    for j in abroad:
+        by_emp_abroad.setdefault(j["employer"], []).append(j)
+    big = [(k, v) for k, v in sorted(by_emp_abroad.items(), key=lambda x: -len(x[1])) if len(v) >= 5]
+    if big:
+        intl += ["## By company", "", ", ".join(f"[{v[0]['company']}](companies/{k}.md) ({len(v)})" for k, v in big), ""]
     with open(os.path.join(ROOT, "INTERNATIONAL.md"), "w") as f:
         f.write("\n".join(intl + rows(abroad) + [""]))
+    global ALL_ROLES
+    ALL_ROLES = ordered
     write_pages(us_by_field, us_by_state, today, us)
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
     data = [{"company": j["company"], "title": j["title"], "location": j.get("place"), "in_us": in_us(j), "states": j.get("states") or [],

@@ -1,15 +1,15 @@
 ---
 title: "Firefly Aerospace internships 2027: open roles, pay and how to apply"
-description: "10 open Firefly Aerospace internships and co-ops in the US (Mechanical, structures and thermal; Manufacturing; Launch and mission operations), updated daily."
+description: "10 open Firefly Aerospace internships and co-ops in the US (Mechanical, structures and thermal; Launch and mission operations; Manufacturing), updated daily."
 ---
 
 # Firefly Aerospace internships (2027)
 
-**10 open in the United States. Updated 15 Nov 2026.**
+**10 open in the United States. Updated 16 Nov 2026.**
 
 How Firefly Aerospace's internship program works, who may apply and when: [Firefly Aerospace internships on SpaceJobs.Now](https://spacejobs.now/employers/firefly-aerospace/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
-[All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state)
+[All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|

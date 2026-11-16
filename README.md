@@ -2,7 +2,7 @@
 
 Every open internship and co-op at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list), a free job board for the space industry.
 
-**484 open in the United States, 634 in Europe, Canada and Asia-Pacific, at 85 companies. 222 name Summer 2027 so far. Updated 15 Nov 2026.**
+**484 open in the United States, 634 in Europe, Canada and Asia-Pacific, at 85 companies. 222 name Summer 2027 so far. Updated 16 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 

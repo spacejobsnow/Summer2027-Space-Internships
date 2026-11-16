@@ -1,8 +1,12 @@
 # Space internships in Europe, Canada and Asia-Pacific
 
-634 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 15 Nov 2026.
+634 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 16 Nov 2026.
 
 [Back to the United States list](README.md)
+
+## By company
+
+[European Space Agency (ESA)](companies/esa.md) (164), [Thales Alenia Space](companies/thales-alenia-space.md) (118), [ArianeGroup](companies/arianegroup.md) (114), [CNES (French space agency)](companies/cnes.md) (90), [German Aerospace Center (DLR)](companies/dlr.md) (38), [Airbus Defence and Space](companies/airbus-defence-and-space.md) (31), [Rocket Factory Augsburg](companies/rocket-factory-augsburg.md) (17), [OHB](companies/ohb.md) (12), [Look Up Space](companies/look-up-space.md) (8), [Spaceium](companies/spaceium.md) (5)
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|

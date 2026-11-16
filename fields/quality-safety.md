@@ -5,7 +5,7 @@ description: "13 open quality and mission assurance internships and co-ops at sp
 
 # Quality and mission assurance internships at space companies (2027)
 
-**13 open in the United States at 9 companies, most at Astranis, Blue Origin, Varda Space Industries, Ursa Major, AeroVironment (AV). Updated 15 Nov 2026.**
+**13 open in the United States at 9 companies, most at Astranis, Blue Origin, Varda Space Industries, Ursa Major, The Aerospace Corporation. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/quality-safety?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
