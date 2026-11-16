@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Washington (2027)"
-description: "49 open space internships and co-ops in Washington (Blue Origin, Stoke Space, Cowboy Space, Constellation Space and more), updated daily."
+description: "49 open space internships and co-ops in Washington (Blue Origin, Stoke Space, Constellation Space, Gravitics and more), updated daily."
 ---
 
 # Space and aerospace internships in Washington (2027)
 
-**49 open at 6 companies, most at Blue Origin, Stoke Space, Cowboy Space, Constellation Space, Starfish Space. Updated 16 Nov 2026.**
+**49 open at 6 companies, most at Blue Origin, Stoke Space, Constellation Space, Gravitics, Starfish Space. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/washington?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

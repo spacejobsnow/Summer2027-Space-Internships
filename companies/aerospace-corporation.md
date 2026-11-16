@@ -1,6 +1,6 @@
 ---
 title: "The Aerospace Corporation internships 2027: open roles, pay and how to apply"
-description: "51 open The Aerospace Corporation internships and co-ops in the US (RF, communications and payloads; Science, imaging and Earth data; Flight software and GNC), updated daily."
+description: "51 open The Aerospace Corporation internships and co-ops in the US (RF, communications and payloads; Science, imaging and Earth data; Systems, integration and test), updated daily."
 ---
 
 # The Aerospace Corporation internships (2027)
