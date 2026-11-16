@@ -1,6 +1,6 @@
 ---
 title: "OHB internships 2027: open roles, pay and how to apply"
-description: "12 open OHB internships and co-ops outside the US (Software and IT; Mechanical, structures and thermal; Business and programs), updated daily."
+description: "12 open OHB internships and co-ops outside the US (Software and IT; Mechanical, structures and thermal; Supply chain and facilities), updated daily."
 ---
 
 # OHB internships (2027)
