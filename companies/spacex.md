@@ -1,6 +1,6 @@
 ---
 title: "SpaceX internships 2027: open roles, pay and how to apply"
-description: "12 open SpaceX internships and co-ops in the US (Software and IT; Business and programs; Avionics and electrical), updated daily."
+description: "12 open SpaceX internships and co-ops in the US (Business and programs; Software and IT; Avionics and electrical), updated daily."
 ---
 
 # SpaceX internships (2027)

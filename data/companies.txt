@@ -5,7 +5,7 @@ CNES (French space agency)	cnes	90
 The Aerospace Corporation	aerospace-corporation	51
 Blue Origin	blue-origin	48
 Astranis	astranis	47
-Rocket Lab	rocket-lab	40
+Rocket Lab	rocket-lab	39
 German Aerospace Center (DLR)	dlr	38
 Airbus Defence and Space	airbus-defence-and-space	31
 Lockheed Martin	lockheed-martin	29

@@ -2,22 +2,22 @@
 
 Every open internship and co-op at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list), a free job board for the space industry.
 
-**484 open in the United States, 634 in Europe, Canada and Asia-Pacific, at 85 companies. 222 name Summer 2027 so far. Updated 16 Nov 2026.**
+**483 open in the United States, 635 in Europe, Canada and Asia-Pacific, at 85 companies. 222 name Summer 2027 so far. Updated 16 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
 - United States: the table below
-- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md): ESA, Airbus, Thales Alenia Space, ArianeGroup, DLR, CNES, OHB and more (634 roles)
+- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md): ESA, Airbus, Thales Alenia Space, ArianeGroup, DLR, CNES, OHB and more (635 roles)
 - Graduating? Entry-level roles have their own list: [New-Grad-Space-Jobs](https://github.com/spacejobsnow/New-Grad-Space-Jobs)
 - The same list as data: [data/internships.json](data/internships.json) (CC BY 4.0)
 - Track your applications: [Space Internship Tracker 2027](https://west-jet-aee.notion.site/Space-Internship-Tracker-2027-41aa3227c17f80eea5b6e2c782d07180), a free Notion template with every company on this list and the deadlines
 
-Many US roles require US citizenship or US person status (export rules); each role's page says so.
+Many US roles require US citizenship or US person status (export rules); each role's page says so. International students: [internships whose posting states no US citizenship requirement](https://spacejobs.now/space-jobs-non-us-citizens/internships?utm_source=github&utm_medium=internship-list).
 
 ## By field
 
 - [Software and IT](fields/ground-software.md) (58 in the US)
-- [Flight software and GNC](fields/gnc-flight-software.md) (42 in the US)
+- [Flight software and GNC](fields/gnc-flight-software.md) (41 in the US)
 - [Mechanical, structures and thermal](fields/mechanical-structures.md) (62 in the US)
 - [Avionics and electrical](fields/avionics-electrical.md) (38 in the US)
 - [RF, communications and payloads](fields/rf-communications.md) (19 in the US)
@@ -32,11 +32,11 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 ## By state
 
-[California](states/california.md) (229), [Colorado](states/colorado.md) (75), [Washington](states/washington.md) (49), [Texas](states/texas.md) (43), [Virginia](states/virginia.md) (35), [Florida](states/florida.md) (16), [Maryland](states/maryland.md) (14), [Alabama](states/alabama.md) (13), [New Mexico](states/new-mexico.md) (9), [Pennsylvania](states/pennsylvania.md) (9), [Arizona](states/arizona.md) (6)
+[California](states/california.md) (229), [Colorado](states/colorado.md) (74), [Washington](states/washington.md) (49), [Texas](states/texas.md) (43), [Virginia](states/virginia.md) (35), [Florida](states/florida.md) (16), [Maryland](states/maryland.md) (14), [Alabama](states/alabama.md) (13), [New Mexico](states/new-mexico.md) (9), [Pennsylvania](states/pennsylvania.md) (9), [Arizona](states/arizona.md) (6)
 
 ## By company
 
-[The Aerospace Corporation](companies/aerospace-corporation.md) (51), [Blue Origin](companies/blue-origin.md) (48), [Astranis](companies/astranis.md) (47), [Rocket Lab](companies/rocket-lab.md) (36), [Lockheed Martin](companies/lockheed-martin.md) (29), [Varda Space Industries](companies/varda.md) (27), [United Launch Alliance](companies/united-launch-alliance.md) (18), [Muon Space](companies/muon-space.md) (16), [Impulse Space](companies/impulse-space.md) (14), [Axiom Space](companies/axiom-space.md) (12), [CesiumAstro](companies/cesiumastro.md) (12), [SpaceX](companies/spacex.md) (12), [Virginia Space](companies/virginia-space.md) (11), [Lunar Outpost](companies/lunar-outpost.md) (11), [Firefly Aerospace](companies/firefly-aerospace.md) (10), [Intuitive Machines](companies/intuitive-machines.md) (9), [Ursa Major](companies/ursa-major.md) (8), [Rendezvous Robotics](companies/rendezvous-robotics.md) (8), [Benchmark Space Systems](companies/benchmark-space-systems.md) (7), [AeroVironment (AV)](companies/aerovironment.md) (7), [Inversion Space](companies/inversion-space.md) (7), [Voyager Technologies](companies/voyager.md) (7), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (6), [Apex](companies/apex.md) (5), [Reflect Orbital](companies/reflect-orbital.md) (5)
+[The Aerospace Corporation](companies/aerospace-corporation.md) (51), [Blue Origin](companies/blue-origin.md) (48), [Astranis](companies/astranis.md) (47), [Rocket Lab](companies/rocket-lab.md) (35), [Lockheed Martin](companies/lockheed-martin.md) (29), [Varda Space Industries](companies/varda.md) (27), [United Launch Alliance](companies/united-launch-alliance.md) (18), [Muon Space](companies/muon-space.md) (16), [Impulse Space](companies/impulse-space.md) (14), [Axiom Space](companies/axiom-space.md) (12), [CesiumAstro](companies/cesiumastro.md) (12), [SpaceX](companies/spacex.md) (12), [Virginia Space](companies/virginia-space.md) (11), [Lunar Outpost](companies/lunar-outpost.md) (11), [Firefly Aerospace](companies/firefly-aerospace.md) (10), [Intuitive Machines](companies/intuitive-machines.md) (9), [Ursa Major](companies/ursa-major.md) (8), [Rendezvous Robotics](companies/rendezvous-robotics.md) (8), [Benchmark Space Systems](companies/benchmark-space-systems.md) (7), [AeroVironment (AV)](companies/aerovironment.md) (7), [Inversion Space](companies/inversion-space.md) (7), [Voyager Technologies](companies/voyager.md) (7), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (6), [Apex](companies/apex.md) (5), [Reflect Orbital](companies/reflect-orbital.md) (5)
 
 ## Deadlines ahead
 
@@ -56,7 +56,7 @@ How each program works, what it pays and who may apply, read from the employer's
 - [Summer 2027](https://spacejobs.now/space-internships/summer-2027?utm_source=github&utm_medium=internship-list), [Spring 2027](https://spacejobs.now/space-internships/spring-2027?utm_source=github&utm_medium=internship-list) and [Winter 2027](https://spacejobs.now/space-internships/winter-2027?utm_source=github&utm_medium=internship-list) lists
 - [Entry-level space jobs for new graduates](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=internship-list)
 
-## United States (484)
+## United States (483)
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
@@ -469,7 +469,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Rocket Lab** | [Fluid Systems Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/fluid-systems-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Summer 2027 | Sep 9 |
 | **Rocket Lab** | [Fluid Component Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/fluid-component-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Summer 2027 | Sep 9 |
 | **Rocket Lab** | [Flight Software Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Summer 2027 | Sep 9 |
-| **Rocket Lab** | [Flight Software Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Spring 2027 | Sep 9 |
 | **Rocket Lab** | [Combustion Devices Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/combustion-devices-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Summer 2027 | Sep 9 |
 | **Rocket Lab** | [Additive Manufacturing Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/additive-manufacturing-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Summer 2027 | Sep 9 |
 | **The Aerospace Corporation** | [2027 Guidance, Navigation, and Control (GNC) Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-guidance-navigation-and-control-gnc-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  |  | Sep 9 |

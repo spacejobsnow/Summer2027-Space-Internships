@@ -1,6 +1,6 @@
 ---
 title: "Blue Origin internships 2027: open roles, pay and how to apply"
-description: "48 open Blue Origin internships and co-ops in the US (Mechanical, structures and thermal; Systems, integration and test; Business and programs), updated daily."
+description: "48 open Blue Origin internships and co-ops in the US (Mechanical, structures and thermal; Business and programs; Systems, integration and test), updated daily."
 ---
 
 # Blue Origin internships (2027)

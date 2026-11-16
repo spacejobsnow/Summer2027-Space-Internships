@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "75 open space internships and co-ops in Colorado (Lockheed Martin, Lunar Outpost, United Launch Alliance, Rendezvous Robotics and more), updated daily."
+description: "74 open space internships and co-ops in Colorado (Lockheed Martin, Lunar Outpost, United Launch Alliance, Ursa Major and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**75 open at 11 companies, most at Lockheed Martin, Lunar Outpost, United Launch Alliance, Rendezvous Robotics, Ursa Major. Updated 16 Nov 2026.**
+**74 open at 11 companies, most at Lockheed Martin, Lunar Outpost, United Launch Alliance, Ursa Major, CesiumAstro. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -80,7 +80,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lunar Outpost** | [Robotics Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/robotics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Electrical Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Rocket Lab** | [Flight Software Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Summer 2027 | Sep 9 |
-| **Rocket Lab** | [Flight Software Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Spring 2027 | Sep 9 |
 | **CesiumAstro** | [Summer 2027 – Test Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-test-engineering-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Aug 27 |
 | **Blue Origin** | [2026 Intern Conversion - Fluid Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-fluid-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $81,313–$113,838/yr |  | Aug 12 |
 | **Blue Origin** | [2026 Intern Conversion - Guidance, Navigation & Control Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-guidance-navigation-control-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $87,816–$122,942/yr |  | Aug 11 |

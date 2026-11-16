@@ -1,6 +1,6 @@
 ---
 title: "Rocket Factory Augsburg internships 2027: open roles, pay and how to apply"
-description: "17 open Rocket Factory Augsburg internships and co-ops outside the US (Flight software and GNC; Manufacturing; Launch and mission operations), updated daily."
+description: "17 open Rocket Factory Augsburg internships and co-ops outside the US (Flight software and GNC; Manufacturing; Business and programs), updated daily."
 ---
 
 # Rocket Factory Augsburg internships (2027)

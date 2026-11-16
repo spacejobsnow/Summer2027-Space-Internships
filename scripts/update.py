@@ -210,7 +210,7 @@ def main():
         "- The same list as data: [data/internships.json](data/internships.json) (CC BY 4.0)",
         "- Track your applications: [Space Internship Tracker 2027](https://west-jet-aee.notion.site/Space-Internship-Tracker-2027-41aa3227c17f80eea5b6e2c782d07180), a free Notion template with every company on this list and the deadlines",
         "",
-        "Many US roles require US citizenship or US person status (export rules); each role's page says so.",
+        "Many US roles require US citizenship or US person status (export rules); each role's page says so. International students: [internships whose posting states no US citizenship requirement](" + link('/space-jobs-non-us-citizens/internships') + ").",
         "",
         "## By field",
         "",

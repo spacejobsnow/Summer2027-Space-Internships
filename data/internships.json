@@ -5,6 +5,18 @@
  "internships": [
   {
    "company": "Eutelsat",
+   "title": "Stagiaire R&D en traitement du signal et syst\u00e8mes satellitaires",
+   "location": "Issy-Les-Moulineaux, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "rf-communications",
+   "posted": "2026-11-16",
+   "url": "https://spacejobs.now/jobs/eutelsat/stagiaire-r-d-en-traitement-du-signal-et-systemes-satellitaires?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Eutelsat",
    "title": "Stage - Ing\u00e9nieur Traitement du Signal et G\u00e9olocalisation Satellitaire",
    "location": "Issy-Les-Moulineaux, France",
    "in_us": false,
@@ -12942,20 +12954,6 @@
    "field": "gnc-flight-software",
    "posted": "2026-09-09",
    "url": "https://spacejobs.now/jobs/rocket-lab/flight-software-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Rocket Lab",
-   "title": "Flight Software Intern Spring 2027",
-   "location": "Littleton, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$27.00/hr",
-   "term": "Spring 2027",
-   "field": "gnc-flight-software",
-   "posted": "2026-09-09",
-   "url": "https://spacejobs.now/jobs/rocket-lab/flight-software-intern-spring-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Rocket Lab",

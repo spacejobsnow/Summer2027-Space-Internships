@@ -1,11 +1,11 @@
 ---
 title: "Flight software and GNC internships at space companies (2027)"
-description: "42 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Varda Space Industries, Lockheed Martin and more), updated daily."
+description: "41 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Lockheed Martin, Varda Space Industries and more), updated daily."
 ---
 
 # Flight software and GNC internships at space companies (2027)
 
-**42 open in the United States at 16 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Lockheed Martin, Rendezvous Robotics. Updated 16 Nov 2026.**
+**41 open in the United States at 16 companies, most at The Aerospace Corporation, Blue Origin, Lockheed Martin, Varda Space Industries, Rendezvous Robotics. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -46,7 +46,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lunar Outpost** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Robotics Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/robotics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Rocket Lab** | [Flight Software Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Summer 2027 | Sep 9 |
-| **Rocket Lab** | [Flight Software Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Spring 2027 | Sep 9 |
 | **The Aerospace Corporation** | [2027 Guidance, Navigation, and Control (GNC) Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-guidance-navigation-and-control-gnc-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  |  | Sep 9 |
 | **Reflect Orbital** | [Embedded Firmware Engineering Intern](https://spacejobs.now/jobs/reflect-orbital/embedded-firmware-engineering-intern?utm_source=github&utm_medium=internship-list) | Hawthorne, CA | $27–$31/hr |  | Sep 2 |
 | **Reflect Orbital** | [Flight Software Engineering Intern](https://spacejobs.now/jobs/reflect-orbital/flight-software-engineering-intern?utm_source=github&utm_medium=internship-list) | Hawthorne, CA | $27–$31/hr |  | Sep 2 |

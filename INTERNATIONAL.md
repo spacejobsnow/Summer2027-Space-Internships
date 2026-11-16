@@ -1,6 +1,6 @@
 # Space internships in Europe, Canada and Asia-Pacific
 
-634 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 16 Nov 2026.
+635 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 16 Nov 2026.
 
 [Back to the United States list](README.md)
 
@@ -10,6 +10,7 @@
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Eutelsat** | [Stagiaire R&D en traitement du signal et systèmes satellitaires](https://spacejobs.now/jobs/eutelsat/stagiaire-r-d-en-traitement-du-signal-et-systemes-satellitaires?utm_source=github&utm_medium=internship-list) | Issy-Les-Moulineaux, France |  |  | Nov 16 |
 | **Eutelsat** | [Stage - Ingénieur Traitement du Signal et Géolocalisation Satellitaire](https://spacejobs.now/jobs/eutelsat/stage-ingenieur-traitement-du-signal-et-geolocalisation-satellitaire?utm_source=github&utm_medium=internship-list) | Issy-Les-Moulineaux, France |  |  | Nov 14 |
 | **Thales Alenia Space** | [STAGE - Ingénieur de Développement logiciel Bancs de test - F/H](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-de-developpement-logiciel-bancs-de-test-f-h?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Nov 13 |
 | **ArianeGroup** | [STAGE - Ingénieure / Ingénieur Matériaux et Procédés - Composite oxyde pour application spatiale](https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-materiaux-et-procedes-composite-oxyde-pour-application-spatiale?utm_source=github&utm_medium=internship-list) | Le Haillan, France |  |  | Nov 13 |
