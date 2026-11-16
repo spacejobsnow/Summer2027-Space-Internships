@@ -1,6 +1,6 @@
 ---
 title: "Benchmark Space Systems internships 2027: open roles, pay and how to apply"
-description: "7 open Benchmark Space Systems internships and co-ops in the US (Systems, integration and test; Propulsion; Mechanical, structures and thermal), updated daily."
+description: "7 open Benchmark Space Systems internships and co-ops in the US (Systems, integration and test; Propulsion; Manufacturing), updated daily."
 ---
 
 # Benchmark Space Systems internships (2027)

@@ -1,6 +1,6 @@
 ---
 title: "United Launch Alliance internships 2027: open roles, pay and how to apply"
-description: "18 open United Launch Alliance internships and co-ops in the US (Business and programs; Supply chain and facilities; Mechanical, structures and thermal), updated daily."
+description: "18 open United Launch Alliance internships and co-ops in the US (Business and programs; Supply chain and facilities; Software and IT), updated daily."
 ---
 
 # United Launch Alliance internships (2027)

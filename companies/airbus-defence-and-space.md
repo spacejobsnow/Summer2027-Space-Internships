@@ -1,6 +1,6 @@
 ---
 title: "Airbus Defence and Space internships 2027: open roles, pay and how to apply"
-description: "31 open Airbus Defence and Space internships and co-ops outside the US (Business and programs; RF, communications and payloads; Systems, integration and test), updated daily."
+description: "31 open Airbus Defence and Space internships and co-ops outside the US (Business and programs; RF, communications and payloads; Quality and mission assurance), updated daily."
 ---
 
 # Airbus Defence and Space internships (2027)

@@ -1,11 +1,11 @@
 ---
 title: "RF, communications and payloads internships at space companies (2027)"
-description: "19 open rf, communications and payloads internships and co-ops at space companies in the US (The Aerospace Corporation, Astranis, CesiumAstro, Inversion Space and more), updated daily."
+description: "19 open rf, communications and payloads internships and co-ops at space companies in the US (The Aerospace Corporation, Astranis, CesiumAstro, Lockheed Martin and more), updated daily."
 ---
 
 # RF, communications and payloads internships at space companies (2027)
 
-**19 open in the United States at 5 companies, most at The Aerospace Corporation, Astranis, CesiumAstro, Inversion Space, Lockheed Martin. Updated 16 Nov 2026.**
+**19 open in the United States at 5 companies, most at The Aerospace Corporation, Astranis, CesiumAstro, Lockheed Martin, Inversion Space. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/rf-communications?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

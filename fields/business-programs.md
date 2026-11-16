@@ -1,11 +1,11 @@
 ---
 title: "Business and programs internships at space companies (2027)"
-description: "51 open business and programs internships and co-ops at space companies in the US (Blue Origin, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, United Launch Alliance and more), updated daily."
+description: "51 open business and programs internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), United Launch Alliance and more), updated daily."
 ---
 
 # Business and programs internships at space companies (2027)
 
-**51 open in the United States at 19 companies, most at Blue Origin, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, United Launch Alliance, Axiom Space. Updated 16 Nov 2026.**
+**51 open in the United States at 19 companies, most at Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), United Launch Alliance, Virginia Space. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/business-programs?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
