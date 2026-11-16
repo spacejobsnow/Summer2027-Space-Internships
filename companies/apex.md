@@ -1,6 +1,6 @@
 ---
 title: "Apex internships 2027: open roles, pay and how to apply"
-description: "5 open Apex internships and co-ops in the US (Systems, integration and test; Software and IT; Flight software and GNC), updated daily."
+description: "5 open Apex internships and co-ops in the US (Systems, integration and test; Flight software and GNC; Software and IT), updated daily."
 ---
 
 # Apex internships (2027)

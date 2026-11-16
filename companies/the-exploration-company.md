@@ -1,6 +1,6 @@
 ---
 title: "The Exploration Company internships 2027: open roles, pay and how to apply"
-description: "8 open The Exploration Company internships and co-ops (4 in the US) (Software and IT; Avionics and electrical; Mechanical, structures and thermal), updated daily."
+description: "8 open The Exploration Company internships and co-ops (4 in the US) (Software and IT; Mechanical, structures and thermal; Avionics and electrical), updated daily."
 ---
 
 # The Exploration Company internships (2027)

@@ -1,6 +1,6 @@
 ---
 title: "Loft Orbital internships 2027: open roles, pay and how to apply"
-description: "8 open Loft Orbital internships and co-ops (4 in the US) (Business and programs; Manufacturing; RF, communications and payloads), updated daily."
+description: "8 open Loft Orbital internships and co-ops (4 in the US) (Business and programs; Manufacturing; Mechanical, structures and thermal), updated daily."
 ---
 
 # Loft Orbital internships (2027)

@@ -7,7 +7,7 @@ description: "5 open Spaceium internships and co-ops outside the US (Avionics an
 
 **5 open. Updated 16 Nov 2026.**
 
-How Spaceium's internship program works, who may apply and when: [Spaceium internships on SpaceJobs.Now](https://spacejobs.now/employers/spaceium/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
+How Spaceium's internship program works, who may apply and when: [Spaceium internships on SpaceJobs.Now](https://spacejobs.now/employers/spaceium/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
 [All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)
 

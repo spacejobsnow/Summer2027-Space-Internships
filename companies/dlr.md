@@ -7,7 +7,7 @@ description: "38 open German Aerospace Center (DLR) internships and co-ops outsi
 
 **38 open. Updated 16 Nov 2026.**
 
-How German Aerospace Center (DLR)'s internship program works, who may apply and when: [German Aerospace Center (DLR) internships on SpaceJobs.Now](https://spacejobs.now/employers/dlr/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
+How German Aerospace Center (DLR)'s internship program works, who may apply and when: [German Aerospace Center (DLR) internships on SpaceJobs.Now](https://spacejobs.now/employers/dlr/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
 [All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)
 

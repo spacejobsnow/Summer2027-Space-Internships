@@ -158,7 +158,7 @@ def write_company_pages(us, today):
         page(f"companies/{slug}.md", title, desc, [
             f"# {name} internships (2027)", "",
             f"**{len(jobs)} open" + ("" if n_us == 0 else f", {n_us} of them in the United States" if n_us < len(jobs) else " in the United States") + f". Updated {today}.**", "",
-            f"How {name}'s internship program works, who may apply and when: [{name} internships on SpaceJobs.Now]({link(guide)}). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.", "",
+            f"How {name}'s internship program works, who may apply and when: [{name} internships on SpaceJobs.Now]({link(guide)}). Each role below opens its full posting there, with how to apply." + (" Many roles require US citizenship or US person status (export rules); each role's page says so." if n_us else " Each role's page says who may apply."), "",
         ] + deadline + [
             "[All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)", "",
         ] + rows(jobs))

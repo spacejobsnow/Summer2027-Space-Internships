@@ -1,11 +1,11 @@
 ---
 title: "Software and IT internships at space companies (2027)"
-description: "58 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin and more), updated daily."
+description: "58 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Blue Origin, Impulse Space and more), updated daily."
 ---
 
 # Software and IT internships at space companies (2027)
 
-**58 open in the United States at 25 companies, most at Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin, United Launch Alliance. Updated 16 Nov 2026.**
+**58 open in the United States at 25 companies, most at Lockheed Martin, The Aerospace Corporation, Blue Origin, Impulse Space, Varda Space Industries. Updated 16 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/ground-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

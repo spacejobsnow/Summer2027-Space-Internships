@@ -7,7 +7,7 @@ description: "90 open CNES (French space agency) internships and co-ops outside 
 
 **90 open. Updated 16 Nov 2026.**
 
-How CNES (French space agency)'s internship program works, who may apply and when: [CNES (French space agency) internships on SpaceJobs.Now](https://spacejobs.now/employers/cnes/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
+How CNES (French space agency)'s internship program works, who may apply and when: [CNES (French space agency) internships on SpaceJobs.Now](https://spacejobs.now/employers/cnes/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
 [All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)
 

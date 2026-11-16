@@ -1,6 +1,6 @@
 ---
 title: "Voyager Technologies internships 2027: open roles, pay and how to apply"
-description: "7 open Voyager Technologies internships and co-ops in the US (Business and programs; Systems, integration and test; Software and IT), updated daily."
+description: "7 open Voyager Technologies internships and co-ops in the US (Business and programs; Avionics and electrical; Mechanical, structures and thermal), updated daily."
 ---
 
 # Voyager Technologies internships (2027)

@@ -7,7 +7,7 @@ description: "17 open Rocket Factory Augsburg internships and co-ops outside the
 
 **17 open. Updated 16 Nov 2026.**
 
-How Rocket Factory Augsburg's internship program works, who may apply and when: [Rocket Factory Augsburg internships on SpaceJobs.Now](https://spacejobs.now/employers/rocket-factory-augsburg/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
+How Rocket Factory Augsburg's internship program works, who may apply and when: [Rocket Factory Augsburg internships on SpaceJobs.Now](https://spacejobs.now/employers/rocket-factory-augsburg/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
 [All space internships](../README.md) · [By field](../README.md#by-field) · [By state](../README.md#by-state) · [Europe, Canada and Asia-Pacific](../INTERNATIONAL.md)
 
