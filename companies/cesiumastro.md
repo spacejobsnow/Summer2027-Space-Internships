@@ -1,11 +1,11 @@
 ---
 title: "CesiumAstro internships 2027: open roles, pay and how to apply"
-description: "12 open CesiumAstro internships and co-ops in the US (Avionics and electrical; Flight software and GNC; Systems, integration and test), updated daily."
+description: "13 open CesiumAstro internships and co-ops in the US (Avionics and electrical; Flight software and GNC; Systems, integration and test), updated daily."
 ---
 
 # CesiumAstro internships (2027)
 
-**12 open in the United States. Updated 16 Nov 2026.**
+**13 open in the United States. Updated 18 Nov 2026.**
 
 How CesiumAstro's internship program works, who may apply and when: [CesiumAstro internships on SpaceJobs.Now](https://spacejobs.now/employers/cesiumastro/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -24,4 +24,5 @@ How CesiumAstro's internship program works, who may apply and when: [CesiumAstro
 | **CesiumAstro** | [Summer 2027 - Manufacturing Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-manufacturing-internship?utm_source=github&utm_medium=internship-list) | Austin, TX |  | Summer 2027 | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, RF](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-rf?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
 | **CesiumAstro** | [Summer 2027 - GNC Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-gnc-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
+| **CesiumAstro** | [Summer 2027 - Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Austin, TX |  | Summer 2027 | Aug 27 |
 | **CesiumAstro** | [Summer 2027 – Test Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-test-engineering-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Aug 27 |
