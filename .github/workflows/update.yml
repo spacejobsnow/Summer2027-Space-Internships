@@ -1,3 +1,4 @@
+# Daily rebuild. The schedule was re-armed on 19 Nov 2026 after GitHub reinstated the account (it stopped firing while hidden).
 name: Update the list
 on:
   schedule:
