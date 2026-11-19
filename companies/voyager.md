@@ -1,11 +1,11 @@
 ---
 title: "Voyager Technologies internships 2027: open roles, pay and how to apply"
-description: "7 open Voyager Technologies internships and co-ops in the US (Business and programs; Mechanical, structures and thermal; Software and IT), updated daily."
+description: "7 open Voyager Technologies internships and co-ops in the US (Business and programs; Avionics and electrical; Systems, integration and test), updated daily."
 ---
 
 # Voyager Technologies internships (2027)
 
-**7 open in the United States. Updated 18 Nov 2026.**
+**7 open in the United States. Updated 19 Nov 2026.**
 
 How Voyager Technologies's internship program works, who may apply and when: [Voyager Technologies internships on SpaceJobs.Now](https://spacejobs.now/employers/voyager/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

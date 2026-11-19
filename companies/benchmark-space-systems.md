@@ -1,11 +1,11 @@
 ---
 title: "Benchmark Space Systems internships 2027: open roles, pay and how to apply"
-description: "6 open Benchmark Space Systems internships and co-ops in the US (Propulsion; Systems, integration and test; Manufacturing), updated daily."
+description: "6 open Benchmark Space Systems internships and co-ops in the US (Systems, integration and test; Propulsion; Avionics and electrical), updated daily."
 ---
 
 # Benchmark Space Systems internships (2027)
 
-**6 open in the United States. Updated 18 Nov 2026.**
+**6 open in the United States. Updated 19 Nov 2026.**
 
 How Benchmark Space Systems's internship program works, who may apply and when: [Benchmark Space Systems internships on SpaceJobs.Now](https://spacejobs.now/employers/benchmark-space-systems/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

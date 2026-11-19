@@ -1,11 +1,11 @@
 ---
 title: "Avionics and electrical internships at space companies (2027)"
-description: "44 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, Intuitive Machines and more), updated daily."
+description: "41 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro and more), updated daily."
 ---
 
 # Avionics and electrical internships at space companies (2027)
 
-**44 open in the United States at 25 companies, most at Astranis, The Aerospace Corporation, Blue Origin, Intuitive Machines, CesiumAstro. Updated 18 Nov 2026.**
+**41 open in the United States at 24 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, Impulse Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,11 +14,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
 | **Impulse Space** | [Digital Design (FPGA/ASIC) Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/impulse-space/digital-design-fpga-asic-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $34/hr | Summer 2027 | Nov 17 |
-| **Northwood Space** | [Electrical Engineering Intern (2027 Summer Internship)](https://spacejobs.now/jobs/northwood-space/electrical-engineering-intern-2027-summer-internship?utm_source=github&utm_medium=internship-list) | Torrance, CA |  |  | Nov 16 |
 | **Lockheed Martin** | [Electrical Test Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineering-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $20.14–$28.15/hr | freshmen-and-sophomores | Nov 16 |
 | **Intuitive Machines** | [Avionics Engineer – EE Design Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-ee-design-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
-| **Intuitive Machines** | [Avionics Engineer – Test Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-test-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
-| **Intuitive Machines** | [Avionics Production/Project Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-production-project-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, FPGA](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-fpga?utm_source=github&utm_medium=internship-list) | Melbourne, FL |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, Hardware](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-hardware?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 1 more |  | Summer 2027 | Nov 9 |
 | **Sierra Lobo** | [Electrical Engineering Intern - Spring 2027](https://spacejobs.now/jobs/sierra-lobo/electrical-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Milan, OH |  | Spring 2027 | Nov 9 |

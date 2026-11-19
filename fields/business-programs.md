@@ -1,11 +1,11 @@
 ---
 title: "Business and programs internships at space companies (2027)"
-description: "52 open business and programs internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), Virginia Space and more), updated daily."
+description: "51 open business and programs internships and co-ops at space companies in the US (Blue Origin, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, United Launch Alliance and more), updated daily."
 ---
 
 # Business and programs internships at space companies (2027)
 
-**52 open in the United States at 19 companies, most at Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), Virginia Space, United Launch Alliance. Updated 18 Nov 2026.**
+**51 open in the United States at 18 companies, most at Blue Origin, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, United Launch Alliance, Virginia Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/business-programs?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -49,7 +49,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Muon Space** | [International Business Development Intern (Summer 2027)](https://spacejobs.now/jobs/muon-space/international-business-development-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Woodbridge, VA | $40/hr | Summer 2027 | Sep 28 |
 | **Astranis** | [Technical Project Management Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/technical-project-management-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 24 |
 | **Astranis** | [Technical Project Management Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/technical-project-management-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
-| **Star Catcher** | [Summer 2027 Marketing & Communications Internship](https://spacejobs.now/jobs/star-catcher/summer-2027-marketing-communications-internship?utm_source=github&utm_medium=internship-list) | Jacksonville, Florida |  | Summer 2027 | Sep 21 |
 | **Lunar Outpost** | [Business Development Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/business-development-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 21 |
 | **Astranis** | [Network Planning Sales Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/network-planning-sales-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, California | $29.00/hr | Winter 2027 | Sep 18 |
 | **Rocket Lab** | [People & Culture Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/people-culture-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $25.00/hr | Spring 2027, with-housing | Sep 17 |

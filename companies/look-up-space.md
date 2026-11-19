@@ -1,11 +1,11 @@
 ---
 title: "Look Up Space internships 2027: open roles, pay and how to apply"
-description: "7 open Look Up Space internships and co-ops outside the US (Business and programs; Flight software and GNC; RF, communications and payloads), updated daily."
+description: "7 open Look Up Space internships and co-ops outside the US (Business and programs; Flight software and GNC; Mechanical, structures and thermal), updated daily."
 ---
 
 # Look Up Space internships (2027)
 
-**7 open. Updated 18 Nov 2026.**
+**7 open. Updated 19 Nov 2026.**
 
 How Look Up Space's internship program works, who may apply and when: [Look Up Space internships on SpaceJobs.Now](https://spacejobs.now/employers/look-up-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

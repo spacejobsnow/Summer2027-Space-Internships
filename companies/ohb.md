@@ -1,11 +1,11 @@
 ---
 title: "OHB internships 2027: open roles, pay and how to apply"
-description: "12 open OHB internships and co-ops outside the US (Software and IT; Mechanical, structures and thermal; Manufacturing), updated daily."
+description: "12 open OHB internships and co-ops outside the US (Software and IT; Mechanical, structures and thermal; Business and programs), updated daily."
 ---
 
 # OHB internships (2027)
 
-**12 open. Updated 18 Nov 2026.**
+**12 open. Updated 19 Nov 2026.**
 
 How OHB's internship program works, who may apply and when: [OHB internships on SpaceJobs.Now](https://spacejobs.now/employers/ohb/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

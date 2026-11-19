@@ -1,11 +1,11 @@
 ---
 title: "Propulsion internships at space companies (2027)"
-description: "23 open propulsion internships and co-ops at space companies in the US (Rocket Lab, The Aerospace Corporation, Blue Origin, Ursa Major and more), updated daily."
+description: "23 open propulsion internships and co-ops at space companies in the US (Rocket Lab, The Aerospace Corporation, Blue Origin, Astranis and more), updated daily."
 ---
 
 # Propulsion internships at space companies (2027)
 
-**23 open in the United States at 9 companies, most at Rocket Lab, The Aerospace Corporation, Blue Origin, Ursa Major, Astranis. Updated 18 Nov 2026.**
+**23 open in the United States at 9 companies, most at Rocket Lab, The Aerospace Corporation, Blue Origin, Astranis, Varda Space Industries. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/propulsion?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

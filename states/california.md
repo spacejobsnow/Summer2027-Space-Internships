@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in California (2027)"
-description: "229 open space internships and co-ops in California (Astranis, The Aerospace Corporation, Varda Space Industries, Rocket Lab and more), updated daily."
+description: "227 open space internships and co-ops in California (Astranis, The Aerospace Corporation, Varda Space Industries, Rocket Lab and more), updated daily."
 ---
 
 # Space and aerospace internships in California (2027)
 
-**229 open at 31 companies, most at Astranis, The Aerospace Corporation, Varda Space Industries, Rocket Lab, Impulse Space. Updated 18 Nov 2026.**
+**227 open at 31 companies, most at Astranis, The Aerospace Corporation, Varda Space Industries, Rocket Lab, Impulse Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/california?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -19,7 +19,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Impulse Space** | [Digital Signal Processing Graduate Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/impulse-space/digital-signal-processing-graduate-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $34/hr | Summer 2027, graduate-students | Nov 17 |
 | **Impulse Space** | [Digital Design (FPGA/ASIC) Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/impulse-space/digital-design-fpga-asic-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $34/hr | Summer 2027 | Nov 17 |
 | **Lockheed Martin** | [GN&C Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/gn-c-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO and 1 more | $30.16–$34.84/hr |  | Nov 17 |
-| **Northwood Space** | [Electrical Engineering Intern (2027 Summer Internship)](https://spacejobs.now/jobs/northwood-space/electrical-engineering-intern-2027-summer-internship?utm_source=github&utm_medium=internship-list) | Torrance, CA |  |  | Nov 16 |
 | **Muon Space** | [Software Engineering Intern-Information Systems (Summer 2027)](https://spacejobs.now/jobs/muon-space/software-engineering-intern-information-systems-summer-2027?utm_source=github&utm_medium=internship-list) | San Jose, CA | $40/hr | Summer 2027 | Nov 12 |
 | **Muon Space** | [Security Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/muon-space/security-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Mountain View, CA | $40/hr | Summer 2027 | Nov 12 |
 | **The Aerospace Corporation** | [2027 Guidance, Navigation, and Control Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-guidance-navigation-and-control-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Nov 12 |
@@ -39,7 +38,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Apex** | [Software Engineering Internship, Embedded Systems (Spring or Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-internship-embedded-systems-spring-or-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
 | **The Aerospace Corporation** | [2027 Trajectory Optimization Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-trajectory-optimization-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | graduate-students, with-housing | Nov 5 |
 | **The Aerospace Corporation** | [2027 Battery Test Lab Undergraduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-battery-test-lab-undergraduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | freshmen-and-sophomores, with-housing | Nov 5 |
-| **Impulse Space** | [Manufacturing Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/impulse-space/manufacturing-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Spring 2027 | Nov 4 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Electrical & Computer Engineering Academic Part Time Intern](https://spacejobs.now/jobs/jpl/electrical-computer-engineering-academic-part-time-intern?utm_source=github&utm_medium=internship-list) | Pasadena, CA | $21/hr | freshmen-and-sophomores | Nov 4 |
 | **Lockheed Martin** | [Embedded Software Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 2 more | $25.18–$35.19/hr | Summer 2027 | Nov 3 |
 | **The Aerospace Corporation** | [2027 Software Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-software-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | with-housing | Nov 2 |

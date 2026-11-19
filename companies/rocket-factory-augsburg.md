@@ -1,11 +1,11 @@
 ---
 title: "Rocket Factory Augsburg internships 2027: open roles, pay and how to apply"
-description: "17 open Rocket Factory Augsburg internships and co-ops outside the US (Flight software and GNC; Manufacturing; Launch and mission operations), updated daily."
+description: "18 open Rocket Factory Augsburg internships and co-ops outside the US (Flight software and GNC; Business and programs; Manufacturing), updated daily."
 ---
 
 # Rocket Factory Augsburg internships (2027)
 
-**17 open. Updated 18 Nov 2026.**
+**18 open. Updated 19 Nov 2026.**
 
 How Rocket Factory Augsburg's internship program works, who may apply and when: [Rocket Factory Augsburg internships on SpaceJobs.Now](https://spacejobs.now/employers/rocket-factory-augsburg/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -23,6 +23,7 @@ How Rocket Factory Augsburg's internship program works, who may apply and when: 
 | **Rocket Factory Augsburg** | [Intern (f/m/d) Project Management](https://spacejobs.now/jobs/rocket-factory-augsburg/intern-f-m-d-project-management?utm_source=github&utm_medium=internship-list) | Augsburg, Bavaria, Germany |  |  | May 6 |
 | **Rocket Factory Augsburg** | [Intern (m/f/d) Launch Systems Engineering](https://spacejobs.now/jobs/rocket-factory-augsburg/intern-m-f-d-launch-systems-engineering?utm_source=github&utm_medium=internship-list) | Augsburg, Bavaria, Germany |  |  | Apr 21 |
 | **Rocket Factory Augsburg** | [Intern (m/f/d) 3D Printing/Additive Manufacturing](https://spacejobs.now/jobs/rocket-factory-augsburg/intern-m-f-d-3d-printing-additive-manufacturing?utm_source=github&utm_medium=internship-list) | Augsburg, Bavaria, Germany |  |  | Apr 16 |
+| **Rocket Factory Augsburg** | [Intern (m/f/d) Propulsion Engineering](https://spacejobs.now/jobs/rocket-factory-augsburg/intern-m-f-d-propulsion-engineering?utm_source=github&utm_medium=internship-list) | Augsburg, Bavaria, Germany |  |  | Apr 10 |
 | **Rocket Factory Augsburg** | [Intern (f/m/d) Launch Operations Engineering](https://spacejobs.now/jobs/rocket-factory-augsburg/intern-f-m-d-launch-operations-engineering?utm_source=github&utm_medium=internship-list) | Augsburg, Bavaria, Germany |  |  | Apr 10 |
 | **Rocket Factory Augsburg** | [Intern (m/f/d) Avionics EWIS Design](https://spacejobs.now/jobs/rocket-factory-augsburg/intern-m-f-d-avionics-ewis-design?utm_source=github&utm_medium=internship-list) | Augsburg, Bavaria, Germany |  |  | Apr 9 |
 | **Rocket Factory Augsburg** | [Intern (m/f/d) Mathematical Modeling](https://spacejobs.now/jobs/rocket-factory-augsburg/intern-m-f-d-mathematical-modeling?utm_source=github&utm_medium=internship-list) | Augsburg, Bavaria, Germany |  |  | Apr 2 |

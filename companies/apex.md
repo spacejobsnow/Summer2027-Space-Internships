@@ -5,7 +5,7 @@ description: "5 open Apex internships and co-ops in the US (Systems, integration
 
 # Apex internships (2027)
 
-**5 open in the United States. Updated 18 Nov 2026.**
+**5 open in the United States. Updated 19 Nov 2026.**
 
 How Apex's internship program works, who may apply and when: [Apex internships on SpaceJobs.Now](https://spacejobs.now/employers/apex/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

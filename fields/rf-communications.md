@@ -1,11 +1,11 @@
 ---
 title: "RF, communications and payloads internships at space companies (2027)"
-description: "20 open rf, communications and payloads internships and co-ops at space companies in the US (The Aerospace Corporation, Astranis, Inversion Space, CesiumAstro and more), updated daily."
+description: "21 open rf, communications and payloads internships and co-ops at space companies in the US (The Aerospace Corporation, Astranis, Lockheed Martin, Intuitive Machines and more), updated daily."
 ---
 
 # RF, communications and payloads internships at space companies (2027)
 
-**20 open in the United States at 6 companies, most at The Aerospace Corporation, Astranis, Inversion Space, CesiumAstro, Impulse Space. Updated 18 Nov 2026.**
+**21 open in the United States at 7 companies, most at The Aerospace Corporation, Astranis, Lockheed Martin, Intuitive Machines, CesiumAstro. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/rf-communications?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,6 +14,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
 | **Impulse Space** | [Digital Signal Processing Graduate Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/impulse-space/digital-signal-processing-graduate-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $34/hr | Summer 2027, graduate-students | Nov 17 |
+| **Intuitive Machines** | [Communications Test and Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/communications-test-and-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Astranis** | [Embedded Software Developer, Network/Payload Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/embedded-software-developer-network-payload-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Nov 6 |
 | **Lockheed Martin** | [College Student - Technical - Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-technical-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 4 |
 | **The Aerospace Corporation** | [2027 Radio Frequency (RF) Spectrum Engineering Undergrad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-radio-frequency-rf-spectrum-engineering-undergrad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Oct 28 |

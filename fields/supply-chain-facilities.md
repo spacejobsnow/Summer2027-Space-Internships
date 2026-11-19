@@ -1,11 +1,11 @@
 ---
 title: "Supply chain and facilities internships at space companies (2027)"
-description: "26 open supply chain and facilities internships and co-ops at space companies in the US (Rocket Lab, United Launch Alliance, Axiom Space, Ursa Major and more), updated daily."
+description: "25 open supply chain and facilities internships and co-ops at space companies in the US (Rocket Lab, United Launch Alliance, Varda Space Industries, Virginia Space and more), updated daily."
 ---
 
 # Supply chain and facilities internships at space companies (2027)
 
-**26 open in the United States at 13 companies, most at Rocket Lab, United Launch Alliance, Axiom Space, Ursa Major, Virginia Space. Updated 18 Nov 2026.**
+**25 open in the United States at 12 companies, most at Rocket Lab, United Launch Alliance, Varda Space Industries, Virginia Space, Northwood Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/supply-chain-facilities?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,7 +13,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
-| **Intuitive Machines** | [Logistics and Mechanisms Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/logistics-and-mechanisms-engineering-intern?utm_source=github&utm_medium=internship-list) | Glen Burnie, MD |  |  | Nov 13 |
 | **United Launch Alliance** | [Civil Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/civil-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **United Launch Alliance** | [Logistics & Transportation Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/logistics-transportation-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **United Launch Alliance** | [Material Requirements Planning Specialist (MRP) Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/material-requirements-planning-specialist-mrp-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027 | Oct 30 |

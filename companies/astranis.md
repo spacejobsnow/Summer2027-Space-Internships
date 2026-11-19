@@ -1,11 +1,11 @@
 ---
 title: "Astranis internships 2027: open roles, pay and how to apply"
-description: "45 open Astranis internships and co-ops in the US (Systems, integration and test; Mechanical, structures and thermal; Avionics and electrical), updated daily."
+description: "45 open Astranis internships and co-ops in the US (Systems, integration and test; Avionics and electrical; Mechanical, structures and thermal), updated daily."
 ---
 
 # Astranis internships (2027)
 
-**45 open in the United States. Updated 18 Nov 2026.**
+**45 open in the United States. Updated 19 Nov 2026.**
 
 How Astranis's internship program works, who may apply and when: [Astranis internships on SpaceJobs.Now](https://spacejobs.now/employers/astranis/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

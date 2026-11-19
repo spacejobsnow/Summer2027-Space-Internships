@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Florida (2027)"
-description: "17 open space internships and co-ops in Florida (Blue Origin, CesiumAstro, United Launch Alliance, Star Catcher and more), updated daily."
+description: "15 open space internships and co-ops in Florida (Blue Origin, CesiumAstro, United Launch Alliance, Lockheed Martin and more), updated daily."
 ---
 
 # Space and aerospace internships in Florida (2027)
 
-**17 open at 6 companies, most at Blue Origin, CesiumAstro, United Launch Alliance, Star Catcher, Lockheed Martin. Updated 18 Nov 2026.**
+**15 open at 5 companies, most at Blue Origin, CesiumAstro, United Launch Alliance, Lockheed Martin, Stoke Space. Updated 19 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/florida?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -25,8 +25,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [Summer 2027 Non-Destructive Test Inspector – Internship](https://spacejobs.now/jobs/blue-origin/summer-2027-non-destructive-test-inspector-internship?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $22/hr | Summer 2027, with-housing | Oct 30 |
 | **Blue Origin** | [Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-marine-mechanical-test-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 14 |
 | **Blue Origin** | [Summer 2027 Manufacturing Engineering Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-manufacturing-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 13 |
-| **Star Catcher** | [Summer 2027 Marketing & Communications Internship](https://spacejobs.now/jobs/star-catcher/summer-2027-marketing-communications-internship?utm_source=github&utm_medium=internship-list) | Jacksonville, Florida |  | Summer 2027 | Sep 21 |
-| **Star Catcher** | [Summer 2027 Engineering Internship](https://spacejobs.now/jobs/star-catcher/summer-2027-engineering-internship?utm_source=github&utm_medium=internship-list) | Jacksonville, Florida |  | Summer 2027 | Sep 21 |
 | **Stoke Space** | [Summer 2027 Internship - Engineering](https://spacejobs.now/jobs/stoke-space/summer-2027-internship-engineering?utm_source=github&utm_medium=internship-list) | Cape Canaveral, Florida and 2 more | $28.00/hr | Summer 2027, freshmen-and-sophomores, with-housing | Sep 1 |
 | **Blue Origin** | [2026 Intern Conversion - Fluid Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-fluid-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $81,313–$113,838/yr |  | Aug 12 |
 | **Blue Origin** | [2026 Intern Conversion - Guidance, Navigation & Control Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-guidance-navigation-control-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $87,816–$122,942/yr |  | Aug 11 |
