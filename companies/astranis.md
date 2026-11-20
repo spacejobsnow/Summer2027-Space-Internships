@@ -1,11 +1,11 @@
 ---
 title: "Astranis internships 2027: open roles, pay and how to apply"
-description: "45 open Astranis internships and co-ops in the US (Systems, integration and test; Avionics and electrical; Mechanical, structures and thermal), updated daily."
+description: "42 open Astranis internships and co-ops in the US (Systems, integration and test; Avionics and electrical; Mechanical, structures and thermal), updated daily."
 ---
 
 # Astranis internships (2027)
 
-**45 open in the United States. Updated 19 Nov 2026.**
+**42 open in the United States. Updated 20 Nov 2026.**
 
 How Astranis's internship program works, who may apply and when: [Astranis internships on SpaceJobs.Now](https://spacejobs.now/employers/astranis/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -34,7 +34,6 @@ How Astranis's internship program works, who may apply and when: [Astranis inter
 | **Astranis** | [Software Defined Radio Hardware Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/software-defined-radio-hardware-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Propulsion Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/propulsion-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Propulsion Engineer Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/propulsion-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |
-| **Astranis** | [Antenna Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/antenna-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |
 | **Astranis** | [Antenna Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/antenna-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Electrical Reliability Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/electrical-reliability-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |
 | **Astranis** | [Avionics Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/avionics-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
@@ -54,7 +53,5 @@ How Astranis's internship program works, who may apply and when: [Astranis inter
 | **Astranis** | [Propulsion Manufacturing Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/propulsion-manufacturing-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 18 |
 | **Astranis** | [Network Planning Sales Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/network-planning-sales-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, California | $29.00/hr | Winter 2027 | Sep 18 |
 | **Astranis** | [Mechanical Engineer Intern (Spring 2027)](https://spacejobs.now/jobs/astranis/mechanical-engineer-intern-spring-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Spring 2027 | Aug 15 |
-| **Astranis** | [Mechanical Engineer Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/mechanical-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Aug 15 |
-| **Astranis** | [Mechanical Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/mechanical-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Aug 15 |
 | **Astranis** | [CAD Engineer Intern (Spring 2027)](https://spacejobs.now/jobs/astranis/cad-engineer-intern-spring-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Spring 2027 | Aug 15 |
 | **Astranis** | [CAD Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/cad-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Aug 15 |

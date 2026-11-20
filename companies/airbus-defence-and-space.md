@@ -5,7 +5,7 @@ description: "31 open Airbus Defence and Space internships and co-ops outside th
 
 # Airbus Defence and Space internships (2027)
 
-**31 open. Updated 19 Nov 2026.**
+**31 open. Updated 20 Nov 2026.**
 
 How Airbus Defence and Space's internship program works, who may apply and when: [Airbus Defence and Space internships on SpaceJobs.Now](https://spacejobs.now/employers/airbus-defence-and-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

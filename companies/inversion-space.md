@@ -1,11 +1,11 @@
 ---
 title: "Inversion Space internships 2027: open roles, pay and how to apply"
-description: "7 open Inversion Space internships and co-ops in the US (Flight software and GNC; Mechanical, structures and thermal; Manufacturing), updated daily."
+description: "7 open Inversion Space internships and co-ops in the US (Mechanical, structures and thermal; Flight software and GNC; RF, communications and payloads), updated daily."
 ---
 
 # Inversion Space internships (2027)
 
-**7 open in the United States. Updated 19 Nov 2026.**
+**7 open in the United States. Updated 20 Nov 2026.**
 
 How Inversion Space's internship program works, who may apply and when: [Inversion Space internships on SpaceJobs.Now](https://spacejobs.now/employers/inversion-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

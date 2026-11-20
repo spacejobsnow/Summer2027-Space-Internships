@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Maryland (2027)"
-description: "15 open space internships and co-ops in Maryland (Rocket Lab, Johns Hopkins APL, Intuitive Machines, AeroVironment (AV) and more), updated daily."
+description: "15 open space internships and co-ops in Maryland (Rocket Lab, Intuitive Machines, Johns Hopkins APL, Lockheed Martin and more), updated daily."
 ---
 
 # Space and aerospace internships in Maryland (2027)
 
-**15 open at 5 companies, most at Rocket Lab, Johns Hopkins APL, Intuitive Machines, AeroVironment (AV), Lockheed Martin. Updated 19 Nov 2026.**
+**15 open at 5 companies, most at Rocket Lab, Intuitive Machines, Johns Hopkins APL, Lockheed Martin, AeroVironment (AV). Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/maryland?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Intuitive Machines** | [Mechanisms Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/mechanisms-engineering-intern?utm_source=github&utm_medium=internship-list) | Glen Burnie, MD |  |  | Nov 20 |
 | **Johns Hopkins APL** | [2027 Internship - Aerospace Engineer - Astrodynamics and Control Systems](https://spacejobs.now/jobs/johns-hopkins-apl/2027-internship-aerospace-engineer-astrodynamics-and-control-systems?utm_source=github&utm_medium=internship-list) | Laurel, MD | $22.60/hr | with-housing | Nov 16 |
 | **Intuitive Machines** | [Logistics and Mechanisms Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/logistics-and-mechanisms-engineering-intern?utm_source=github&utm_medium=internship-list) | Glen Burnie, MD |  |  | Nov 13 |
 | **Lockheed Martin** | [Software Development Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/software-development-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Bethesda, MD and 1 more | $22.66–$31.67/hr | Summer 2027 | Nov 9 |
@@ -23,7 +24,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Rocket Lab** | [Supply Chain Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/supply-chain-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 3 more | $22–$25/hr | Spring 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Manufacturing Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Wallops Island, VA and 2 more | $25–$28/hr | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 3 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
-| **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 2 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Mechanical Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Silver Spring, MD and 2 more |  | Summer 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Manufacturing Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 1 more | $25–$28/hr | Spring 2027, with-housing | Sep 16 |
 | **AeroVironment (AV)** | [Business Development Intern](https://spacejobs.now/jobs/aerovironment/business-development-intern?utm_source=github&utm_medium=internship-list) | Germantown, MD |  |  | Aug 25 |

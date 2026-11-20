@@ -5,7 +5,7 @@ description: "6 open NASA Jet Propulsion Laboratory (JPL) internships and co-ops
 
 # NASA Jet Propulsion Laboratory (JPL) internships (2027)
 
-**6 open in the United States. Updated 19 Nov 2026.**
+**6 open in the United States. Updated 20 Nov 2026.**
 
 How NASA Jet Propulsion Laboratory (JPL)'s internship program works, who may apply and when: [NASA Jet Propulsion Laboratory (JPL) internships on SpaceJobs.Now](https://spacejobs.now/employers/jpl/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

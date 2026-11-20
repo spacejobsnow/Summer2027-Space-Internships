@@ -1,11 +1,11 @@
 ---
 title: "Flight software and GNC internships at space companies (2027)"
-description: "42 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Varda Space Industries, Astranis and more), updated daily."
+description: "44 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Varda Space Industries, Lockheed Martin and more), updated daily."
 ---
 
 # Flight software and GNC internships at space companies (2027)
 
-**42 open in the United States at 17 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Astranis, Lockheed Martin. Updated 19 Nov 2026.**
+**44 open in the United States at 18 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Lockheed Martin, CesiumAstro. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Scout Space** | [GNC and Astrodynamics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/gnc-and-astrodynamics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
+| **Scout Space** | [Embedded Firmware Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/embedded-firmware-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
 | **Lockheed Martin** | [GN&C Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/gn-c-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO and 1 more | $30.16–$34.84/hr |  | Nov 17 |
 | **Johns Hopkins APL** | [2027 Internship - Aerospace Engineer - Astrodynamics and Control Systems](https://spacejobs.now/jobs/johns-hopkins-apl/2027-internship-aerospace-engineer-astrodynamics-and-control-systems?utm_source=github&utm_medium=internship-list) | Laurel, MD | $22.60/hr | with-housing | Nov 16 |
 | **Intuitive Machines** | [Flight Software Intern](https://spacejobs.now/jobs/intuitive-machines/flight-software-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |

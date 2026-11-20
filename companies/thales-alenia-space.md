@@ -5,7 +5,7 @@ description: "112 open Thales Alenia Space internships and co-ops outside the US
 
 # Thales Alenia Space internships (2027)
 
-**112 open. Updated 19 Nov 2026.**
+**112 open. Updated 20 Nov 2026.**
 
 How Thales Alenia Space's internship program works, who may apply and when: [Thales Alenia Space internships on SpaceJobs.Now](https://spacejobs.now/employers/thales-alenia-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

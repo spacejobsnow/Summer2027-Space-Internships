@@ -1,11 +1,11 @@
 ---
 title: "Supply chain and facilities internships at space companies (2027)"
-description: "25 open supply chain and facilities internships and co-ops at space companies in the US (Rocket Lab, United Launch Alliance, Varda Space Industries, Virginia Space and more), updated daily."
+description: "25 open supply chain and facilities internships and co-ops at space companies in the US (Rocket Lab, United Launch Alliance, Ursa Major, Varda Space Industries and more), updated daily."
 ---
 
 # Supply chain and facilities internships at space companies (2027)
 
-**25 open in the United States at 12 companies, most at Rocket Lab, United Launch Alliance, Varda Space Industries, Virginia Space, Northwood Space. Updated 19 Nov 2026.**
+**25 open in the United States at 12 companies, most at Rocket Lab, United Launch Alliance, Ursa Major, Varda Space Industries, Axiom Space. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/supply-chain-facilities?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -33,7 +33,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **K2 Space** | [Supply Chain Internship - Summer 2027](https://spacejobs.now/jobs/k2-space/supply-chain-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $30–$40/hr | Summer 2027 | Sep 28 |
 | **Rocket Lab** | [Supply Chain Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/supply-chain-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 3 more | $22–$25/hr | Spring 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 3 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
-| **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 2 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
+| **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM and 1 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - Supply Chain Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-supply-chain-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 16 |
 | **Rocket Lab** | [Indirect Procurement Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/indirect-procurement-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $25.00/hr | Summer 2027, with-housing | Sep 11 |
 | **Varda Space Industries** | [Supply Chain Internship - Spring 2027](https://spacejobs.now/jobs/varda/supply-chain-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Spring 2027, with-housing | Aug 7 |

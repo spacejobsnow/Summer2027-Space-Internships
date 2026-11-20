@@ -1,11 +1,11 @@
 ---
 title: "Intuitive Machines internships 2027: open roles, pay and how to apply"
-description: "21 open Intuitive Machines internships and co-ops in the US (Mechanical, structures and thermal; Launch and mission operations; Systems, integration and test), updated daily."
+description: "22 open Intuitive Machines internships and co-ops in the US (Mechanical, structures and thermal; Launch and mission operations; Systems, integration and test), updated daily."
 ---
 
 # Intuitive Machines internships (2027)
 
-**21 open in the United States. Updated 19 Nov 2026.**
+**22 open in the United States. Updated 20 Nov 2026.**
 
 How Intuitive Machines's internship program works, who may apply and when: [Intuitive Machines internships on SpaceJobs.Now](https://spacejobs.now/employers/intuitive-machines/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ How Intuitive Machines's internship program works, who may apply and when: [Intu
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Intuitive Machines** | [Mechanisms Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/mechanisms-engineering-intern?utm_source=github&utm_medium=internship-list) | Glen Burnie, MD |  |  | Nov 20 |
 | **Intuitive Machines** | [Stress Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/stress-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Structures and Design Intern](https://spacejobs.now/jobs/intuitive-machines/structures-and-design-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Loads and Dynamics Intern](https://spacejobs.now/jobs/intuitive-machines/loads-and-dynamics-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |

@@ -5,7 +5,7 @@ description: "9 open space internships and co-ops in New Mexico (Rocket Lab, Aer
 
 # Space and aerospace internships in New Mexico (2027)
 
-**9 open at 3 companies, most at Rocket Lab, AeroVironment (AV), The Aerospace Corporation. Updated 19 Nov 2026.**
+**9 open at 3 companies, most at Rocket Lab, AeroVironment (AV), The Aerospace Corporation. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/new-mexico?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -21,4 +21,4 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Rocket Lab** | [R&D Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/r-d-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM | $20.00/hr | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [R&D Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/r-d-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM | $20.00/hr | Spring 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 3 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
-| **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 2 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
+| **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM and 1 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |

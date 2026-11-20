@@ -1,11 +1,11 @@
 ---
 title: "Manufacturing internships at space companies (2027)"
-description: "30 open manufacturing internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, Astranis, Firefly Aerospace and more), updated daily."
+description: "29 open manufacturing internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, Astranis, Impulse Space and more), updated daily."
 ---
 
 # Manufacturing internships at space companies (2027)
 
-**30 open in the United States at 19 companies, most at Blue Origin, Rocket Lab, Astranis, Firefly Aerospace, Rendezvous Robotics. Updated 19 Nov 2026.**
+**29 open in the United States at 18 companies, most at Blue Origin, Rocket Lab, Astranis, Impulse Space, Varda Space Industries. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/manufacturing?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,15 +13,14 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
-| **Impulse Space** | [Manufacturing Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/manufacturing-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Boulder, Colorado and 1 more | $30/hr | Summer 2027 | Nov 18 |
 | **Lockheed Martin** | [Manufacturing Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/manufacturing-engineering-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $20.14–$28.15/hr | freshmen-and-sophomores | Nov 16 |
 | **Intuitive Machines** | [Avionics Production/Project Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-production-project-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Viasat** | [Industrial Engineer Intern](https://spacejobs.now/jobs/viasat/industrial-engineer-intern?utm_source=github&utm_medium=internship-list) | Tempe, AZ and 1 more | $25.96–$67.07/hr | with-housing | Nov 6 |
+| **Impulse Space** | [Manufacturing Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/impulse-space/manufacturing-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Spring 2027 | Nov 4 |
+| **Impulse Space** | [Manufacturing Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/manufacturing-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **United Launch Alliance** | [Industrial Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/industrial-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Weld Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/weld-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **Loft Orbital** | [Summer 2027 Internship – Thermal & Manufacturing Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-thermal-manufacturing-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 30 |
 | **Rendezvous Robotics** | [Manufacturing and Test Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/manufacturing-and-test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Oct 29 |
-| **Benchmark Space Systems** | [Production Engineering Intern](https://spacejobs.now/jobs/benchmark-space-systems/production-engineering-intern?utm_source=github&utm_medium=internship-list) | Burlington, Vermont | $23–$26/hr | with-housing | Oct 26 |
 | **Firefly Aerospace** | [Internship - Propulsion Manufacturing - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-propulsion-manufacturing-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 20 |
 | **Firefly Aerospace** | [Internship - Structures Manufacturing (Composites) - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-structures-manufacturing-composites-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 20 |
 | **Inversion Space** | [Manufacturing Engineer - Summer Internship 2027](https://spacejobs.now/jobs/inversion-space/manufacturing-engineer-summer-internship-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $38–$41/hr |  | Oct 14 |

@@ -5,7 +5,7 @@ description: "8 open Rendezvous Robotics internships and co-ops in the US (Fligh
 
 # Rendezvous Robotics internships (2027)
 
-**8 open in the United States. Updated 19 Nov 2026.**
+**8 open in the United States. Updated 20 Nov 2026.**
 
 How Rendezvous Robotics's internship program works, who may apply and when: [Rendezvous Robotics internships on SpaceJobs.Now](https://spacejobs.now/employers/rendezvous-robotics/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

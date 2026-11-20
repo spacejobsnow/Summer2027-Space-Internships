@@ -1,11 +1,11 @@
 ---
 title: "Software and IT internships at space companies (2027)"
-description: "60 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin and more), updated daily."
+description: "58 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Blue Origin, Impulse Space and more), updated daily."
 ---
 
 # Software and IT internships at space companies (2027)
 
-**60 open in the United States at 28 companies, most at Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin, Muon Space. Updated 19 Nov 2026.**
+**58 open in the United States at 28 companies, most at Lockheed Martin, The Aerospace Corporation, Blue Origin, Impulse Space, Astranis. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/ground-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -36,9 +36,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Impulse Space** | [Information Technology Intern, Service Delivery (Summer 2027)](https://spacejobs.now/jobs/impulse-space/information-technology-intern-service-delivery-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Test Automation Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/test-automation-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Iridium** | [Iridium Software Engineering Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA | $31/hr | Summer 2027 | Oct 30 |
-| **United Launch Alliance** | [Cyber Security Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/cyber-security-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **United Launch Alliance** | [Information Technology Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/information-technology-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Software Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **Axiom Space** | [IT Infrastructure Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/it-infrastructure-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 30 |
 | **Axiom Space** | [Enterprise Data Analyst Intern, Power BI & Data Quality (Summer 2027)](https://spacejobs.now/jobs/axiom-space/enterprise-data-analyst-intern-power-bi-data-quality-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 29 |
 | **The Aerospace Corporation** | [2027 Defensive Cyber Operations Undergrad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-defensive-cyber-operations-undergrad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Oct 23 |

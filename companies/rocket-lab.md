@@ -1,11 +1,11 @@
 ---
 title: "Rocket Lab internships 2027: open roles, pay and how to apply"
-description: "36 open Rocket Lab internships and co-ops (32 in the US) (Business and programs; Supply chain and facilities; Propulsion), updated daily."
+description: "37 open Rocket Lab internships and co-ops (33 in the US) (Business and programs; Supply chain and facilities; Propulsion), updated daily."
 ---
 
 # Rocket Lab internships (2027)
 
-**36 open, 32 of them in the United States. Updated 19 Nov 2026.**
+**37 open, 33 of them in the United States. Updated 20 Nov 2026.**
 
 How Rocket Lab's internship program works, who may apply and when: [Rocket Lab internships on SpaceJobs.Now](https://spacejobs.now/employers/rocket-lab/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ How Rocket Lab's internship program works, who may apply and when: [Rocket Lab i
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Rocket Lab** | [Total Rewards Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/total-rewards-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $25.00/hr | Summer 2027, with-housing | Nov 19 |
 | **Rocket Lab** | [Quality Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/quality-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Toronto, CAN, Canada and 1 more |  | Spring 2027, with-housing | Nov 17 |
 | **Rocket Lab** | [Ground Systems Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/ground-systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 1 more |  | Summer 2027, with-housing | Nov 2 |
 | **Rocket Lab** | [Ground Systems Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/ground-systems-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 1 more |  | Spring 2027, with-housing | Nov 2 |
@@ -33,7 +34,7 @@ How Rocket Lab's internship program works, who may apply and when: [Rocket Lab i
 | **Rocket Lab** | [Business Development Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/business-development-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Toronto, CAN, Canada |  | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Test Engineering Intern - Manufacturing Spring 2027](https://spacejobs.now/jobs/rocket-lab/test-engineering-intern-manufacturing-spring-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Spring 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 3 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
-| **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 2 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
+| **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM and 1 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Mechanical Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Silver Spring, MD and 2 more |  | Summer 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Propulsion Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/propulsion-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Summer 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Propulsion Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/propulsion-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Spring 2027, with-housing | Sep 16 |

@@ -1,11 +1,11 @@
 ---
 title: "Avionics and electrical internships at space companies (2027)"
-description: "41 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro and more), updated daily."
+description: "40 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro and more), updated daily."
 ---
 
 # Avionics and electrical internships at space companies (2027)
 
-**41 open in the United States at 24 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, Impulse Space. Updated 19 Nov 2026.**
+**40 open in the United States at 23 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, SpaceX. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -26,7 +26,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **United Launch Alliance** | [Avionics & Electrical Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/avionics-electrical-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **The Aerospace Corporation** | [2027 Power Systems Engineering Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-power-systems-engineering-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Oct 28 |
 | **AeroVironment (AV)** | [Electrical Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/electrical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
-| **Benchmark Space Systems** | [Electrical Engineering Intern](https://spacejobs.now/jobs/benchmark-space-systems/electrical-engineering-intern?utm_source=github&utm_medium=internship-list) | Burlington, Vermont | $23–$26/hr | with-housing | Oct 26 |
 | **Blue Origin** | [Summer 2027 Electrical Systems Engineering Internship - Graduate](https://spacejobs.now/jobs/blue-origin/summer-2027-electrical-systems-engineering-internship-graduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $38/hr | Summer 2027, graduate-students, with-housing | Oct 22 |
 | **Blue Origin** | [Summer 2027 Electrical Systems Engineering Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-electrical-systems-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 22 |
 | **The Aerospace Corporation** | [2027 Hardware Security Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-hardware-security-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Oct 21 |

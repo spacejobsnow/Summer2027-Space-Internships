@@ -1,11 +1,11 @@
 ---
 title: "Science, imaging and Earth data internships at space companies (2027)"
-description: "13 open science, imaging and earth data internships and co-ops at space companies in the US (The Aerospace Corporation, Varda Space Industries, Vantor, Anduril and more), updated daily."
+description: "14 open science, imaging and earth data internships and co-ops at space companies in the US (The Aerospace Corporation, Varda Space Industries, Scout Space, Anduril and more), updated daily."
 ---
 
 # Science, imaging and Earth data internships at space companies (2027)
 
-**13 open in the United States at 5 companies, most at The Aerospace Corporation, Varda Space Industries, Vantor, Anduril, Intuitive Machines. Updated 19 Nov 2026.**
+**14 open in the United States at 6 companies, most at The Aerospace Corporation, Varda Space Industries, Scout Space, Anduril, Intuitive Machines. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/science-imaging?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Scout Space** | [Computer Vision (AI/ML) Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/computer-vision-ai-ml-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
 | **Anduril** | [2027 Optical Payload Engineer Intern](https://spacejobs.now/jobs/anduril/2027-optical-payload-engineer-intern?utm_source=github&utm_medium=internship-list) | Costa Mesa, California | $40–$55/hr |  | Nov 10 |
 | **Intuitive Machines** | [Intern](https://spacejobs.now/jobs/intuitive-machines/intern?utm_source=github&utm_medium=internship-list) | Greenbelt, MD | $16–$19.50/hr |  | Nov 3 |
 | **The Aerospace Corporation** | [2027 Space Domain Awareness Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-space-domain-awareness-graduate-intern?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO |  | graduate-students, with-housing | Oct 30 |

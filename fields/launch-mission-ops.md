@@ -1,11 +1,11 @@
 ---
 title: "Launch and mission operations internships at space companies (2027)"
-description: "13 open launch and mission operations internships and co-ops at space companies in the US (Intuitive Machines, Firefly Aerospace, Varda Space Industries, Rocket Lab and more), updated daily."
+description: "13 open launch and mission operations internships and co-ops at space companies in the US (Intuitive Machines, Firefly Aerospace, Impulse Space, Varda Space Industries and more), updated daily."
 ---
 
 # Launch and mission operations internships at space companies (2027)
 
-**13 open in the United States at 10 companies, most at Intuitive Machines, Firefly Aerospace, Varda Space Industries, Rocket Lab, Virginia Space. Updated 19 Nov 2026.**
+**13 open in the United States at 10 companies, most at Intuitive Machines, Firefly Aerospace, Impulse Space, Varda Space Industries, Iridium. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/launch-mission-ops?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

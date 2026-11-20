@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Alabama (2027)"
-description: "16 open space internships and co-ops in Alabama (Lockheed Martin, United Launch Alliance, Blue Origin, CesiumAstro and more), updated daily."
+description: "15 open space internships and co-ops in Alabama (Lockheed Martin, United Launch Alliance, Blue Origin, CesiumAstro and more), updated daily."
 ---
 
 # Space and aerospace internships in Alabama (2027)
 
-**16 open at 4 companies, most at Lockheed Martin, United Launch Alliance, Blue Origin, CesiumAstro. Updated 19 Nov 2026.**
+**15 open at 4 companies, most at Lockheed Martin, United Launch Alliance, Blue Origin, CesiumAstro. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/alabama?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -21,7 +21,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lockheed Martin** | [Finance Intern](https://spacejobs.now/jobs/lockheed-martin/finance-intern?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 1 more | $22.66–$31.67/hr |  | Nov 9 |
 | **Lockheed Martin** | [Embedded Software Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 2 more | $25.18–$35.19/hr | Summer 2027 | Nov 3 |
 | **United Launch Alliance** | [Composite Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/composite-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Weld Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/weld-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **United Launch Alliance** | [Quality Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/quality-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **United Launch Alliance** | [Logistics & Transportation Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/logistics-transportation-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **United Launch Alliance** | [Material Requirements Planning Specialist (MRP) Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/material-requirements-planning-specialist-mrp-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027 | Oct 30 |

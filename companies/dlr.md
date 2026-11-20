@@ -1,11 +1,11 @@
 ---
 title: "German Aerospace Center (DLR) internships 2027: open roles, pay and how to apply"
-description: "34 open German Aerospace Center (DLR) internships and co-ops outside the US (RF, communications and payloads; Software and IT; Flight software and GNC), updated daily."
+description: "34 open German Aerospace Center (DLR) internships and co-ops outside the US (RF, communications and payloads; Software and IT; Science, imaging and Earth data), updated daily."
 ---
 
 # German Aerospace Center (DLR) internships (2027)
 
-**34 open. Updated 19 Nov 2026.**
+**34 open. Updated 20 Nov 2026.**
 
 How German Aerospace Center (DLR)'s internship program works, who may apply and when: [German Aerospace Center (DLR) internships on SpaceJobs.Now](https://spacejobs.now/employers/dlr/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

@@ -1,11 +1,11 @@
 ---
 title: "Business and programs internships at space companies (2027)"
-description: "51 open business and programs internships and co-ops at space companies in the US (Blue Origin, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, United Launch Alliance and more), updated daily."
+description: "53 open business and programs internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), Virginia Space and more), updated daily."
 ---
 
 # Business and programs internships at space companies (2027)
 
-**51 open in the United States at 18 companies, most at Blue Origin, NASA Jet Propulsion Laboratory (JPL), Rocket Lab, United Launch Alliance, Virginia Space. Updated 19 Nov 2026.**
+**53 open in the United States at 19 companies, most at Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), Virginia Space, United Launch Alliance. Updated 20 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/business-programs?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Rocket Lab** | [Total Rewards Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/total-rewards-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $25.00/hr | Summer 2027, with-housing | Nov 19 |
+| **Viasat** | [Program Management Intern](https://spacejobs.now/jobs/viasat/program-management-intern?utm_source=github&utm_medium=internship-list) | Duluth, GA | $25.96–$67.07/hr | with-housing | Nov 19 |
 | **Lockheed Martin** | [Financial Analytics Intern](https://spacejobs.now/jobs/lockheed-martin/financial-analytics-intern?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO | $22.66–$31.67/hr |  | Nov 16 |
 | **Intuitive Machines** | [Marketing & Communications Operations Intern](https://spacejobs.now/jobs/intuitive-machines/marketing-communications-operations-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 12 |
 | **Axiom Space** | [Contracts Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/contracts-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Nov 12 |
