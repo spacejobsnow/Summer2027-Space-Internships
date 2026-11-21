@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Florida (2027)"
-description: "14 open space internships and co-ops in Florida (Blue Origin, CesiumAstro, United Launch Alliance, Lockheed Martin and more), updated daily."
+description: "12 open space internships and co-ops in Florida (Blue Origin, CesiumAstro, Lockheed Martin, Stoke Space and more), updated daily."
 ---
 
 # Space and aerospace internships in Florida (2027)
 
-**14 open at 5 companies, most at Blue Origin, CesiumAstro, United Launch Alliance, Lockheed Martin, Stoke Space. Updated 20 Nov 2026.**
+**12 open at 4 companies, most at Blue Origin, CesiumAstro, Lockheed Martin, Stoke Space. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/florida?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,14 +13,12 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
 | **Lockheed Martin** | [Contracts Intern - Non-Technical](https://spacejobs.now/jobs/lockheed-martin/contracts-intern-non-technical?utm_source=github&utm_medium=internship-list) | Titusville, FL | $20.14–$28.15/hr |  | Nov 16 |
 | **CesiumAstro** | [Summer 2027 - Embedded Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-embedded-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, FPGA](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-fpga?utm_source=github&utm_medium=internship-list) | Melbourne, FL |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, Hardware](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-hardware?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 1 more |  | Summer 2027 | Nov 9 |
-| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **Lockheed Martin** | [Mechanical Test Engineer-INTERN](https://spacejobs.now/jobs/lockheed-martin/mechanical-test-engineer-intern?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL | $20.14–$28.15/hr |  | Nov 3 |
-| **United Launch Alliance** | [Industrial Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/industrial-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Civil Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/civil-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **Blue Origin** | [Summer 2027 Non-Destructive Test Inspector – Internship](https://spacejobs.now/jobs/blue-origin/summer-2027-non-destructive-test-inspector-internship?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $22/hr | Summer 2027, with-housing | Oct 30 |
 | **Blue Origin** | [Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-marine-mechanical-test-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 14 |
 | **Blue Origin** | [Summer 2027 Manufacturing Engineering Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-manufacturing-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 13 |

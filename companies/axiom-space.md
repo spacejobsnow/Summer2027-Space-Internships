@@ -5,7 +5,7 @@ description: "12 open Axiom Space internships and co-ops in the US (Business and
 
 # Axiom Space internships (2027)
 
-**12 open in the United States. Updated 20 Nov 2026.**
+**12 open in the United States. Updated 21 Nov 2026.**
 
 How Axiom Space's internship program works, who may apply and when: [Axiom Space internships on SpaceJobs.Now](https://spacejobs.now/employers/axiom-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

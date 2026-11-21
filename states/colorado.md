@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "72 open space internships and co-ops in Colorado (Lockheed Martin, Lunar Outpost, Ursa Major, CesiumAstro and more), updated daily."
+description: "67 open space internships and co-ops in Colorado (Lockheed Martin, Lunar Outpost, CesiumAstro, Rendezvous Robotics and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**72 open at 11 companies, most at Lockheed Martin, Lunar Outpost, Ursa Major, CesiumAstro, Rendezvous Robotics. Updated 20 Nov 2026.**
+**67 open at 11 companies, most at Lockheed Martin, Lunar Outpost, CesiumAstro, Rendezvous Robotics, Ursa Major. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
 | **Lockheed Martin** | [Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO and 1 more | $22.66–$34.84/hr | Summer 2027 | Nov 17 |
 | **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $30.16–$34.84/hr |  | Nov 17 |
 | **Lockheed Martin** | [Project Engineering - Intern](https://spacejobs.now/jobs/lockheed-martin/project-engineering-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 1 more | $22.66–$31.67/hr |  | Nov 17 |
@@ -32,19 +33,13 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lockheed Martin** | [Cyber Intelligence Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/cyber-intelligence-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO | $20.14–$28.15/hr | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Embedded Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-embedded-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, Hardware](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-hardware?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 1 more |  | Summer 2027 | Nov 9 |
-| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **Lockheed Martin** | [Software Developer Intern](https://spacejobs.now/jobs/lockheed-martin/software-developer-intern?utm_source=github&utm_medium=internship-list) | Boulder, CO | $30.16–$34.84/hr |  | Nov 6 |
 | **The Aerospace Corporation** | [2027 Trajectory Optimization Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-trajectory-optimization-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | graduate-students, with-housing | Nov 5 |
 | **Lockheed Martin** | [College Student - Technical - Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-technical-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 4 |
 | **Lockheed Martin** | [Embedded Software Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 2 more | $25.18–$35.19/hr | Summer 2027 | Nov 3 |
 | **The Aerospace Corporation** | [2027 Space Domain Awareness Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-space-domain-awareness-graduate-intern?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO |  | graduate-students, with-housing | Oct 30 |
-| **United Launch Alliance** | [Finance & Business Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/finance-business-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
-| **United Launch Alliance** | [Human Resources Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/human-resources-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **United Launch Alliance** | [Video Editing Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/video-editing-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
 | **United Launch Alliance** | [Information Technology Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/information-technology-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Material and Process Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/material-and-process-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
-| **United Launch Alliance** | [Avionics & Electrical Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/avionics-electrical-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Supply Chain Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/supply-chain-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **Loft Orbital** | [Summer 2027 Internship – Thermal & Manufacturing Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-thermal-manufacturing-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 30 |
 | **Rendezvous Robotics** | [Manufacturing and Test Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/manufacturing-and-test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Oct 29 |
 | **Loft Orbital** | [Summer 2027 Internship – Satellite Programs](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-satellite-programs?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 27 |

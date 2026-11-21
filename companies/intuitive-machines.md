@@ -5,7 +5,7 @@ description: "22 open Intuitive Machines internships and co-ops in the US (Mecha
 
 # Intuitive Machines internships (2027)
 
-**22 open in the United States. Updated 20 Nov 2026.**
+**22 open in the United States. Updated 21 Nov 2026.**
 
 How Intuitive Machines's internship program works, who may apply and when: [Intuitive Machines internships on SpaceJobs.Now](https://spacejobs.now/employers/intuitive-machines/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -19,8 +19,8 @@ How Intuitive Machines's internship program works, who may apply and when: [Intu
 | **Intuitive Machines** | [Loads and Dynamics Intern](https://spacejobs.now/jobs/intuitive-machines/loads-and-dynamics-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Thermal Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/thermal-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Avionics Engineer – Test Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-test-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
-| **Intuitive Machines** | [Communications Test and Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/communications-test-and-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Avionics Production/Project Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-production-project-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
+| **Intuitive Machines** | [Communications Test and Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/communications-test-and-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Avionics Engineer – EE Design Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-ee-design-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Mission Operations Support Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/mission-operations-support-engineering-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Integrated Testing Intern](https://spacejobs.now/jobs/intuitive-machines/integrated-testing-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  | freshmen-and-sophomores | Nov 16 |

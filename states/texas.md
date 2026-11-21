@@ -5,7 +5,7 @@ description: "56 open space internships and co-ops in Texas (Intuitive Machines,
 
 # Space and aerospace internships in Texas (2027)
 
-**56 open at 10 companies, most at Intuitive Machines, Axiom Space, Firefly Aerospace, CesiumAstro, Blue Origin. Updated 20 Nov 2026.**
+**56 open at 10 companies, most at Intuitive Machines, Axiom Space, Firefly Aerospace, CesiumAstro, Amentum. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/texas?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,13 +13,14 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
 | **Intuitive Machines** | [Stress Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/stress-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Structures and Design Intern](https://spacejobs.now/jobs/intuitive-machines/structures-and-design-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Loads and Dynamics Intern](https://spacejobs.now/jobs/intuitive-machines/loads-and-dynamics-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Thermal Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/thermal-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 17 |
 | **Intuitive Machines** | [Avionics Engineer – Test Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-test-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
-| **Intuitive Machines** | [Communications Test and Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/communications-test-and-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Avionics Production/Project Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-production-project-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
+| **Intuitive Machines** | [Communications Test and Analysis Intern](https://spacejobs.now/jobs/intuitive-machines/communications-test-and-analysis-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Avionics Engineer – EE Design Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-ee-design-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Mission Operations Support Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/mission-operations-support-engineering-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Integrated Testing Intern](https://spacejobs.now/jobs/intuitive-machines/integrated-testing-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  | freshmen-and-sophomores | Nov 16 |
@@ -34,7 +35,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Axiom Space** | [Contracts Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/contracts-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Nov 12 |
 | **Venus Aerospace** | [Summer 2027 Internship](https://spacejobs.now/jobs/venus-aerospace/summer-2027-internship?utm_source=github&utm_medium=internship-list) | Houston, TX | $26/hr to $30/hr | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Embedded Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-embedded-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
-| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **Barrios Technology** | [Data and Computer Eng/Sci Intern - Summer 2027](https://spacejobs.now/jobs/barrios-technology/data-and-computer-eng-sci-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027, freshmen-and-sophomores | Nov 9 |
 | **Barrios Technology** | [Engineering Intern - Summer 2027](https://spacejobs.now/jobs/barrios-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027, freshmen-and-sophomores | Nov 9 |
 | **Axiom Space** | [IT Infrastructure Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/it-infrastructure-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 30 |

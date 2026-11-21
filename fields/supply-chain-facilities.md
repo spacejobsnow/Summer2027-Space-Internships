@@ -1,11 +1,11 @@
 ---
 title: "Supply chain and facilities internships at space companies (2027)"
-description: "25 open supply chain and facilities internships and co-ops at space companies in the US (Rocket Lab, United Launch Alliance, Ursa Major, Varda Space Industries and more), updated daily."
+description: "22 open supply chain and facilities internships and co-ops at space companies in the US (Rocket Lab, Virginia Space, Ursa Major, Varda Space Industries and more), updated daily."
 ---
 
 # Supply chain and facilities internships at space companies (2027)
 
-**25 open in the United States at 12 companies, most at Rocket Lab, United Launch Alliance, Ursa Major, Varda Space Industries, Axiom Space. Updated 20 Nov 2026.**
+**22 open in the United States at 12 companies, most at Rocket Lab, Virginia Space, Ursa Major, Varda Space Industries, Axiom Space. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/supply-chain-facilities?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,10 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
-| **United Launch Alliance** | [Civil Engineering Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/civil-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Logistics & Transportation Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/logistics-transportation-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027, freshmen-and-sophomores | Oct 30 |
-| **United Launch Alliance** | [Material Requirements Planning Specialist (MRP) Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/material-requirements-planning-specialist-mrp-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Decatur, AL |  | Summer 2027 | Oct 30 |
-| **United Launch Alliance** | [Supply Chain Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/supply-chain-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
+| **Impulse Space** | [Supply Chain Data Analytics Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/supply-chain-data-analytics-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Nov 21 |
 | **Astranis** | [Procurement Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/procurement-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Oct 29 |
 | **Amentum** | [SkillBridge Intern - NASA Front Door Support](https://spacejobs.now/jobs/amentum/skillbridge-intern-nasa-front-door-support?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Oct 29 |
 | **Ursa Major** | [2027 Summer Business Process & ERP Documentation Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-business-process-erp-documentation-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 22 |
@@ -31,8 +28,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Virginia Space** | [Facilities Management Engineering Intern](https://spacejobs.now/jobs/virginia-space/facilities-management-engineering-intern?utm_source=github&utm_medium=internship-list) | Wallops Island, VA |  |  | Sep 30 |
 | **Virginia Space** | [Logistics Support Intern](https://spacejobs.now/jobs/virginia-space/logistics-support-intern?utm_source=github&utm_medium=internship-list) | Wallops Island, VA | $22/hr |  | Sep 30 |
 | **K2 Space** | [Supply Chain Internship - Summer 2027](https://spacejobs.now/jobs/k2-space/supply-chain-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $30–$40/hr | Summer 2027 | Sep 28 |
-| **Rocket Lab** | [Supply Chain Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/supply-chain-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 3 more | $22–$25/hr | Spring 2027, with-housing | Sep 17 |
-| **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 3 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
+| **Rocket Lab** | [Supply Chain Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/supply-chain-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 2 more | $22.00/hr | Spring 2027, with-housing | Sep 17 |
+| **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 2 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM and 1 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - Supply Chain Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-supply-chain-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 16 |
 | **Rocket Lab** | [Indirect Procurement Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/indirect-procurement-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $25.00/hr | Summer 2027, with-housing | Sep 11 |

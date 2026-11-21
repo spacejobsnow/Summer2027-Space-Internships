@@ -5,7 +5,7 @@ description: "114 open ArianeGroup internships and co-ops outside the US (Manufa
 
 # ArianeGroup internships (2027)
 
-**114 open. Updated 20 Nov 2026.**
+**114 open. Updated 21 Nov 2026.**
 
 How ArianeGroup's internship program works, who may apply and when: [ArianeGroup internships on SpaceJobs.Now](https://spacejobs.now/employers/arianegroup/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -80,7 +80,6 @@ How ArianeGroup's internship program works, who may apply and when: [ArianeGroup
 | **ArianeGroup** | [STAGE - Ingénieure / Ingénieur spécialisé en mécanique /dimensionnel](https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-specialise-en-mecanique-dimensionnel?utm_source=github&utm_medium=internship-list) | Vernon, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Ingénieure / Ingénieur en Optique et Simulation de Rayonnement](https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-en-optique-et-simulation-de-rayonnement?utm_source=github&utm_medium=internship-list) | Les Mureaux, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Technicienne / Technicien en Science des Données](https://spacejobs.now/jobs/arianegroup/stage-technicienne-technicien-en-science-des-donnees?utm_source=github&utm_medium=internship-list) | Saint-Médard-en-Jalles, Issac, France |  |  | Oct 19 |
-| **ArianeGroup** | [STAGE - Ingénieur / Ingénieure en Traitement du Signal RADAR – Apprentissage automatique – Identification / Caractérisation de cibles](https://spacejobs.now/jobs/arianegroup/stage-ingenieur-ingenieure-en-traitement-du-signal-radar-apprentissage-automatique?utm_source=github&utm_medium=internship-list) | Les Mureaux, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Assistante Ingénieure / Assistant Ingénieur de production / Amélioration continue](https://spacejobs.now/jobs/arianegroup/stage-assistante-ingenieure-assistant-ingenieur-de-production-amelioration-continue?utm_source=github&utm_medium=internship-list) | Le Haillan, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Chargée / Chargé d'optimisation des processus de gestion de production](https://spacejobs.now/jobs/arianegroup/stage-chargee-charge-d-optimisation-des-processus-de-gestion-de-production?utm_source=github&utm_medium=internship-list) | Vernon, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Ingénieure / Ingénieur Amélioration continue unité de production Ariane 6](https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-amelioration-continue-unite-de-production-ariane-6?utm_source=github&utm_medium=internship-list) | Les Mureaux, France |  |  | Oct 19 |
@@ -94,6 +93,7 @@ How ArianeGroup's internship program works, who may apply and when: [ArianeGroup
 | **ArianeGroup** | [STAGE - Technicienne / Technicien en métrologie](https://spacejobs.now/jobs/arianegroup/stage-technicienne-technicien-en-metrologie?utm_source=github&utm_medium=internship-list) | Le Haillan, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Technicienne / Technicien Méthodes / Gestion de production](https://spacejobs.now/jobs/arianegroup/stage-technicienne-technicien-methodes-gestion-de-production?utm_source=github&utm_medium=internship-list) | Le Haillan, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Technicienne / Technicien Méthodes Usinage](https://spacejobs.now/jobs/arianegroup/stage-technicienne-technicien-methodes-usinage?utm_source=github&utm_medium=internship-list) | Le Haillan, France |  |  | Oct 19 |
+| **ArianeGroup** | [STAGE - Ingénieur / Ingénieure en Traitement du Signal RADAR – Apprentissage automatique – Identification / Caractérisation de cibles](https://spacejobs.now/jobs/arianegroup/stage-ingenieur-ingenieure-en-traitement-du-signal-radar-apprentissage-automatique?utm_source=github&utm_medium=internship-list) | Les Mureaux, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE- Ingénieure / Ingénieur Chaine avionique des futurs lanceurs](https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-chaine-avionique-des-futurs-lanceurs?utm_source=github&utm_medium=internship-list) | Les Mureaux, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Chargée / Chargé de la Performance et de suivi Qualité](https://spacejobs.now/jobs/arianegroup/stage-chargee-charge-de-la-performance-et-de-suivi-qualite?utm_source=github&utm_medium=internship-list) | Saint-Médard-en-Jalles, Issac, France |  |  | Oct 19 |
 | **ArianeGroup** | [STAGE - Ingénieure / Ingénieur Assurance Qualité Spatiale](https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-assurance-qualite-spatiale?utm_source=github&utm_medium=internship-list) | Les Mureaux, France |  |  | Oct 19 |

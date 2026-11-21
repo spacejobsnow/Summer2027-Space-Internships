@@ -5,7 +5,7 @@ description: "59 open systems, integration and test internships and co-ops at sp
 
 # Systems, integration and test internships at space companies (2027)
 
-**59 open in the United States at 21 companies, most at Astranis, Blue Origin, The Aerospace Corporation, Muon Space, Lockheed Martin. Updated 20 Nov 2026.**
+**59 open in the United States at 21 companies, most at Astranis, Blue Origin, The Aerospace Corporation, Muon Space, Lockheed Martin. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/systems-test?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

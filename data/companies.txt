@@ -1,10 +1,10 @@
 European Space Agency (ESA)	esa	164
 ArianeGroup	arianegroup	114
-Thales Alenia Space	thales-alenia-space	112
-CNES (French space agency)	cnes	88
+Thales Alenia Space	thales-alenia-space	107
+CNES (French space agency)	cnes	89
 The Aerospace Corporation	aerospace-corporation	51
 Blue Origin	blue-origin	48
-Astranis	astranis	42
+Astranis	astranis	40
 Rocket Lab	rocket-lab	37
 German Aerospace Center (DLR)	dlr	34
 Lockheed Martin	lockheed-martin	33
@@ -12,11 +12,10 @@ Airbus Defence and Space	airbus-defence-and-space	31
 Varda Space Industries	varda	27
 Intuitive Machines	intuitive-machines	22
 Rocket Factory Augsburg	rocket-factory-augsburg	18
-Muon Space	muon-space	16
-Impulse Space	impulse-space	15
-OHB	ohb	14
-United Launch Alliance	united-launch-alliance	14
+Muon Space	muon-space	17
+Impulse Space	impulse-space	16
 CesiumAstro	cesiumastro	13
+OHB	ohb	13
 Axiom Space	axiom-space	12
 SpaceX	spacex	12
 Virginia Space	virginia-space	11

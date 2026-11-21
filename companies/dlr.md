@@ -1,11 +1,11 @@
 ---
 title: "German Aerospace Center (DLR) internships 2027: open roles, pay and how to apply"
-description: "34 open German Aerospace Center (DLR) internships and co-ops outside the US (RF, communications and payloads; Software and IT; Science, imaging and Earth data), updated daily."
+description: "34 open German Aerospace Center (DLR) internships and co-ops outside the US (RF, communications and payloads; Software and IT; Flight software and GNC), updated daily."
 ---
 
 # German Aerospace Center (DLR) internships (2027)
 
-**34 open. Updated 20 Nov 2026.**
+**34 open. Updated 21 Nov 2026.**
 
 How German Aerospace Center (DLR)'s internship program works, who may apply and when: [German Aerospace Center (DLR) internships on SpaceJobs.Now](https://spacejobs.now/employers/dlr/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -41,9 +41,9 @@ How German Aerospace Center (DLR)'s internship program works, who may apply and 
 | **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d): Entwicklung eines Labordemonstrators für Lichtkurven](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-entwicklung-eines-labordemonstrators-fur-lichtkurven?utm_source=github&utm_medium=internship-list) | Stuttgart, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d): Missions Engineering](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-missions-engineering?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterarbeit zur Untersuchung von Wellenfrontmessverfahren eines Laserstrahls (w/m/d)](https://spacejobs.now/jobs/dlr/masterarbeit-zur-untersuchung-von-wellenfrontmessverfahren-eines-laserstrahls-w-m-d?utm_source=github&utm_medium=internship-list) | Stuttgart, Germany |  |  | Oct 31 |
-| **German Aerospace Center (DLR)** | [Elec. Engineering/Physics/Computer Science Internship/Master Thesis Student (MAC Methods) (m/f/d)](https://spacejobs.now/jobs/dlr/elec-engineering-physics-computer-science-internship-master-thesis-student-mac-methods-m?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
-| **German Aerospace Center (DLR)** | [Master Thesis: Comparison of Bayesian Estimators for random access UWB positioning](https://spacejobs.now/jobs/dlr/master-thesis-comparison-of-bayesian-estimators-for-random-access-uwb-positioning?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Master's thesis (m/f/x) on optical coatings for microsystems](https://spacejobs.now/jobs/dlr/master-s-thesis-m-f-x-on-optical-coatings-for-microsystems?utm_source=github&utm_medium=internship-list) | Ulm, Germany |  | graduate-students | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d) - im Bereich Optische Beschichtungen für Mikrosysteme](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-im-bereich-optische-beschichtungen-fur-mikrosysteme?utm_source=github&utm_medium=internship-list) | Ulm, Germany |  |  | Oct 31 |
+| **German Aerospace Center (DLR)** | [Elec. Engineering/Physics/Computer Science Internship/Master Thesis Student (MAC Methods) (m/f/d)](https://spacejobs.now/jobs/dlr/elec-engineering-physics-computer-science-internship-master-thesis-student-mac-methods-m?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
+| **German Aerospace Center (DLR)** | [Master Thesis: Comparison of Bayesian Estimators for random access UWB positioning](https://spacejobs.now/jobs/dlr/master-thesis-comparison-of-bayesian-estimators-for-random-access-uwb-positioning?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Internship/Master thesis (f/m/x): Automatization of flight software quality checks using AI](https://spacejobs.now/jobs/dlr/internship-master-thesis-f-m-x-automatization-of-flight-software-quality-checks-using-ai?utm_source=github&utm_medium=internship-list) | Bremen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Praktikum/Masterarbeit (w/m/d): Automatisierung der Qualitätskontrolle von Flugsoftware durch KI](https://spacejobs.now/jobs/dlr/praktikum-masterarbeit-w-m-d-automatisierung-der-qualitatskontrolle-von-flugsoftware?utm_source=github&utm_medium=internship-list) | Bremen, Germany |  |  | Oct 31 |

@@ -5,7 +5,7 @@ description: "13 open CesiumAstro internships and co-ops in the US (Flight softw
 
 # CesiumAstro internships (2027)
 
-**13 open in the United States. Updated 20 Nov 2026.**
+**13 open in the United States. Updated 21 Nov 2026.**
 
 How CesiumAstro's internship program works, who may apply and when: [CesiumAstro internships on SpaceJobs.Now](https://spacejobs.now/employers/cesiumastro/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,10 +13,10 @@ How CesiumAstro's internship program works, who may apply and when: [CesiumAstro
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
 | **CesiumAstro** | [Summer 2027 - Embedded Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-embedded-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, FPGA](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-fpga?utm_source=github&utm_medium=internship-list) | Melbourne, FL |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, Hardware](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-hardware?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 1 more |  | Summer 2027 | Nov 9 |
-| **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Flight Dynamics Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-flight-dynamics-internship?utm_source=github&utm_medium=internship-list) | Huntsville, AL |  | Summer 2027 | Oct 16 |
 | **CesiumAstro** | [Summer 2027 – Power Electronics Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-power-electronics-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | Summer 2027 | Oct 2 |
 | **CesiumAstro** | [Summer 2027 - Systems Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-systems-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | Summer 2027 | Sep 25 |

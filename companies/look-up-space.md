@@ -5,7 +5,7 @@ description: "7 open Look Up Space internships and co-ops outside the US (Busine
 
 # Look Up Space internships (2027)
 
-**7 open. Updated 20 Nov 2026.**
+**7 open. Updated 21 Nov 2026.**
 
 How Look Up Space's internship program works, who may apply and when: [Look Up Space internships on SpaceJobs.Now](https://spacejobs.now/employers/look-up-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

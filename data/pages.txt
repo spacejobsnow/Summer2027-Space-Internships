@@ -40,9 +40,8 @@ https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/intuitive-
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/rocket-factory-augsburg
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/muon-space
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/impulse-space
-https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/ohb
-https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/united-launch-alliance
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/cesiumastro
+https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/ohb
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/axiom-space
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/spacex
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/virginia-space

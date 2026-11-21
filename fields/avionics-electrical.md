@@ -5,7 +5,7 @@ description: "40 open avionics and electrical internships and co-ops at space co
 
 # Avionics and electrical internships at space companies (2027)
 
-**40 open in the United States at 23 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, SpaceX. Updated 20 Nov 2026.**
+**40 open in the United States at 22 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, SpaceX. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Muon Space** | [Harness Design Co-Op](https://spacejobs.now/jobs/muon-space/harness-design-co-op?utm_source=github&utm_medium=internship-list) | San Jose, CA | $40/hr |  | Nov 21 |
 | **Impulse Space** | [Digital Design (FPGA/ASIC) Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/impulse-space/digital-design-fpga-asic-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $34/hr | Summer 2027 | Nov 17 |
 | **Lockheed Martin** | [Electrical Test Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineering-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $20.14–$28.15/hr | freshmen-and-sophomores | Nov 16 |
 | **Intuitive Machines** | [Avionics Engineer – EE Design Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-ee-design-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
@@ -23,7 +24,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Battery Test Lab Undergraduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-battery-test-lab-undergraduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | freshmen-and-sophomores, with-housing | Nov 5 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Electrical & Computer Engineering Academic Part Time Intern](https://spacejobs.now/jobs/jpl/electrical-computer-engineering-academic-part-time-intern?utm_source=github&utm_medium=internship-list) | Pasadena, CA | $21/hr | freshmen-and-sophomores | Nov 4 |
 | **Impulse Space** | [Avionics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/avionics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $32/hr | Summer 2027 | Oct 30 |
-| **United Launch Alliance** | [Avionics & Electrical Engineering Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/avionics-electrical-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **The Aerospace Corporation** | [2027 Power Systems Engineering Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-power-systems-engineering-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Oct 28 |
 | **AeroVironment (AV)** | [Electrical Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/electrical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **Blue Origin** | [Summer 2027 Electrical Systems Engineering Internship - Graduate](https://spacejobs.now/jobs/blue-origin/summer-2027-electrical-systems-engineering-internship-graduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $38/hr | Summer 2027, graduate-students, with-housing | Oct 22 |

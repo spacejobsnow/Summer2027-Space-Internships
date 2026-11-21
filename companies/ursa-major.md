@@ -1,11 +1,11 @@
 ---
 title: "Ursa Major internships 2027: open roles, pay and how to apply"
-description: "8 open Ursa Major internships and co-ops in the US (Supply chain and facilities; Propulsion; Business and programs), updated daily."
+description: "8 open Ursa Major internships and co-ops in the US (Supply chain and facilities; Business and programs; Propulsion), updated daily."
 ---
 
 # Ursa Major internships (2027)
 
-**8 open in the United States. Updated 20 Nov 2026.**
+**8 open in the United States. Updated 21 Nov 2026.**
 
 How Ursa Major's internship program works, who may apply and when: [Ursa Major internships on SpaceJobs.Now](https://spacejobs.now/employers/ursa-major/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

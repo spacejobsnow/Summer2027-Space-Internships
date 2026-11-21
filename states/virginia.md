@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Virginia (2027)"
-description: "35 open space internships and co-ops in Virginia (Virginia Space, The Aerospace Corporation, Rocket Lab, Blue Origin and more), updated daily."
+description: "33 open space internships and co-ops in Virginia (Virginia Space, The Aerospace Corporation, Rocket Lab, Blue Origin and more), updated daily."
 ---
 
 # Space and aerospace internships in Virginia (2027)
 
-**35 open at 11 companies, most at Virginia Space, The Aerospace Corporation, Rocket Lab, Blue Origin, Iridium. Updated 20 Nov 2026.**
+**33 open at 10 companies, most at Virginia Space, The Aerospace Corporation, Rocket Lab, Blue Origin, Iridium. Updated 21 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/virginia?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -20,7 +20,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Software Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-software-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | with-housing | Nov 2 |
 | **Iridium** | [Iridium Software Engineering Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA | $31/hr | Summer 2027 | Oct 30 |
 | **Iridium** | [Iridium Systems & Mission Operations Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-systems-mission-operations-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA and 3 more | $31/hr | Summer 2027 | Oct 30 |
-| **United Launch Alliance** | [Government & Political Science Internship - Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/government-political-science-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Arlington, VA |  | Summer 2027 | Oct 30 |
 | **The Aerospace Corporation** | [2027 Risk and Reliability Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-risk-and-reliability-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | graduate-students, with-housing | Oct 30 |
 | **The Aerospace Corporation** | [2027 Sensor Modeling and Simulation Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-sensor-modeling-and-simulation-grad-intern?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  | with-housing | Oct 14 |
 | **The Aerospace Corporation** | [2027 Sensor Modeling and Simulation Undergrad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-sensor-modeling-and-simulation-undergrad-intern?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  | with-housing | Oct 14 |
@@ -43,7 +42,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **HawkEye 360** | [Space Team Intern](https://spacejobs.now/jobs/hawkeye-360/space-team-intern?utm_source=github&utm_medium=internship-list) | Herndon, VA | $25/hr |  | Sep 21 |
 | **Rocket Lab** | [Systems Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 3 more | $25–$28/hr | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Manufacturing Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Wallops Island, VA and 2 more | $25–$28/hr | Summer 2027, with-housing | Sep 17 |
-| **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 3 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
 | **Elveo Mobile** | [Engineering Internship](https://spacejobs.now/jobs/elveo-mobile/engineering-internship?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  |  | Sep 11 |
 | **Blue Origin** | [Summer 2027 Corporate Strategy Intern - Graduate](https://spacejobs.now/jobs/blue-origin/summer-2027-corporate-strategy-intern-graduate?utm_source=github&utm_medium=internship-list) | Arlington, VA | $34–$50/hr | Summer 2027, graduate-students, with-housing | Sep 1 |
 | **Blue Origin** | [2026 Intern Conversion - Fluid Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-fluid-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $81,313–$113,838/yr |  | Aug 12 |

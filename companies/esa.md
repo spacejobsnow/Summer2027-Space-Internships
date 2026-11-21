@@ -5,7 +5,7 @@ description: "164 open European Space Agency (ESA) internships and co-ops outsid
 
 # European Space Agency (ESA) internships (2027)
 
-**164 open. Updated 20 Nov 2026.**
+**164 open. Updated 21 Nov 2026.**
 
 How European Space Agency (ESA)'s internship program works, who may apply and when: [European Space Agency (ESA) internships on SpaceJobs.Now](https://spacejobs.now/employers/esa/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
