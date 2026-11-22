@@ -1,11 +1,11 @@
 ---
 title: "Blue Origin internships 2027: open roles, pay and how to apply"
-description: "48 open Blue Origin internships and co-ops in the US (Mechanical, structures and thermal; Business and programs; Systems, integration and test), updated daily."
+description: "48 open Blue Origin internships and co-ops in the US (Mechanical, structures and thermal; Systems, integration and test; Business and programs), updated daily."
 ---
 
 # Blue Origin internships (2027)
 
-**48 open in the United States. Updated 21 Nov 2026.**
+**48 open in the United States. Updated 22 Nov 2026.**
 
 How Blue Origin's internship program works, who may apply and when: [Blue Origin internships on SpaceJobs.Now](https://spacejobs.now/employers/blue-origin/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

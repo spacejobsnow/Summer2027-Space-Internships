@@ -1,8 +1,148 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "internships": [
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Strategy and Corporate Development",
+   "location": "Denver, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$21\u2013$35/hr",
+   "term": "with-housing",
+   "field": "business-programs",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-strategy-and-corporate-development?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | IT",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$19\u2013$23/hr",
+   "term": "with-housing",
+   "field": "other",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-it?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Quality Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": null,
+   "term": "with-housing",
+   "field": "quality-safety",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-quality-engineer?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Test Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$21\u2013$25/hr",
+   "term": "with-housing",
+   "field": "systems-test",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-test-engineer?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Manufacturing Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": null,
+   "term": "with-housing",
+   "field": "manufacturing",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-manufacturing-engineer?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Additive Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": null,
+   "term": "with-housing",
+   "field": "manufacturing",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-additive-engineer?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Materials & Process Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$21\u2013$25/hr",
+   "term": "with-housing",
+   "field": "mechanical-structures",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-materials-process-engineer?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Analysis Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": null,
+   "term": "with-housing",
+   "field": "other",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-analysis-engineer?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | DACS Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$21\u2013$25/hr",
+   "term": "with-housing",
+   "field": "other",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-dacs-engineer?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Agile Space Industries",
+   "title": "Summer Intern 2027 | Propulsion Design Engineer",
+   "location": "Durango, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$21\u2013$25/hr",
+   "term": "with-housing",
+   "field": "propulsion",
+   "posted": "2026-11-21",
+   "url": "https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-propulsion-design-engineer?utm_source=github&utm_medium=internship-list"
+  },
   {
    "company": "Impulse Space",
    "title": "Supply Chain Data Analytics Intern (Summer 2027)",
@@ -2582,20 +2722,6 @@
    "field": "quality-safety",
    "posted": "2026-11-05",
    "url": "https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-abschlussarbeit-ki-gestutzte-auswertung-prufbefund-datenbank-d-m-w?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Impulse Space",
-   "title": "Manufacturing Engineering Intern (Spring 2027)",
-   "location": "Redondo Beach, California",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$30/hr",
-   "term": "Spring 2027",
-   "field": "manufacturing",
-   "posted": "2026-11-04",
-   "url": "https://spacejobs.now/jobs/impulse-space/manufacturing-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Eutelsat",

@@ -1,11 +1,11 @@
 ---
 title: "Business and programs internships at space companies (2027)"
-description: "47 open business and programs internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), Virginia Space and more), updated daily."
+description: "48 open business and programs internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, Virginia Space, Axiom Space and more), updated daily."
 ---
 
 # Business and programs internships at space companies (2027)
 
-**47 open in the United States at 19 companies, most at Blue Origin, Rocket Lab, NASA Jet Propulsion Laboratory (JPL), Virginia Space, Axiom Space. Updated 21 Nov 2026.**
+**48 open in the United States at 20 companies, most at Blue Origin, Rocket Lab, Virginia Space, Axiom Space, NASA Jet Propulsion Laboratory (JPL). Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/business-programs?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Agile Space Industries** | [Summer Intern 2027 / Strategy and Corporate Development](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-strategy-and-corporate-development?utm_source=github&utm_medium=internship-list) | Denver, CO | $21–$35/hr | with-housing | Nov 21 |
 | **Rocket Lab** | [Total Rewards Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/total-rewards-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $25.00/hr | Summer 2027, with-housing | Nov 19 |
 | **Viasat** | [Program Management Intern](https://spacejobs.now/jobs/viasat/program-management-intern?utm_source=github&utm_medium=internship-list) | Duluth, GA | $25.96–$67.07/hr | with-housing | Nov 19 |
 | **Lockheed Martin** | [Financial Analytics Intern](https://spacejobs.now/jobs/lockheed-martin/financial-analytics-intern?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO | $22.66–$31.67/hr |  | Nov 16 |

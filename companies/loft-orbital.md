@@ -5,7 +5,7 @@ description: "8 open Loft Orbital internships and co-ops (4 in the US) (RF, comm
 
 # Loft Orbital internships (2027)
 
-**8 open, 4 of them in the United States. Updated 21 Nov 2026.**
+**8 open, 4 of them in the United States. Updated 22 Nov 2026.**
 
 How Loft Orbital's internship program works, who may apply and when: [Loft Orbital internships on SpaceJobs.Now](https://spacejobs.now/employers/loft-orbital/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

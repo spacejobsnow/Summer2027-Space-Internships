@@ -5,7 +5,7 @@ description: "89 open CNES (French space agency) internships and co-ops outside 
 
 # CNES (French space agency) internships (2027)
 
-**89 open. Updated 21 Nov 2026.**
+**89 open. Updated 22 Nov 2026.**
 
 How CNES (French space agency)'s internship program works, who may apply and when: [CNES (French space agency) internships on SpaceJobs.Now](https://spacejobs.now/employers/cnes/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

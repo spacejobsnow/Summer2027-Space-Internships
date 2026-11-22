@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "67 open space internships and co-ops in Colorado (Lockheed Martin, Lunar Outpost, CesiumAstro, Rendezvous Robotics and more), updated daily."
+description: "77 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**67 open at 11 companies, most at Lockheed Martin, Lunar Outpost, CesiumAstro, Rendezvous Robotics, Ursa Major. Updated 21 Nov 2026.**
+**77 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro, Rendezvous Robotics. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,16 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Agile Space Industries** | [Summer Intern 2027 / Strategy and Corporate Development](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-strategy-and-corporate-development?utm_source=github&utm_medium=internship-list) | Denver, CO | $21–$35/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / IT](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-it?utm_source=github&utm_medium=internship-list) | Durango, CO | $19–$23/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Quality Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-quality-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Test Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-test-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Manufacturing Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-manufacturing-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Additive Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-additive-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Materials & Process Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-materials-process-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Analysis Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-analysis-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / DACS Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-dacs-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Propulsion Design Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-propulsion-design-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
 | **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
 | **Lockheed Martin** | [Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO and 1 more | $22.66–$34.84/hr | Summer 2027 | Nov 17 |
 | **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $30.16–$34.84/hr |  | Nov 17 |

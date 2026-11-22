@@ -1,11 +1,11 @@
 ---
 title: "Mechanical, structures and thermal internships at space companies (2027)"
-description: "59 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Astranis, Rocket Lab and more), updated daily."
+description: "60 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Astranis, Varda Space Industries and more), updated daily."
 ---
 
 # Mechanical, structures and thermal internships at space companies (2027)
 
-**59 open in the United States at 27 companies, most at Blue Origin, Intuitive Machines, Astranis, Rocket Lab, Varda Space Industries. Updated 21 Nov 2026.**
+**60 open in the United States at 28 companies, most at Blue Origin, Intuitive Machines, Astranis, Varda Space Industries, Rocket Lab. Updated 22 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/mechanical-structures?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Agile Space Industries** | [Summer Intern 2027 / Materials & Process Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-materials-process-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
 | **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
 | **Intuitive Machines** | [Mechanisms Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/mechanisms-engineering-intern?utm_source=github&utm_medium=internship-list) | Glen Burnie, MD |  |  | Nov 20 |
 | **Scout Space** | [Mechanical Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Reston, VA | $30/hr | Summer 2027 | Nov 19 |

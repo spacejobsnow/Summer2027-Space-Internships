@@ -5,7 +5,7 @@ description: "5 open Spaceium internships and co-ops outside the US (Avionics an
 
 # Spaceium internships (2027)
 
-**5 open. Updated 21 Nov 2026.**
+**5 open. Updated 22 Nov 2026.**
 
 How Spaceium's internship program works, who may apply and when: [Spaceium internships on SpaceJobs.Now](https://spacejobs.now/employers/spaceium/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

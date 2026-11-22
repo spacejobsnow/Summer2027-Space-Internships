@@ -13,12 +13,13 @@ Varda Space Industries	varda	27
 Intuitive Machines	intuitive-machines	22
 Rocket Factory Augsburg	rocket-factory-augsburg	18
 Muon Space	muon-space	17
-Impulse Space	impulse-space	16
+Impulse Space	impulse-space	15
 CesiumAstro	cesiumastro	13
 OHB	ohb	13
 Axiom Space	axiom-space	12
 SpaceX	spacex	12
 Virginia Space	virginia-space	11
+Agile Space Industries	agile-space-industries	10
 Firefly Aerospace	firefly-aerospace	10
 Lunar Outpost	lunar-outpost	10
 Ursa Major	ursa-major	8

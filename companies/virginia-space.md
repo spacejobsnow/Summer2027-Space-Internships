@@ -1,11 +1,11 @@
 ---
 title: "Virginia Space internships 2027: open roles, pay and how to apply"
-description: "11 open Virginia Space internships and co-ops in the US (Business and programs; Supply chain and facilities; Mechanical, structures and thermal), updated daily."
+description: "11 open Virginia Space internships and co-ops in the US (Business and programs; Supply chain and facilities; Avionics and electrical), updated daily."
 ---
 
 # Virginia Space internships (2027)
 
-**11 open in the United States. Updated 21 Nov 2026.**
+**11 open in the United States. Updated 22 Nov 2026.**
 
 How Virginia Space's internship program works, who may apply and when: [Virginia Space internships on SpaceJobs.Now](https://spacejobs.now/employers/virginia-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

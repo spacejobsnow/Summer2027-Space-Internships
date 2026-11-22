@@ -5,7 +5,7 @@ description: "40 open Astranis internships and co-ops in the US (Systems, integr
 
 # Astranis internships (2027)
 
-**40 open in the United States. Updated 21 Nov 2026.**
+**40 open in the United States. Updated 22 Nov 2026.**
 
 How Astranis's internship program works, who may apply and when: [Astranis internships on SpaceJobs.Now](https://spacejobs.now/employers/astranis/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

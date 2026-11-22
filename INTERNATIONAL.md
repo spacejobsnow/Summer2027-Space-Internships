@@ -1,6 +1,6 @@
 # Space internships in Europe, Canada and Asia-Pacific
 
-617 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 21 Nov 2026.
+617 open internships, traineeships and student roles outside the United States, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list). Updated 22 Nov 2026.
 
 [Back to the United States list](README.md)
 

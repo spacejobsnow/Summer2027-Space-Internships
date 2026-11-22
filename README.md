@@ -2,7 +2,7 @@
 
 Every open internship and co-op at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list), a free job board for the space industry.
 
-**477 open in the United States, 617 in Europe, Canada and Asia-Pacific, at 86 companies. 203 name Summer 2027 so far. Updated 21 Nov 2026.**
+**486 open in the United States, 617 in Europe, Canada and Asia-Pacific, at 87 companies. 203 name Summer 2027 so far. Updated 22 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
@@ -18,25 +18,25 @@ Many US roles require US citizenship or US person status (export rules); each ro
 
 - [Software and IT](fields/ground-software.md) (58 in the US)
 - [Flight software and GNC](fields/gnc-flight-software.md) (44 in the US)
-- [Mechanical, structures and thermal](fields/mechanical-structures.md) (59 in the US)
+- [Mechanical, structures and thermal](fields/mechanical-structures.md) (60 in the US)
 - [Avionics and electrical](fields/avionics-electrical.md) (40 in the US)
 - [RF, communications and payloads](fields/rf-communications.md) (20 in the US)
-- [Propulsion](fields/propulsion.md) (22 in the US)
-- [Systems, integration and test](fields/systems-test.md) (59 in the US)
+- [Propulsion](fields/propulsion.md) (23 in the US)
+- [Systems, integration and test](fields/systems-test.md) (60 in the US)
 - [Launch and mission operations](fields/launch-mission-ops.md) (13 in the US)
-- [Manufacturing](fields/manufacturing.md) (28 in the US)
-- [Quality and mission assurance](fields/quality-safety.md) (14 in the US)
+- [Manufacturing](fields/manufacturing.md) (29 in the US)
+- [Quality and mission assurance](fields/quality-safety.md) (15 in the US)
 - [Science, imaging and Earth data](fields/science-imaging.md) (14 in the US)
-- [Business and programs](fields/business-programs.md) (47 in the US)
+- [Business and programs](fields/business-programs.md) (48 in the US)
 - [Supply chain and facilities](fields/supply-chain-facilities.md) (22 in the US)
 
 ## By state
 
-[California](states/california.md) (224), [Colorado](states/colorado.md) (67), [Texas](states/texas.md) (56), [Washington](states/washington.md) (49), [Virginia](states/virginia.md) (33), [Maryland](states/maryland.md) (15), [Florida](states/florida.md) (12), [Alabama](states/alabama.md) (11), [New Mexico](states/new-mexico.md) (9), [Pennsylvania](states/pennsylvania.md) (9), [Arizona](states/arizona.md) (5)
+[California](states/california.md) (223), [Colorado](states/colorado.md) (77), [Texas](states/texas.md) (56), [Washington](states/washington.md) (49), [Virginia](states/virginia.md) (33), [Maryland](states/maryland.md) (15), [Florida](states/florida.md) (12), [Alabama](states/alabama.md) (11), [New Mexico](states/new-mexico.md) (9), [Pennsylvania](states/pennsylvania.md) (9), [Arizona](states/arizona.md) (5)
 
 ## By company
 
-[The Aerospace Corporation](companies/aerospace-corporation.md) (51), [Blue Origin](companies/blue-origin.md) (48), [Astranis](companies/astranis.md) (40), [Rocket Lab](companies/rocket-lab.md) (33), [Lockheed Martin](companies/lockheed-martin.md) (33), [Varda Space Industries](companies/varda.md) (27), [Intuitive Machines](companies/intuitive-machines.md) (22), [Muon Space](companies/muon-space.md) (17), [Impulse Space](companies/impulse-space.md) (16), [CesiumAstro](companies/cesiumastro.md) (13), [Axiom Space](companies/axiom-space.md) (12), [SpaceX](companies/spacex.md) (12), [Virginia Space](companies/virginia-space.md) (11), [Firefly Aerospace](companies/firefly-aerospace.md) (10), [Lunar Outpost](companies/lunar-outpost.md) (10), [Ursa Major](companies/ursa-major.md) (8), [Rendezvous Robotics](companies/rendezvous-robotics.md) (8), [Scout Space](companies/scout-space.md) (7), [AeroVironment (AV)](companies/aerovironment.md) (7), [Inversion Space](companies/inversion-space.md) (7), [Voyager Technologies](companies/voyager.md) (7), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (6), [Apex](companies/apex.md) (5), [Reflect Orbital](companies/reflect-orbital.md) (5)
+[The Aerospace Corporation](companies/aerospace-corporation.md) (51), [Blue Origin](companies/blue-origin.md) (48), [Astranis](companies/astranis.md) (40), [Rocket Lab](companies/rocket-lab.md) (33), [Lockheed Martin](companies/lockheed-martin.md) (33), [Varda Space Industries](companies/varda.md) (27), [Intuitive Machines](companies/intuitive-machines.md) (22), [Muon Space](companies/muon-space.md) (17), [Impulse Space](companies/impulse-space.md) (15), [CesiumAstro](companies/cesiumastro.md) (13), [Axiom Space](companies/axiom-space.md) (12), [SpaceX](companies/spacex.md) (12), [Virginia Space](companies/virginia-space.md) (11), [Agile Space Industries](companies/agile-space-industries.md) (10), [Firefly Aerospace](companies/firefly-aerospace.md) (10), [Lunar Outpost](companies/lunar-outpost.md) (10), [Ursa Major](companies/ursa-major.md) (8), [Rendezvous Robotics](companies/rendezvous-robotics.md) (8), [Scout Space](companies/scout-space.md) (7), [AeroVironment (AV)](companies/aerovironment.md) (7), [Inversion Space](companies/inversion-space.md) (7), [Voyager Technologies](companies/voyager.md) (7), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (6), [Apex](companies/apex.md) (5), [Reflect Orbital](companies/reflect-orbital.md) (5)
 
 ## Deadlines ahead
 
@@ -56,10 +56,20 @@ How each program works, what it pays and who may apply, read from the employer's
 - [Summer 2027](https://spacejobs.now/space-internships/summer-2027?utm_source=github&utm_medium=internship-list), [Spring 2027](https://spacejobs.now/space-internships/spring-2027?utm_source=github&utm_medium=internship-list) and [Winter 2027](https://spacejobs.now/space-internships/winter-2027?utm_source=github&utm_medium=internship-list) lists
 - [Entry-level space jobs for new graduates](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=internship-list)
 
-## United States (477)
+## United States (486)
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Agile Space Industries** | [Summer Intern 2027 / Strategy and Corporate Development](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-strategy-and-corporate-development?utm_source=github&utm_medium=internship-list) | Denver, CO | $21–$35/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / IT](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-it?utm_source=github&utm_medium=internship-list) | Durango, CO | $19–$23/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Quality Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-quality-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Test Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-test-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Manufacturing Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-manufacturing-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Additive Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-additive-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Materials & Process Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-materials-process-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Analysis Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-analysis-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / DACS Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-dacs-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
+| **Agile Space Industries** | [Summer Intern 2027 / Propulsion Design Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-propulsion-design-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
 | **Impulse Space** | [Supply Chain Data Analytics Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/supply-chain-data-analytics-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Nov 21 |
 | **Muon Space** | [Harness Design Co-Op](https://spacejobs.now/jobs/muon-space/harness-design-co-op?utm_source=github&utm_medium=internship-list) | San Jose, CA | $40/hr |  | Nov 21 |
 | **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
@@ -160,7 +170,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **The Aerospace Corporation** | [2027 Enterprise REsiliency Modeling and Simulation Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-enterprise-resiliency-modeling-and-simulation-graduate-intern?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  | graduate-students, with-housing | Nov 5 |
 | **The Aerospace Corporation** | [2027 Trajectory Optimization Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-trajectory-optimization-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | graduate-students, with-housing | Nov 5 |
 | **The Aerospace Corporation** | [2027 Battery Test Lab Undergraduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-battery-test-lab-undergraduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | freshmen-and-sophomores, with-housing | Nov 5 |
-| **Impulse Space** | [Manufacturing Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/impulse-space/manufacturing-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Spring 2027 | Nov 4 |
 | **Lockheed Martin** | [College Student - Technical - Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-technical-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 4 |
 | **NASA Jet Propulsion Laboratory (JPL)** | [Electrical & Computer Engineering Academic Part Time Intern](https://spacejobs.now/jobs/jpl/electrical-computer-engineering-academic-part-time-intern?utm_source=github&utm_medium=internship-list) | Pasadena, CA | $21/hr | freshmen-and-sophomores | Nov 4 |
 | **Lockheed Martin** | [Mechanical Test Engineer-INTERN](https://spacejobs.now/jobs/lockheed-martin/mechanical-test-engineer-intern?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL | $20.14–$28.15/hr |  | Nov 3 |
