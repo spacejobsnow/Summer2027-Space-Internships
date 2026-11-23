@@ -5,7 +5,7 @@ description: "33 open space internships and co-ops in Virginia (Virginia Space, 
 
 # Space and aerospace internships in Virginia (2027)
 
-**33 open at 10 companies, most at Virginia Space, The Aerospace Corporation, Blue Origin, Rocket Lab, Iridium. Updated 22 Nov 2026.**
+**33 open at 10 companies, most at Virginia Space, The Aerospace Corporation, Blue Origin, Rocket Lab, Iridium. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/virginia?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

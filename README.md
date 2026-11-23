@@ -2,7 +2,7 @@
 
 Every open internship and co-op at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list), a free job board for the space industry.
 
-**486 open in the United States, 617 in Europe, Canada and Asia-Pacific, at 87 companies. 203 name Summer 2027 so far. Updated 22 Nov 2026.**
+**486 open in the United States, 617 in Europe, Canada and Asia-Pacific, at 87 companies. 203 name Summer 2027 so far. Updated 23 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
@@ -27,7 +27,7 @@ Many US roles require US citizenship or US person status (export rules); each ro
 - [Manufacturing](fields/manufacturing.md) (29 in the US)
 - [Quality and mission assurance](fields/quality-safety.md) (15 in the US)
 - [Science, imaging and Earth data](fields/science-imaging.md) (14 in the US)
-- [Business and programs](fields/business-programs.md) (48 in the US)
+- [Business and programs](fields/business-programs.md) (49 in the US)
 - [Supply chain and facilities](fields/supply-chain-facilities.md) (22 in the US)
 
 ## By state

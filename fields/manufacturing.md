@@ -1,11 +1,11 @@
 ---
 title: "Manufacturing internships at space companies (2027)"
-description: "29 open manufacturing internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, Astranis, Agile Space Industries and more), updated daily."
+description: "29 open manufacturing internships and co-ops at space companies in the US (Blue Origin, Rocket Lab, Astranis, Firefly Aerospace and more), updated daily."
 ---
 
 # Manufacturing internships at space companies (2027)
 
-**29 open in the United States at 18 companies, most at Blue Origin, Rocket Lab, Astranis, Agile Space Industries, Firefly Aerospace. Updated 22 Nov 2026.**
+**29 open in the United States at 18 companies, most at Blue Origin, Rocket Lab, Astranis, Firefly Aerospace, Rendezvous Robotics. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/manufacturing?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

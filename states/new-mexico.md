@@ -5,7 +5,7 @@ description: "9 open space internships and co-ops in New Mexico (Rocket Lab, Aer
 
 # Space and aerospace internships in New Mexico (2027)
 
-**9 open at 3 companies, most at Rocket Lab, AeroVironment (AV), The Aerospace Corporation. Updated 22 Nov 2026.**
+**9 open at 3 companies, most at Rocket Lab, AeroVironment (AV), The Aerospace Corporation. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/new-mexico?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

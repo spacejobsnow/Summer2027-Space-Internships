@@ -5,7 +5,7 @@ description: "56 open space internships and co-ops in Texas (Intuitive Machines,
 
 # Space and aerospace internships in Texas (2027)
 
-**56 open at 10 companies, most at Intuitive Machines, Axiom Space, Firefly Aerospace, CesiumAstro, Blue Origin. Updated 22 Nov 2026.**
+**56 open at 10 companies, most at Intuitive Machines, Axiom Space, Firefly Aerospace, CesiumAstro, Blue Origin. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/texas?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

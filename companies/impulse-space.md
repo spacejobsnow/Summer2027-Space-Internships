@@ -5,7 +5,7 @@ description: "15 open Impulse Space internships and co-ops in the US (Software a
 
 # Impulse Space internships (2027)
 
-**15 open in the United States. Updated 22 Nov 2026.**
+**15 open in the United States. Updated 23 Nov 2026.**
 
 How Impulse Space's internship program works, who may apply and when: [Impulse Space internships on SpaceJobs.Now](https://spacejobs.now/employers/impulse-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

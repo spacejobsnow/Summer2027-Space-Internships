@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "77 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro and more), updated daily."
+description: "77 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Lunar Outpost, Rendezvous Robotics and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**77 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro, Rendezvous Robotics. Updated 22 Nov 2026.**
+**77 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Lunar Outpost, Rendezvous Robotics, Ursa Major. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

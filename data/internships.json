@@ -1,7 +1,7 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "internships": [
   {
    "company": "Agile Space Industries",
@@ -236,7 +236,7 @@
    ],
    "pay": null,
    "term": "freshmen-and-sophomores",
-   "field": "other",
+   "field": "business-programs",
    "posted": "2026-11-20",
    "url": "https://spacejobs.now/jobs/jpl/business-administration-academic-part-time-intern?utm_source=github&utm_medium=internship-list"
   },

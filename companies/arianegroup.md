@@ -1,11 +1,11 @@
 ---
 title: "ArianeGroup internships 2027: open roles, pay and how to apply"
-description: "114 open ArianeGroup internships and co-ops outside the US (Manufacturing; Quality and mission assurance; Mechanical, structures and thermal), updated daily."
+description: "114 open ArianeGroup internships and co-ops outside the US (Manufacturing; Quality and mission assurance; Software and IT), updated daily."
 ---
 
 # ArianeGroup internships (2027)
 
-**114 open. Updated 22 Nov 2026.**
+**114 open. Updated 23 Nov 2026.**
 
 How ArianeGroup's internship program works, who may apply and when: [ArianeGroup internships on SpaceJobs.Now](https://spacejobs.now/employers/arianegroup/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 

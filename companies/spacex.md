@@ -1,11 +1,11 @@
 ---
 title: "SpaceX internships 2027: open roles, pay and how to apply"
-description: "12 open SpaceX internships and co-ops in the US (Avionics and electrical; Software and IT; Business and programs), updated daily."
+description: "12 open SpaceX internships and co-ops in the US (Software and IT; Business and programs; Avionics and electrical), updated daily."
 ---
 
 # SpaceX internships (2027)
 
-**12 open in the United States. Updated 22 Nov 2026.**
+**12 open in the United States. Updated 23 Nov 2026.**
 
 How SpaceX's internship program works, who may apply and when: [SpaceX internships on SpaceJobs.Now](https://spacejobs.now/employers/spacex/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

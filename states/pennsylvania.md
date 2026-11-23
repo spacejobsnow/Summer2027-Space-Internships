@@ -5,7 +5,7 @@ description: "9 open space internships and co-ops in Pennsylvania (Lockheed Mart
 
 # Space and aerospace internships in Pennsylvania (2027)
 
-**9 open at 1 companies, most at Lockheed Martin. Updated 22 Nov 2026.**
+**9 open at 1 companies, most at Lockheed Martin. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/pennsylvania?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

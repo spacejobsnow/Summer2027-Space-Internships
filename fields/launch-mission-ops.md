@@ -5,7 +5,7 @@ description: "13 open launch and mission operations internships and co-ops at sp
 
 # Launch and mission operations internships at space companies (2027)
 
-**13 open in the United States at 10 companies, most at Intuitive Machines, Firefly Aerospace, Axiom Space, Virginia Space, Iridium. Updated 22 Nov 2026.**
+**13 open in the United States at 10 companies, most at Intuitive Machines, Firefly Aerospace, Axiom Space, Virginia Space, Iridium. Updated 23 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/launch-mission-ops?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
