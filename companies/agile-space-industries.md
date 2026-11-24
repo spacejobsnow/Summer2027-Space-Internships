@@ -1,11 +1,11 @@
 ---
 title: "Agile Space Industries internships 2027: open roles, pay and how to apply"
-description: "10 open Agile Space Industries internships and co-ops in the US (Manufacturing; Systems, integration and test; Mechanical, structures and thermal), updated daily."
+description: "10 open Agile Space Industries internships and co-ops in the US (Manufacturing; Quality and mission assurance; Propulsion), updated daily."
 ---
 
 # Agile Space Industries internships (2027)
 
-**10 open in the United States. Updated 23 Nov 2026.**
+**10 open in the United States. Updated 24 Nov 2026.**
 
 How Agile Space Industries's internship program works, who may apply and when: [Agile Space Industries internships on SpaceJobs.Now](https://spacejobs.now/employers/agile-space-industries/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

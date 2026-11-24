@@ -1,11 +1,11 @@
 ---
 title: "Flight software and GNC internships at space companies (2027)"
-description: "44 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Varda Space Industries, Rendezvous Robotics and more), updated daily."
+description: "43 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Varda Space Industries, Rendezvous Robotics and more), updated daily."
 ---
 
 # Flight software and GNC internships at space companies (2027)
 
-**44 open in the United States at 18 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Rendezvous Robotics, Lockheed Martin. Updated 23 Nov 2026.**
+**43 open in the United States at 18 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Rendezvous Robotics, Astranis. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Viasat** | [Embedded Software Engineer Intern - Viasat Government](https://spacejobs.now/jobs/viasat/embedded-software-engineer-intern-viasat-government?utm_source=github&utm_medium=internship-list) | Tempe, AZ | $25.96–$67.07/hr | with-housing | Nov 23 |
 | **Scout Space** | [GNC and Astrodynamics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/gnc-and-astrodynamics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
 | **Scout Space** | [Embedded Firmware Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/embedded-firmware-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
 | **Lockheed Martin** | [GN&C Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/gn-c-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO and 1 more | $30.16–$34.84/hr |  | Nov 17 |
@@ -27,7 +28,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Trajectory Optimization Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-trajectory-optimization-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | graduate-students, with-housing | Nov 5 |
 | **Lockheed Martin** | [Embedded Software Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 2 more | $25.18–$35.19/hr | Summer 2027 | Nov 3 |
 | **AstroForge** | [Flight Dynamics Intern](https://spacejobs.now/jobs/astroforge/flight-dynamics-intern?utm_source=github&utm_medium=internship-list) | Seal Beach | $30.00/hr |  | Nov 2 |
-| **Impulse Space** | [Flight/Embedded Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/flight-embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $32/hr | Summer 2027 | Oct 30 |
 | **The Aerospace Corporation** | [2027 Embedded Software Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-embedded-software-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Oct 21 |
 | **The Aerospace Corporation** | [2027 Control Analysis Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-control-analysis-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Oct 20 |
 | **Inversion Space** | [Vehicle Software Engineer - Summer Internship 2027](https://spacejobs.now/jobs/inversion-space/vehicle-software-engineer-summer-internship-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $38–$41/hr |  | Oct 19 |
@@ -47,7 +47,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Rendezvous Robotics** | [GNC Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/gnc-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - GNC Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-gnc-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
-| **Lunar Outpost** | [Robotics Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/robotics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Rocket Lab** | [Flight Software Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Summer 2027, with-housing | Sep 9 |
 | **The Aerospace Corporation** | [2027 Guidance, Navigation, and Control (GNC) Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-guidance-navigation-and-control-gnc-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Sep 9 |
 | **Reflect Orbital** | [Embedded Firmware Engineering Intern](https://spacejobs.now/jobs/reflect-orbital/embedded-firmware-engineering-intern?utm_source=github&utm_medium=internship-list) | Hawthorne, CA | $27–$31/hr |  | Sep 2 |

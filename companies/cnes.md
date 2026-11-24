@@ -1,11 +1,11 @@
 ---
 title: "CNES (French space agency) internships 2027: open roles, pay and how to apply"
-description: "89 open CNES (French space agency) internships and co-ops outside the US (Flight software and GNC; Science, imaging and Earth data; Mechanical, structures and thermal), updated daily."
+description: "88 open CNES (French space agency) internships and co-ops outside the US (Flight software and GNC; Mechanical, structures and thermal; Science, imaging and Earth data), updated daily."
 ---
 
 # CNES (French space agency) internships (2027)
 
-**89 open. Updated 23 Nov 2026.**
+**88 open. Updated 24 Nov 2026.**
 
 How CNES (French space agency)'s internship program works, who may apply and when: [CNES (French space agency) internships on SpaceJobs.Now](https://spacejobs.now/employers/cnes/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -13,6 +13,7 @@ How CNES (French space agency)'s internship program works, who may apply and whe
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **CNES (French space agency)** | [STAGE - Irradiation de matériaux spatiaux aux ions lourds H/F](https://spacejobs.now/jobs/cnes/stage-irradiation-de-materiaux-spatiaux-aux-ions-lourds-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 23 |
 | **CNES (French space agency)** | [STAGE - Etude de l'impact des microvibrations sur l'instrument XIFU H/F](https://spacejobs.now/jobs/cnes/stage-etude-de-l-impact-des-microvibrations-sur-l-instrument-xifu-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 20 |
 | **CNES (French space agency)** | [STAGE - Développement de logiciels embarqués spatiaux sous Linux pour AEROSAT](https://spacejobs.now/jobs/cnes/stage-developpement-de-logiciels-embarques-spatiaux-sous-linux-pour-aerosat?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 20 |
 | **CNES (French space agency)** | [STAGE - Maintenance & Exploitation des infrastructures Techniques du bâtiment](https://spacejobs.now/jobs/cnes/stage-maintenance-exploitation-des-infrastructures-techniques-du-batiment?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 20 |
@@ -50,17 +51,17 @@ How CNES (French space agency)'s internship program works, who may apply and whe
 | **CNES (French space agency)** | [STAGE - Ingénieur.e Télécom Réseaux hybrides MPTCP/MPUDP Satellite-Terrestre H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-telecom-reseaux-hybrides-mptcp-mpudp-satellite-terrestre-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 3 |
 | **CNES (French space agency)** | [STAGE - Déploiement d'IA Locale pour des Solutions Métier Spatial H/F](https://spacejobs.now/jobs/cnes/stage-deploiement-d-ia-locale-pour-des-solutions-metier-spatial-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 2 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e IA appliquée à la navigation spatiale H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-ia-appliquee-a-la-navigation-spatiale-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 2 |
-| **CNES (French space agency)** | [STAGE - Étude du dépôt de glace d’eau sur surfaces sensibles des satellites H/F](https://spacejobs.now/jobs/cnes/stage-etude-du-depot-de-glace-d-eau-sur-surfaces-sensibles-des-satellites-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 2 |
 | **CNES (French space agency)** | [STAGE - Observation de la glace de mer avec SWOT H/F](https://spacejobs.now/jobs/cnes/stage-observation-de-la-glace-de-mer-avec-swot-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 2 |
 | **CNES (French space agency)** | [STAGE - Diversité de phase synchrone H/F](https://spacejobs.now/jobs/cnes/stage-diversite-de-phase-synchrone-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 2 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e Matériaux - projet EMA SESAME H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-materiaux-projet-ema-sesame-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 2 |
 | **CNES (French space agency)** | [Stage - Ingénieur.e Santé et Sécurité au Travail H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-sante-et-securite-au-travail-h-f?utm_source=github&utm_medium=internship-list) | Kourou, French Guiana |  |  | Nov 2 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e intégration logicielle centre de contrôle H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-integration-logicielle-centre-de-controle-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Nov 2 |
+| **CNES (French space agency)** | [STAGE - Conception d'un oscillateur haute fréquence avec un LNA intégré H/F](https://spacejobs.now/jobs/cnes/stage-conception-d-un-oscillateur-haute-frequence-avec-un-lna-integre-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 31 |
 | **CNES (French space agency)** | [STAGE - Supervision multi-missions et multi-métiers des Opérations H/F](https://spacejobs.now/jobs/cnes/stage-supervision-multi-missions-et-multi-metiers-des-operations-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 31 |
+| **CNES (French space agency)** | [STAGE - Développement d'un logiciel de missionisation de centre de contrôle H/F](https://spacejobs.now/jobs/cnes/stage-developpement-d-un-logiciel-de-missionisation-de-centre-de-controle-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e développement logiciel et traitement signal H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-developpement-logiciel-et-traitement-signal-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
-| **CNES (French space agency)** | [STAGE - Ingénieur.e systèmes et outils de missions pour centres de contrôle H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-systemes-et-outils-de-missions-pour-centres-de-controle-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
-| **CNES (French space agency)** | [STAGE - Modélisation Monte-Carlo de la chaine optique LISA H/F](https://spacejobs.now/jobs/cnes/stage-modelisation-monte-carlo-de-la-chaine-optique-lisa-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e simulation et essais thermique H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-simulation-et-essais-thermique-h-f?utm_source=github&utm_medium=internship-list) | Paris, France |  |  | Oct 30 |
+| **CNES (French space agency)** | [STAGE - Modélisation Monte-Carlo de la chaine optique LISA H/F](https://spacejobs.now/jobs/cnes/stage-modelisation-monte-carlo-de-la-chaine-optique-lisa-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e navigation par satellites H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-navigation-par-satellites-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e Instrumentation et spectrométrie H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-instrumentation-et-spectrometrie-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
 | **CNES (French space agency)** | [STAGE - Ingénieur.e optique et résistance laser des capteurs d'images H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-optique-et-resistance-laser-des-capteurs-d-images-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 30 |
@@ -93,8 +94,6 @@ How CNES (French space agency)'s internship program works, who may apply and whe
 | **CNES (French space agency)** | [STAGE - Eco-conception des infrastructures d’ensembles de lancement H/F](https://spacejobs.now/jobs/cnes/stage-eco-conception-des-infrastructures-d-ensembles-de-lancement-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 20 |
 | **CNES (French space agency)** | [STAGE - Caractérisation, détection & classification de comportement turbomachine](https://spacejobs.now/jobs/cnes/stage-caracterisation-detection-classification-de-comportement-turbomachine?utm_source=github&utm_medium=internship-list) | Paris, France |  |  | Oct 20 |
 | **CNES (French space agency)** | [STAGE - Education: développement de projets éducatifs "Sciences" H/F](https://spacejobs.now/jobs/cnes/stage-education-developpement-de-projets-educatifs-sciences-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 18 |
-| **CNES (French space agency)** | [STAGE - Ingénieur.e Système Bord AEROSAT H/F](https://spacejobs.now/jobs/cnes/stage-ingenieur-e-systeme-bord-aerosat-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 18 |
-| **CNES (French space agency)** | [STAGE - Recalage de modèles 3D pour le service de Multi-MNS H/F](https://spacejobs.now/jobs/cnes/stage-recalage-de-modeles-3d-pour-le-service-de-multi-mns-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 18 |
 | **CNES (French space agency)** | [STAGE - Architecte Électrique et Avionique H/F](https://spacejobs.now/jobs/cnes/stage-architecte-electrique-et-avionique-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 18 |
 | **CNES (French space agency)** | [STAGE - Diminution du volume de télémétrie "HouseKeeping" en VLEO H/F](https://spacejobs.now/jobs/cnes/stage-diminution-du-volume-de-telemetrie-housekeeping-en-vleo-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, France |  |  | Oct 18 |
 | **CNES (French space agency)** | [STAGE - IA Générative - développement d’un outil de Management des connaissances](https://spacejobs.now/jobs/cnes/stage-ia-generative-developpement-d-un-outil-de-management-des-connaissances?utm_source=github&utm_medium=internship-list) | Paris, France |  |  | Oct 15 |

@@ -1,11 +1,11 @@
 ---
 title: "Airbus Defence and Space internships 2027: open roles, pay and how to apply"
-description: "31 open Airbus Defence and Space internships and co-ops outside the US (Business and programs; RF, communications and payloads; Systems, integration and test), updated daily."
+description: "31 open Airbus Defence and Space internships and co-ops outside the US (Business and programs; RF, communications and payloads; Quality and mission assurance), updated daily."
 ---
 
 # Airbus Defence and Space internships (2027)
 
-**31 open. Updated 23 Nov 2026.**
+**31 open. Updated 24 Nov 2026.**
 
 How Airbus Defence and Space's internship program works, who may apply and when: [Airbus Defence and Space internships on SpaceJobs.Now](https://spacejobs.now/employers/airbus-defence-and-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -34,8 +34,8 @@ How Airbus Defence and Space's internship program works, who may apply and when:
 | **Airbus Defence and Space** | [STAGE 2027 - Framework de test en Python pour valider du code embarqué et des équipements électroniques spatiaux (F/H)](https://spacejobs.now/jobs/airbus-defence-and-space/stage-2027-framework-de-test-en-python-pour-valider-du-code-embarque-et-des-equipements?utm_source=github&utm_medium=internship-list) | Elancourt, France |  |  | Oct 27 |
 | **Airbus Defence and Space** | [STAGE 2027 -Amélioration de la qualité des développements logiciels sur les segments sols spaciaux H/F](https://spacejobs.now/jobs/airbus-defence-and-space/stage-2027-amelioration-de-la-qualite-des-developpements-logiciels-sur-les-segments-sols?utm_source=github&utm_medium=internship-list) | Toulouse Area, France |  |  | Oct 27 |
 | **Airbus Defence and Space** | [STAGE 2027 - Etude de l'impact environnemental du développement d'équipements optiques (H/F)](https://spacejobs.now/jobs/airbus-defence-and-space/stage-2027-etude-de-l-impact-environnemental-du-developpement-d-equipements-optiques-h-f?utm_source=github&utm_medium=internship-list) | Toulouse Area, France |  |  | Oct 27 |
-| **Airbus Defence and Space** | [Praktikum "Automatisierung eines Messplatzes für die nächste Generation TT&C Transpondern" (d/m/w)](https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-automatisierung-eines-messplatzes-fur-die-nachste-generation-tt-c-transpondern?utm_source=github&utm_medium=internship-list) | Stuttgart Area, Germany |  |  | Oct 26 |
 | **Airbus Defence and Space** | [Werkstudent im Bereich Mechanical Engineering (d/m/w)](https://spacejobs.now/jobs/airbus-defence-and-space/werkstudent-im-bereich-mechanical-engineering-d-m-w?utm_source=github&utm_medium=internship-list) | Stuttgart Area, Germany |  |  | Oct 26 |
+| **Airbus Defence and Space** | [Praktikum "Automatisierung eines Messplatzes für die nächste Generation TT&C Transpondern" (d/m/w)](https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-automatisierung-eines-messplatzes-fur-die-nachste-generation-tt-c-transpondern?utm_source=github&utm_medium=internship-list) | Stuttgart Area, Germany |  |  | Oct 26 |
 | **Airbus Defence and Space** | [Praktikum "Entwurf eines analogen Power Limiters für robuste Ka-Band HF-Systeme in der Raumfahrt " (d/m/w)](https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-entwurf-eines-analogen-power-limiters-fur-robuste-ka-band-hf-systeme-in-der?utm_source=github&utm_medium=internship-list) | Stuttgart Area, Germany |  |  | Oct 26 |
 | **Airbus Defence and Space** | [Stage 2027 - Analyse d'un nouvel outil de planification et potentiel de l'IA (spatial) H/F](https://spacejobs.now/jobs/airbus-defence-and-space/stage-2027-analyse-d-un-nouvel-outil-de-planification-et-potentiel-de-l-ia-spatial-h-f?utm_source=github&utm_medium=internship-list) | Toulouse Area, France |  |  | Oct 23 |
 | **Airbus Defence and Space** | [Stage 2027 -Chef de Projets Stratégiques – Espace Militaire & Digital (h/f)](https://spacejobs.now/jobs/airbus-defence-and-space/stage-2027-chef-de-projets-strategiques-espace-militaire-digital-h-f?utm_source=github&utm_medium=internship-list) | Toulouse Area, France |  |  | Oct 23 |

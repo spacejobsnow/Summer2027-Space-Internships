@@ -1,11 +1,11 @@
 ---
 title: "Quality and mission assurance internships at space companies (2027)"
-description: "15 open quality and mission assurance internships and co-ops at space companies in the US (Astranis, Blue Origin, Varda Space Industries, AeroVironment (AV) and more), updated daily."
+description: "14 open quality and mission assurance internships and co-ops at space companies in the US (Astranis, Blue Origin, Varda Space Industries, Scout Space and more), updated daily."
 ---
 
 # Quality and mission assurance internships at space companies (2027)
 
-**15 open in the United States at 11 companies, most at Astranis, Blue Origin, Varda Space Industries, AeroVironment (AV), Virginia Space. Updated 23 Nov 2026.**
+**14 open in the United States at 10 companies, most at Astranis, Blue Origin, Varda Space Industries, Scout Space, Agile Space Industries. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/quality-safety?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -20,7 +20,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Risk and Reliability Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-risk-and-reliability-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | graduate-students, with-housing | Oct 30 |
 | **Blue Origin** | [Summer 2027 Non-Destructive Test Inspector – Internship](https://spacejobs.now/jobs/blue-origin/summer-2027-non-destructive-test-inspector-internship?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $22/hr | Summer 2027, with-housing | Oct 30 |
 | **AeroVironment (AV)** | [Quality Engineering Intern](https://spacejobs.now/jobs/aerovironment/quality-engineering-intern?utm_source=github&utm_medium=internship-list) | Simi Valley, CA |  | with-housing | Oct 21 |
-| **Ursa Major** | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-industrial-hygienist-ergonomist-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 19 |
 | **Virginia Space** | [Safety and Quality Intern](https://spacejobs.now/jobs/virginia-space/safety-and-quality-intern?utm_source=github&utm_medium=internship-list) | Wallops Island, VA |  |  | Sep 30 |
 | **Astranis** | [Supplier Quality Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/supplier-quality-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 24 |
 | **Astranis** | [Electrical Reliability Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/electrical-reliability-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |

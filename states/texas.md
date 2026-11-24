@@ -5,7 +5,7 @@ description: "56 open space internships and co-ops in Texas (Intuitive Machines,
 
 # Space and aerospace internships in Texas (2027)
 
-**56 open at 10 companies, most at Intuitive Machines, Axiom Space, Firefly Aerospace, CesiumAstro, Blue Origin. Updated 23 Nov 2026.**
+**56 open at 10 companies, most at Intuitive Machines, Axiom Space, Firefly Aerospace, CesiumAstro, Blue Origin. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/texas?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -55,8 +55,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Axiom Space** | [Communications & Marketing Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/communications-marketing-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
 | **Axiom Space** | [Legal Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/legal-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
 | **Axiom Space** | [Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
-| **Axiom Space** | [Systems Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
 | **Axiom Space** | [Mechanical/Aerospace Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/mechanical-aerospace-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
+| **Axiom Space** | [Systems Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
 | **Axiom Space** | [Production & Logistics Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/production-logistics-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
 | **Axiom Space** | [Supply Chain Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/supply-chain-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
 | **Axiom Space** | [Mission Operations Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/mission-operations-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |

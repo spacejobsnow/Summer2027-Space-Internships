@@ -1,11 +1,11 @@
 ---
 title: "Avionics and electrical internships at space companies (2027)"
-description: "40 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro and more), updated daily."
+description: "39 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro and more), updated daily."
 ---
 
 # Avionics and electrical internships at space companies (2027)
 
-**40 open in the United States at 22 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, SpaceX. Updated 23 Nov 2026.**
+**39 open in the United States at 21 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, Impulse Space. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -47,7 +47,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Astranis** | [Avionics Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/avionics-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |
 | **Rocket Lab** | [Electrical Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Pasadena, CA and 2 more |  | Summer 2027, with-housing | Sep 17 |
 | **Rendezvous Robotics** | [Avionics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/avionics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
-| **Lunar Outpost** | [Electrical Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Vast** | [Emerging Talent - Electrical Engineering Internship](https://spacejobs.now/jobs/vast/emerging-talent-electrical-engineering-internship?utm_source=github&utm_medium=internship-list) | Long Beach, California | $35–$42/hr |  | Sep 10 |
 | **Johns Hopkins APL** | [2027 Co-op – Spacecraft Power Engineering](https://spacejobs.now/jobs/johns-hopkins-apl/2027-co-op-spacecraft-power-engineering?utm_source=github&utm_medium=internship-list) | Laurel, MD | $22.60/hr | with-housing | Aug 13 |
 | **Blue Origin** | [2026 Intern Conversion - Electronics/Electrical Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-electronics-electrical-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $87,816–$122,942/yr |  | Aug 11 |

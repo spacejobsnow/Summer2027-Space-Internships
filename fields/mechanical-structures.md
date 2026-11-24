@@ -1,11 +1,11 @@
 ---
 title: "Mechanical, structures and thermal internships at space companies (2027)"
-description: "60 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Varda Space Industries, Rocket Lab and more), updated daily."
+description: "58 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Varda Space Industries, Astranis and more), updated daily."
 ---
 
 # Mechanical, structures and thermal internships at space companies (2027)
 
-**60 open in the United States at 28 companies, most at Blue Origin, Intuitive Machines, Varda Space Industries, Rocket Lab, Astranis. Updated 23 Nov 2026.**
+**58 open in the United States at 28 companies, most at Blue Origin, Intuitive Machines, Varda Space Industries, Astranis, Firefly Aerospace. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/mechanical-structures?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Viasat** | [Mechanical Engineering Intern](https://spacejobs.now/jobs/viasat/mechanical-engineering-intern?utm_source=github&utm_medium=internship-list) | Carlsbad, CA | $25.96–$67.07/hr | with-housing | Nov 23 |
 | **Agile Space Industries** | [Summer Intern 2027 / Materials & Process Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-materials-process-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
 | **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
 | **Intuitive Machines** | [Mechanisms Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/mechanisms-engineering-intern?utm_source=github&utm_medium=internship-list) | Glen Burnie, MD |  |  | Nov 20 |
@@ -36,8 +37,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Xona Space Systems** | [Mechanical Engineering Co-op](https://spacejobs.now/jobs/xona-space/mechanical-engineering-co-op?utm_source=github&utm_medium=internship-list) | Burlingame, California | $30–$45/hr |  | Oct 16 |
 | **Inversion Space** | [Avionics Mechanical Engineer - Summer Internship 2027](https://spacejobs.now/jobs/inversion-space/avionics-mechanical-engineer-summer-internship-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $38–$41/hr |  | Oct 15 |
 | **Axiom Space** | [Mechanical/Aerospace Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/mechanical-aerospace-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
-| **General Astronautics** | [Mechanical Engineering Internship/Co-op (Spring 2027)](https://spacejobs.now/jobs/general-astronautics/mechanical-engineering-internship-co-op-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, CA | $30–$35/hr • Multiple Ranges | Spring 2027, freshmen-and-sophomores | Oct 14 |
-| **General Astronautics** | [Mechanical Engineering Internship/Co-op (Summer 2027)](https://spacejobs.now/jobs/general-astronautics/mechanical-engineering-internship-co-op-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, CA | $30–$35/hr • Multiple Ranges | Summer 2027, freshmen-and-sophomores | Oct 14 |
 | **Inversion Space** | [Mechanical Engineer - Summer Internship 2027](https://spacejobs.now/jobs/inversion-space/mechanical-engineer-summer-internship-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $38–$41/hr |  | Oct 14 |
 | **Blue Origin** | [Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-marine-mechanical-test-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Space Coast, FL | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 14 |
 | **Blue Origin** | [Summer 2027 Materials & Processes Internship - Graduate](https://spacejobs.now/jobs/blue-origin/summer-2027-materials-processes-internship-graduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $38/hr | Summer 2027, graduate-students, with-housing | Oct 14 |
@@ -56,7 +55,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Astranis** | [Thermal Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/thermal-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 24 |
 | **Astranis** | [Thermal Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/thermal-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 24 |
 | **Rocket Lab** | [R&D Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/r-d-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM | $20.00/hr | Summer 2027, with-housing | Sep 17 |
-| **Rocket Lab** | [R&D Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/r-d-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM | $20.00/hr | Spring 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Mechanical Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Silver Spring, MD and 2 more |  | Summer 2027, with-housing | Sep 16 |
 | **Rendezvous Robotics** | [Mechanical Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
 | **Blue Origin** | [Materials & Process Engineer II - 2026 Intern Conversion](https://spacejobs.now/jobs/blue-origin/materials-process-engineer-ii-2026-intern-conversion?utm_source=github&utm_medium=internship-list) | Seattle, WA | $99,201–$138,880/yr |  | Sep 16 |

@@ -1,11 +1,11 @@
 ---
 title: "OHB internships 2027: open roles, pay and how to apply"
-description: "13 open OHB internships and co-ops outside the US (Software and IT; Mechanical, structures and thermal; Supply chain and facilities), updated daily."
+description: "14 open OHB internships and co-ops outside the US (Software and IT; Mechanical, structures and thermal; Supply chain and facilities), updated daily."
 ---
 
 # OHB internships (2027)
 
-**13 open. Updated 23 Nov 2026.**
+**14 open. Updated 24 Nov 2026.**
 
 How OHB's internship program works, who may apply and when: [OHB internships on SpaceJobs.Now](https://spacejobs.now/employers/ohb/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -13,6 +13,7 @@ How OHB's internship program works, who may apply and when: [OHB internships on 
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **OHB** | [Internship (m/f/d) Construction & BMK](https://spacejobs.now/jobs/ohb/internship-m-f-d-construction-bmk?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 23 |
 | **OHB** | [Pupil internship Technology Workshop Augsburg - copy](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
 | **OHB** | [Pupil internship Technology Workshop Augsburg - copy - copy](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy-copy?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
 | **OHB** | [Pupil internship Technology Workshop Augsburg - copy - copy - copy](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy-copy-copy?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |

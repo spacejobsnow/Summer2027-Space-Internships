@@ -1,11 +1,11 @@
 ---
 title: "Systems, integration and test internships at space companies (2027)"
-description: "60 open systems, integration and test internships and co-ops at space companies in the US (Astranis, Blue Origin, The Aerospace Corporation, Lockheed Martin and more), updated daily."
+description: "58 open systems, integration and test internships and co-ops at space companies in the US (Astranis, Blue Origin, The Aerospace Corporation, Lockheed Martin and more), updated daily."
 ---
 
 # Systems, integration and test internships at space companies (2027)
 
-**60 open in the United States at 22 companies, most at Astranis, Blue Origin, The Aerospace Corporation, Lockheed Martin, Muon Space. Updated 23 Nov 2026.**
+**58 open in the United States at 22 companies, most at Astranis, Blue Origin, The Aerospace Corporation, Lockheed Martin, Muon Space. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/systems-test?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -28,7 +28,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Orbion Space Technology** | [Engineering Intern - Summer 2027](https://spacejobs.now/jobs/orbion-space-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houghton, MI |  | Summer 2027 | Nov 2 |
 | **Impulse Space** | [Assembly, Integration, and Test (AI&T) Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/assembly-integration-and-test-ai-t-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Development Test Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/development-test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
-| **Impulse Space** | [EMC Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/emc-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $32/hr | Summer 2027 | Oct 30 |
 | **Loft Orbital** | [Summer 2027 Internship – Test Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-test-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Systems Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/systems-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Test Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/test-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
@@ -59,11 +58,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Astranis** | [Assembly, Integration, and Test Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/assembly-integration-and-test-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 21 |
 | **Lunar Outpost** | [Test Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 21 |
 | **Astranis** | [Environmental Test Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/environmental-test-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 19 |
-| **Rocket Lab** | [Systems Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 3 more | $25–$28/hr | Summer 2027, with-housing | Sep 17 |
+| **Rocket Lab** | [Systems Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 2 more | $25–$28/hr | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Test Engineering Intern - Manufacturing Spring 2027](https://spacejobs.now/jobs/rocket-lab/test-engineering-intern-manufacturing-spring-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Spring 2027, with-housing | Sep 17 |
 | **KBR** | [Data Processing Systems Engineer Intern](https://spacejobs.now/jobs/kbr/data-processing-systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Sioux Falls, South Dakota |  |  | Sep 16 |
 | **Lunar Outpost** | [Simulation Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/simulation-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
-| **Lunar Outpost** | [Systems Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **The Aerospace Corporation** | [2027 Tracking Architecture and Performance Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-tracking-architecture-and-performance-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Sep 14 |
 | **Apex** | [Avionics Test Engineering Internship (Spring 2027)](https://spacejobs.now/jobs/apex/avionics-test-engineering-internship-spring-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Spring 2027 | Sep 9 |
 | **Rocket Lab** | [HITL Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/hitl-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Summer 2027, with-housing | Sep 9 |

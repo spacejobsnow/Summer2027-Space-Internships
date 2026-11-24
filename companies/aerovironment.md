@@ -1,11 +1,11 @@
 ---
 title: "AeroVironment (AV) internships 2027: open roles, pay and how to apply"
-description: "7 open AeroVironment (AV) internships and co-ops in the US (Systems, integration and test; Mechanical, structures and thermal; Business and programs), updated daily."
+description: "7 open AeroVironment (AV) internships and co-ops in the US (Systems, integration and test; Avionics and electrical; Quality and mission assurance), updated daily."
 ---
 
 # AeroVironment (AV) internships (2027)
 
-**7 open in the United States. Updated 23 Nov 2026.**
+**7 open in the United States. Updated 24 Nov 2026.**
 
 How AeroVironment (AV)'s internship program works, who may apply and when: [AeroVironment (AV) internships on SpaceJobs.Now](https://spacejobs.now/employers/aerovironment/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,9 +13,9 @@ How AeroVironment (AV)'s internship program works, who may apply and when: [Aero
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **AeroVironment (AV)** | [Mechanical Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/mechanical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Systems Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/systems-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Test Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/test-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
-| **AeroVironment (AV)** | [Mechanical Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/mechanical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Electrical Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/electrical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Quality Engineering Intern](https://spacejobs.now/jobs/aerovironment/quality-engineering-intern?utm_source=github&utm_medium=internship-list) | Simi Valley, CA |  | with-housing | Oct 21 |
 | **AeroVironment (AV)** | [Production Engineering Intern](https://spacejobs.now/jobs/aerovironment/production-engineering-intern?utm_source=github&utm_medium=internship-list) | Simi Valley, CA |  | with-housing | Sep 29 |

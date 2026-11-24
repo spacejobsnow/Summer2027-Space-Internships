@@ -5,7 +5,7 @@ description: "33 open Lockheed Martin internships and co-ops in the US (Software
 
 # Lockheed Martin internships (2027)
 
-**33 open in the United States. Updated 23 Nov 2026.**
+**33 open in the United States. Updated 24 Nov 2026.**
 
 How Lockheed Martin's internship program works, who may apply and when: [Lockheed Martin internships on SpaceJobs.Now](https://spacejobs.now/employers/lockheed-martin/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

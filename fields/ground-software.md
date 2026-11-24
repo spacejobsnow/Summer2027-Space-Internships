@@ -1,11 +1,11 @@
 ---
 title: "Software and IT internships at space companies (2027)"
-description: "58 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin and more), updated daily."
+description: "57 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin and more), updated daily."
 ---
 
 # Software and IT internships at space companies (2027)
 
-**58 open in the United States at 28 companies, most at Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin, Varda Space Industries. Updated 23 Nov 2026.**
+**57 open in the United States at 28 companies, most at Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin, Varda Space Industries. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/ground-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -43,7 +43,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Firefly Aerospace** | [Internship - Software Engineering - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-software-engineering-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 20 |
 | **Reflect Orbital** | [IT Support Specialist Intern](https://spacejobs.now/jobs/reflect-orbital/it-support-specialist-intern?utm_source=github&utm_medium=internship-list) | Hawthorne, CA | $27–$31/hr |  | Oct 19 |
 | **Inversion Space** | [AI & Internal Tools Software Engineer - Summer Internship 2027](https://spacejobs.now/jobs/inversion-space/ai-internal-tools-software-engineer-summer-internship-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $38–$41/hr |  | Oct 19 |
-| **Muon Space** | [Ground Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/muon-space/ground-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Jose, CA | $40/hr | Summer 2027 | Oct 15 |
 | **Axiom Space** | [Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |
 | **Blue Origin** | [Summer 2027 Software Developer Internship - Graduate](https://spacejobs.now/jobs/blue-origin/summer-2027-software-developer-internship-graduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $38/hr | Summer 2027, graduate-students, with-housing | Oct 13 |
 | **Blue Origin** | [Summer 2027 Software Developer Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-software-developer-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 13 |

@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "77 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Lunar Outpost, Rendezvous Robotics and more), updated daily."
+description: "73 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Rendezvous Robotics, CesiumAstro and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**77 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Lunar Outpost, Rendezvous Robotics, Ursa Major. Updated 23 Nov 2026.**
+**73 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Rendezvous Robotics, CesiumAstro, Lunar Outpost. Updated 24 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -59,7 +59,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Ursa Major** | [2027 Summer Business Process & ERP Documentation Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-business-process-erp-documentation-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 22 |
 | **Ursa Major** | [2027 Summer People Operations Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-people-operations-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 19 |
 | **Ursa Major** | [2027 Summer Facilities & Capital Projects Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-facilities-capital-projects-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 19 |
-| **Ursa Major** | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-industrial-hygienist-ergonomist-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 19 |
 | **Ursa Major** | [2027 Summer Marketing & Communications Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-marketing-communications-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 19 |
 | **Advanced Space** | [2026-2027 Technical Growth and Capture Intern/Co-op](https://spacejobs.now/jobs/advanced-space/2026-2027-technical-growth-and-capture-intern-co-op?utm_source=github&utm_medium=internship-list) | Westminster, CO | $21–$27/hr |  | Oct 10 |
 | **Rocket Lab** | [Government Operations Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/government-operations-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Washington, DC and 1 more | $22.00/hr | Spring 2027, with-housing | Oct 2 |
@@ -76,12 +75,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, RF](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-rf?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
 | **CesiumAstro** | [Summer 2027 - GNC Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-gnc-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Project Management Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/project-management-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
-| **Lunar Outpost** | [Simulation Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/simulation-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
-| **Lunar Outpost** | [Systems Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Thermal Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/thermal-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
+| **Lunar Outpost** | [Simulation Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/simulation-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
-| **Lunar Outpost** | [Robotics Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/robotics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
-| **Lunar Outpost** | [Electrical Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Rocket Lab** | [Flight Software Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Summer 2027, with-housing | Sep 9 |
 | **CesiumAstro** | [Summer 2027 – Test Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-test-engineering-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Aug 27 |
 | **Blue Origin** | [2026 Intern Conversion - Fluid Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-fluid-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $81,313–$113,838/yr |  | Aug 12 |
