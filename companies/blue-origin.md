@@ -1,11 +1,11 @@
 ---
 title: "Blue Origin internships 2027: open roles, pay and how to apply"
-description: "48 open Blue Origin internships and co-ops in the US (Mechanical, structures and thermal; Systems, integration and test; Business and programs), updated daily."
+description: "48 open Blue Origin internships and co-ops in the US (Mechanical, structures and thermal; Business and programs; Systems, integration and test), updated daily."
 ---
 
 # Blue Origin internships (2027)
 
-**48 open in the United States. Updated 24 Nov 2026.**
+**48 open in the United States. Updated 25 Nov 2026.**
 
 How Blue Origin's internship program works, who may apply and when: [Blue Origin internships on SpaceJobs.Now](https://spacejobs.now/employers/blue-origin/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -58,6 +58,6 @@ How Blue Origin's internship program works, who may apply and when: [Blue Origin
 | **Blue Origin** | [2026 Intern Conversion - Guidance, Navigation & Control Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-guidance-navigation-control-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Industrial Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-industrial-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Manufacturing Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-manufacturing-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
-| **Blue Origin** | [2026 Intern Conversion - Electronics/Electrical Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-electronics-electrical-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Quality Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-quality-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
+| **Blue Origin** | [2026 Intern Conversion - Electronics/Electrical Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-electronics-electrical-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Propulsion Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-propulsion-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $81,313–$113,838/yr |  | Aug 11 |

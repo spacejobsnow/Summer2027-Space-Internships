@@ -2,12 +2,12 @@
 
 Every open internship and co-op at space companies, read each night from the company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships?utm_source=github&utm_medium=internship-list), a free job board for the space industry.
 
-**475 open in the United States, 599 in Europe, Canada and Asia-Pacific, at 86 companies. 193 name Summer 2027 so far. Updated 24 Nov 2026.**
+**473 open in the United States, 596 in Europe, Canada and Asia-Pacific, at 83 companies. 192 name Summer 2027 so far. Updated 25 Nov 2026.**
 
 A role is added when the company posts it and taken off when the company takes it down. Pay is shown only where the posting states it. Each role opens its page on SpaceJobs.Now with the full posting, who may apply and how.
 
 - United States: the table below
-- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md): ESA, Airbus, Thales Alenia Space, ArianeGroup, DLR, CNES, OHB and more (599 roles)
+- [Europe, Canada and Asia-Pacific](INTERNATIONAL.md): ESA, Airbus, Thales Alenia Space, ArianeGroup, DLR, CNES, OHB and more (596 roles)
 - Graduating? Entry-level roles have their own list: [New-Grad-Space-Jobs](https://github.com/spacejobsnow/New-Grad-Space-Jobs)
 - The same list as data: [data/internships.json](data/internships.json) (CC BY 4.0)
 - Track your applications: [Space Internship Tracker 2027](https://west-jet-aee.notion.site/Space-Internship-Tracker-2027-41aa3227c17f80eea5b6e2c782d07180), a free Notion template with every company on this list and the deadlines
@@ -17,26 +17,26 @@ Many US roles require US citizenship or US person status (export rules); each ro
 ## By field
 
 - [Software and IT](fields/ground-software.md) (57 in the US)
-- [Flight software and GNC](fields/gnc-flight-software.md) (43 in the US)
+- [Flight software and GNC](fields/gnc-flight-software.md) (42 in the US)
 - [Mechanical, structures and thermal](fields/mechanical-structures.md) (58 in the US)
-- [Avionics and electrical](fields/avionics-electrical.md) (39 in the US)
+- [Avionics and electrical](fields/avionics-electrical.md) (38 in the US)
 - [RF, communications and payloads](fields/rf-communications.md) (20 in the US)
-- [Propulsion](fields/propulsion.md) (21 in the US)
-- [Systems, integration and test](fields/systems-test.md) (58 in the US)
-- [Launch and mission operations](fields/launch-mission-ops.md) (12 in the US)
+- [Propulsion](fields/propulsion.md) (20 in the US)
+- [Systems, integration and test](fields/systems-test.md) (59 in the US)
+- [Launch and mission operations](fields/launch-mission-ops.md) (11 in the US)
 - [Manufacturing](fields/manufacturing.md) (29 in the US)
 - [Quality and mission assurance](fields/quality-safety.md) (14 in the US)
 - [Science, imaging and Earth data](fields/science-imaging.md) (14 in the US)
-- [Business and programs](fields/business-programs.md) (49 in the US)
+- [Business and programs](fields/business-programs.md) (50 in the US)
 - [Supply chain and facilities](fields/supply-chain-facilities.md) (22 in the US)
 
 ## By state
 
-[California](states/california.md) (216), [Colorado](states/colorado.md) (73), [Texas](states/texas.md) (56), [Washington](states/washington.md) (49), [Virginia](states/virginia.md) (33), [Maryland](states/maryland.md) (15), [Florida](states/florida.md) (12), [Alabama](states/alabama.md) (11), [Pennsylvania](states/pennsylvania.md) (9), [New Mexico](states/new-mexico.md) (8), [Arizona](states/arizona.md) (6)
+[California](states/california.md) (213), [Colorado](states/colorado.md) (74), [Texas](states/texas.md) (56), [Washington](states/washington.md) (49), [Virginia](states/virginia.md) (32), [Maryland](states/maryland.md) (15), [Florida](states/florida.md) (12), [Alabama](states/alabama.md) (11), [Pennsylvania](states/pennsylvania.md) (9), [New Mexico](states/new-mexico.md) (8), [Arizona](states/arizona.md) (5)
 
 ## By company
 
-[The Aerospace Corporation](companies/aerospace-corporation.md) (51), [Blue Origin](companies/blue-origin.md) (48), [Astranis](companies/astranis.md) (39), [Lockheed Martin](companies/lockheed-martin.md) (33), [Rocket Lab](companies/rocket-lab.md) (32), [Varda Space Industries](companies/varda.md) (26), [Intuitive Machines](companies/intuitive-machines.md) (22), [Muon Space](companies/muon-space.md) (16), [CesiumAstro](companies/cesiumastro.md) (13), [Impulse Space](companies/impulse-space.md) (12), [Axiom Space](companies/axiom-space.md) (12), [SpaceX](companies/spacex.md) (12), [Virginia Space](companies/virginia-space.md) (11), [Agile Space Industries](companies/agile-space-industries.md) (10), [Firefly Aerospace](companies/firefly-aerospace.md) (10), [Rendezvous Robotics](companies/rendezvous-robotics.md) (8), [Scout Space](companies/scout-space.md) (7), [Ursa Major](companies/ursa-major.md) (7), [AeroVironment (AV)](companies/aerovironment.md) (7), [Inversion Space](companies/inversion-space.md) (7), [Voyager Technologies](companies/voyager.md) (7), [Lunar Outpost](companies/lunar-outpost.md) (7), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (6), [Apex](companies/apex.md) (5), [Reflect Orbital](companies/reflect-orbital.md) (5)
+[The Aerospace Corporation](companies/aerospace-corporation.md) (51), [Blue Origin](companies/blue-origin.md) (48), [Astranis](companies/astranis.md) (39), [Lockheed Martin](companies/lockheed-martin.md) (33), [Rocket Lab](companies/rocket-lab.md) (32), [Varda Space Industries](companies/varda.md) (26), [Intuitive Machines](companies/intuitive-machines.md) (22), [Muon Space](companies/muon-space.md) (16), [CesiumAstro](companies/cesiumastro.md) (13), [Axiom Space](companies/axiom-space.md) (12), [SpaceX](companies/spacex.md) (12), [Impulse Space](companies/impulse-space.md) (11), [Virginia Space](companies/virginia-space.md) (11), [Lunar Outpost](companies/lunar-outpost.md) (10), [Agile Space Industries](companies/agile-space-industries.md) (10), [Firefly Aerospace](companies/firefly-aerospace.md) (10), [Scout Space](companies/scout-space.md) (7), [Ursa Major](companies/ursa-major.md) (7), [AeroVironment (AV)](companies/aerovironment.md) (7), [Inversion Space](companies/inversion-space.md) (7), [Voyager Technologies](companies/voyager.md) (7), [NASA Jet Propulsion Laboratory (JPL)](companies/jpl.md) (6), [Rendezvous Robotics](companies/rendezvous-robotics.md) (6), [Apex](companies/apex.md) (5), [Reflect Orbital](companies/reflect-orbital.md) (5)
 
 ## Deadlines ahead
 
@@ -56,10 +56,16 @@ How each program works, what it pays and who may apply, read from the employer's
 - [Summer 2027](https://spacejobs.now/space-internships/summer-2027?utm_source=github&utm_medium=internship-list), [Spring 2027](https://spacejobs.now/space-internships/spring-2027?utm_source=github&utm_medium=internship-list) and [Winter 2027](https://spacejobs.now/space-internships/winter-2027?utm_source=github&utm_medium=internship-list) lists
 - [Entry-level space jobs for new graduates](https://spacejobs.now/space-jobs-no-experience?utm_source=github&utm_medium=internship-list)
 
-## United States (475)
+## United States (473)
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Lunar Outpost** | [Marketing Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/marketing-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
+| **Lunar Outpost** | [Software Management Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/software-management-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
+| **Lunar Outpost** | [Crew Systems Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/crew-systems-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
+| **GITAI** | [Field Test Operations Intern (January 2027 Start)](https://spacejobs.now/jobs/gitai/field-test-operations-intern-january-2027-start?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $28–$35/hr |  | Nov 24 |
+| **Apex** | [Software Engineer, Test Automation Internship (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineer-test-automation-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 24 |
+| **Apex** | [Mechanical Ground Systems Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/apex/mechanical-ground-systems-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 24 |
 | **Viasat** | [Mechanical Engineering Intern](https://spacejobs.now/jobs/viasat/mechanical-engineering-intern?utm_source=github&utm_medium=internship-list) | Carlsbad, CA | $25.96–$67.07/hr | with-housing | Nov 23 |
 | **Viasat** | [Embedded Software Engineer Intern - Viasat Government](https://spacejobs.now/jobs/viasat/embedded-software-engineer-intern-viasat-government?utm_source=github&utm_medium=internship-list) | Tempe, AZ | $25.96–$67.07/hr | with-housing | Nov 23 |
 | **Agile Space Industries** | [Summer Intern 2027 / Strategy and Corporate Development](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-strategy-and-corporate-development?utm_source=github&utm_medium=internship-list) | Denver, CO | $21–$35/hr | with-housing | Nov 21 |
@@ -166,8 +172,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Astranis** | [Embedded Software Developer, Network/Payload Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/embedded-software-developer-network-payload-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Nov 6 |
 | **Viasat** | [Industrial Engineer Intern](https://spacejobs.now/jobs/viasat/industrial-engineer-intern?utm_source=github&utm_medium=internship-list) | Tempe, AZ and 1 more | $25.96–$67.07/hr | with-housing | Nov 6 |
 | **Lockheed Martin** | [Software Developer Intern](https://spacejobs.now/jobs/lockheed-martin/software-developer-intern?utm_source=github&utm_medium=internship-list) | Boulder, CO | $30.16–$34.84/hr |  | Nov 6 |
-| **Apex** | [Ground Software Engineering Internship (Spring or Summer 2027)](https://spacejobs.now/jobs/apex/ground-software-engineering-internship-spring-or-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
-| **Apex** | [Software Engineering Internship, Test & Automation (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-internship-test-automation-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
 | **Apex** | [Software Engineering Internship, Embedded Systems (Spring or Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-internship-embedded-systems-spring-or-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
 | **The Aerospace Corporation** | [2027 Enterprise REsiliency Modeling and Simulation Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-enterprise-resiliency-modeling-and-simulation-graduate-intern?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  | graduate-students, with-housing | Nov 5 |
 | **The Aerospace Corporation** | [2027 Trajectory Optimization Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-trajectory-optimization-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | graduate-students, with-housing | Nov 5 |
@@ -187,14 +191,12 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Impulse Space** | [Enterprise Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/enterprise-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $32/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Information Security Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/information-security-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Information Technology Intern, Service Delivery (Summer 2027)](https://spacejobs.now/jobs/impulse-space/information-technology-intern-service-delivery-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
-| **Impulse Space** | [Test Automation Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/test-automation-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Assembly, Integration, and Test (AI&T) Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/assembly-integration-and-test-ai-t-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Development Test Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/development-test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Manufacturing Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/manufacturing-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Avionics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/avionics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $32/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Propulsion Test Engineering Intern (Mojave - Summer 2027)](https://spacejobs.now/jobs/impulse-space/propulsion-test-engineering-intern-mojave-summer-2027?utm_source=github&utm_medium=internship-list) | Mojave, California | $30/hr | Summer 2027 | Oct 30 |
 | **Iridium** | [Iridium Software Engineering Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA | $31/hr | Summer 2027 | Oct 30 |
-| **Iridium** | [Iridium Systems & Mission Operations Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-systems-mission-operations-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA and 3 more | $31/hr | Summer 2027 | Oct 30 |
 | **United Launch Alliance** | [Video Editing Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/video-editing-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027 | Oct 30 |
 | **United Launch Alliance** | [Information Technology Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/information-technology-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **Loft Orbital** | [Summer 2027 Internship – Thermal & Manufacturing Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-thermal-manufacturing-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 30 |
@@ -209,7 +211,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **The Aerospace Corporation** | [2027 Radio Frequency (RF) Spectrum Engineering Undergrad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-radio-frequency-rf-spectrum-engineering-undergrad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Oct 28 |
 | **The Aerospace Corporation** | [2027 Space Communications and Network Systems Undergrad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-space-communications-and-network-systems-undergrad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Oct 28 |
 | **The Aerospace Corporation** | [2027 Power Systems Engineering Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-power-systems-engineering-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Oct 28 |
-| **RTX** | [Mechanical Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rtx/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, CA | $42,000–$88,000/yr | Summer 2027 | Oct 28 |
 | **Amentum** | [Spring 2027 Intern - Structural Dynamics Engineer](https://spacejobs.now/jobs/amentum/spring-2027-intern-structural-dynamics-engineer?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Spring 2027 | Oct 28 |
 | **Loft Orbital** | [Summer 2027 Internship – Satellite Programs](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-satellite-programs?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 27 |
 | **Loft Orbital** | [Summer 2027 Internship – Mechanical Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-mechanical-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 27 |
@@ -220,7 +221,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **AeroVironment (AV)** | [Systems Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/systems-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Test Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/test-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Electrical Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/electrical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
-| **Benchmark Space Systems** | [Propellant Chemistry Intern](https://spacejobs.now/jobs/benchmark-space-systems/propellant-chemistry-intern?utm_source=github&utm_medium=internship-list) | Pleasanton, California | $24–$27/hr | with-housing | Oct 26 |
 | **The Aerospace Corporation** | [2027 Defensive Cyber Operations Undergrad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-defensive-cyber-operations-undergrad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Oct 23 |
 | **Firefly Aerospace** | [Internship - Ground Support Equipment - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-ground-support-equipment-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 23 |
 | **Firefly Aerospace** | [Internship - Mechanical Engineering - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-mechanical-engineering-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 23 |
@@ -422,12 +422,12 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Astranis** | [Network Planning Sales Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/network-planning-sales-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, California | $29.00/hr | Winter 2027 | Sep 18 |
 | **Rocket Lab** | [R&D Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/r-d-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM | $20.00/hr | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Systems Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 2 more | $25–$28/hr | Summer 2027, with-housing | Sep 17 |
-| **Rocket Lab** | [Supply Chain Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/supply-chain-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 2 more | $22.00/hr | Spring 2027, with-housing | Sep 17 |
+| **Rocket Lab** | [Supply Chain Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/supply-chain-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Tucson, AZ and 1 more | $22.00/hr | Spring 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [People & Culture Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/people-culture-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $25.00/hr | Spring 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Manufacturing Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Wallops Island, VA and 2 more | $25–$28/hr | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Electrical Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/electrical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Pasadena, CA and 2 more |  | Summer 2027, with-housing | Sep 17 |
 | **Rocket Lab** | [Test Engineering Intern - Manufacturing Spring 2027](https://spacejobs.now/jobs/rocket-lab/test-engineering-intern-manufacturing-spring-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Spring 2027, with-housing | Sep 17 |
-| **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 2 more | $18–$25/hr | Summer 2027, with-housing | Sep 16 |
+| **Rocket Lab** | [Security Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 1 more | $18–$22/hr | Summer 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Security Analyst Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/security-analyst-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Albuquerque, NM and 1 more | $18–$25/hr | Spring 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Mechanical Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Silver Spring, MD and 2 more |  | Summer 2027, with-housing | Sep 16 |
 | **Rocket Lab** | [Propulsion Analyst Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/propulsion-analyst-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $28.00/hr | Summer 2027, with-housing | Sep 16 |
@@ -435,7 +435,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Rocket Lab** | [Manufacturing Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/manufacturing-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 1 more | $25–$28/hr | Spring 2027, with-housing | Sep 16 |
 | **Rendezvous Robotics** | [Mechanical Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
 | **Rendezvous Robotics** | [GNC Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/gnc-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
-| **Rendezvous Robotics** | [Avionics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/avionics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
 | **Cowboy Space** | [Internship 2027](https://spacejobs.now/jobs/cowboy-space/internship-2027?utm_source=github&utm_medium=internship-list) | Kent, Washington | $1,800/wk |  | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - Supply Chain Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-supply-chain-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - Manufacturing Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-manufacturing-internship?utm_source=github&utm_medium=internship-list) | Austin, TX |  | Summer 2027 | Sep 16 |
@@ -501,8 +500,8 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Blue Origin** | [2026 Intern Conversion - Guidance, Navigation & Control Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-guidance-navigation-control-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Industrial Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-industrial-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Manufacturing Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-manufacturing-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
-| **Blue Origin** | [2026 Intern Conversion - Electronics/Electrical Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-electronics-electrical-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Quality Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-quality-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
+| **Blue Origin** | [2026 Intern Conversion - Electronics/Electrical Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-electronics-electrical-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Propulsion Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-propulsion-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $81,313–$113,838/yr |  | Aug 11 |
 | **Varda Space Industries** | [Vehicle Integration & Test Internship - Spring 2027](https://spacejobs.now/jobs/varda/vehicle-integration-test-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Spring 2027, with-housing | Aug 7 |
 | **Varda Space Industries** | [Supply Chain Internship - Spring 2027](https://spacejobs.now/jobs/varda/supply-chain-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Spring 2027, with-housing | Aug 7 |
@@ -530,7 +529,6 @@ How each program works, what it pays and who may apply, read from the employer's
 | **Rendezvous Robotics** | [GNC Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/gnc-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 27 |
 | **Rendezvous Robotics** | [Manufacturing and Test Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/manufacturing-and-test-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 27 |
 | **Rendezvous Robotics** | [Mechanical Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/mechanical-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 22 |
-| **Rendezvous Robotics** | [Software Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/software-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 22 |
 | **Starfish Space** | [Skillbridge Internship](https://spacejobs.now/jobs/starfish-space/skillbridge-internship?utm_source=github&utm_medium=internship-list) | Tukwila, Washington |  |  | Jun 25 |
 | **Constellation Space** | [Software Engineering Intern (Winter/Spring)](https://spacejobs.now/jobs/constellation-space/software-engineering-intern-winter-spring?utm_source=github&utm_medium=internship-list) | Seattle, WA | $6K-$7K/mo • $3k relocation stipend. |  | Apr 24 |
 | **SciTec** | [DoD Skillbridge Internship for Transitioning Military Service Members](https://spacejobs.now/jobs/scitec/dod-skillbridge-internship-for-transitioning-military-service-members?utm_source=github&utm_medium=internship-list) | Princeton, California |  |  | Jan 8 |

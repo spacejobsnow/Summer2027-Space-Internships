@@ -1,11 +1,11 @@
 ---
 title: "Propulsion internships at space companies (2027)"
-description: "21 open propulsion internships and co-ops at space companies in the US (Rocket Lab, The Aerospace Corporation, Blue Origin, Ursa Major and more), updated daily."
+description: "20 open propulsion internships and co-ops at space companies in the US (Rocket Lab, The Aerospace Corporation, Blue Origin, Ursa Major and more), updated daily."
 ---
 
 # Propulsion internships at space companies (2027)
 
-**21 open in the United States at 10 companies, most at Rocket Lab, The Aerospace Corporation, Blue Origin, Ursa Major, Intuitive Machines. Updated 24 Nov 2026.**
+**20 open in the United States at 9 companies, most at Rocket Lab, The Aerospace Corporation, Blue Origin, Ursa Major, Intuitive Machines. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/propulsion?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -19,7 +19,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Electric Propulsion & Plasma Science Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-electric-propulsion-plasma-science-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Nov 10 |
 | **The Aerospace Corporation** | [2027 Propulsion Science Undergraduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-propulsion-science-undergraduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Nov 10 |
 | **Impulse Space** | [Propulsion Test Engineering Intern (Mojave - Summer 2027)](https://spacejobs.now/jobs/impulse-space/propulsion-test-engineering-intern-mojave-summer-2027?utm_source=github&utm_medium=internship-list) | Mojave, California | $30/hr | Summer 2027 | Oct 30 |
-| **Benchmark Space Systems** | [Propellant Chemistry Intern](https://spacejobs.now/jobs/benchmark-space-systems/propellant-chemistry-intern?utm_source=github&utm_medium=internship-list) | Pleasanton, California | $24–$27/hr | with-housing | Oct 26 |
 | **Ursa Major** | [2027 Summer Combustion Devices Intern](https://spacejobs.now/jobs/ursa-major/2027-summer-combustion-devices-intern?utm_source=github&utm_medium=internship-list) | Berthoud, Colorado | $30.00/hr |  | Oct 22 |
 | **Blue Origin** | [Summer 2027 Fluid Systems & Propulsion Engineering Internship - Graduate](https://spacejobs.now/jobs/blue-origin/summer-2027-fluid-systems-propulsion-engineering-internship-graduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $38/hr | Summer 2027, graduate-students, with-housing | Oct 13 |
 | **Blue Origin** | [Summer 2027 Fluid Systems & Propulsion Engineering Internship - Undergraduate](https://spacejobs.now/jobs/blue-origin/summer-2027-fluid-systems-propulsion-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list) | Seattle, WA | $32/hr | Summer 2027, freshmen-and-sophomores, with-housing | Oct 13 |

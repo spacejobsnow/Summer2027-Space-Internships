@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "73 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Rendezvous Robotics, CesiumAstro and more), updated daily."
+description: "74 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**73 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Rendezvous Robotics, CesiumAstro, Lunar Outpost. Updated 24 Nov 2026.**
+**74 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro, Ursa Major. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Lunar Outpost** | [Marketing Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/marketing-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
+| **Lunar Outpost** | [Software Management Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/software-management-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
+| **Lunar Outpost** | [Crew Systems Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/crew-systems-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
 | **Agile Space Industries** | [Summer Intern 2027 / Strategy and Corporate Development](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-strategy-and-corporate-development?utm_source=github&utm_medium=internship-list) | Denver, CO | $21–$35/hr | with-housing | Nov 21 |
 | **Agile Space Industries** | [Summer Intern 2027 / IT](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-it?utm_source=github&utm_medium=internship-list) | Durango, CO | $19–$23/hr | with-housing | Nov 21 |
 | **Agile Space Industries** | [Summer Intern 2027 / Quality Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-quality-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO |  | with-housing | Nov 21 |
@@ -70,7 +73,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Lunar Outpost** | [Test Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 21 |
 | **Rendezvous Robotics** | [Mechanical Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/mechanical-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
 | **Rendezvous Robotics** | [GNC Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/gnc-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
-| **Rendezvous Robotics** | [Avionics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/rendezvous-robotics/avionics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Summer 2027 | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - Supply Chain Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-supply-chain-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 16 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, RF](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-rf?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
 | **CesiumAstro** | [Summer 2027 - GNC Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-gnc-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
@@ -85,4 +87,3 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Rendezvous Robotics** | [GNC Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/gnc-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 27 |
 | **Rendezvous Robotics** | [Manufacturing and Test Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/manufacturing-and-test-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 27 |
 | **Rendezvous Robotics** | [Mechanical Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/mechanical-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 22 |
-| **Rendezvous Robotics** | [Software Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/software-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 22 |

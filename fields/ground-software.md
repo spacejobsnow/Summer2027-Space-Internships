@@ -1,11 +1,11 @@
 ---
 title: "Software and IT internships at space companies (2027)"
-description: "57 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin and more), updated daily."
+description: "57 open software and it internships and co-ops at space companies in the US (Lockheed Martin, The Aerospace Corporation, Blue Origin, Varda Space Industries and more), updated daily."
 ---
 
 # Software and IT internships at space companies (2027)
 
-**57 open in the United States at 28 companies, most at Lockheed Martin, The Aerospace Corporation, Impulse Space, Blue Origin, Varda Space Industries. Updated 24 Nov 2026.**
+**57 open in the United States at 28 companies, most at Lockheed Martin, The Aerospace Corporation, Blue Origin, Varda Space Industries, Impulse Space. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/ground-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Lunar Outpost** | [Software Management Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/software-management-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
+| **Apex** | [Software Engineer, Test Automation Internship (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineer-test-automation-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 24 |
 | **Lockheed Martin** | [Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO and 1 more | $22.66–$34.84/hr | Summer 2027 | Nov 17 |
 | **Intuitive Machines** | [Simulation and Modeling Software Intern](https://spacejobs.now/jobs/intuitive-machines/simulation-and-modeling-software-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Muon Space** | [Software Engineering Intern-Information Systems (Summer 2027)](https://spacejobs.now/jobs/muon-space/software-engineering-intern-information-systems-summer-2027?utm_source=github&utm_medium=internship-list) | San Jose, CA | $40/hr | Summer 2027 | Nov 12 |
@@ -29,12 +31,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Defensive Cyber Operations Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-defensive-cyber-operations-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Nov 9 |
 | **Varda Space Industries** | [Site Reliability Internship - Summer 2027](https://spacejobs.now/jobs/varda/site-reliability-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Nov 6 |
 | **Lockheed Martin** | [Software Developer Intern](https://spacejobs.now/jobs/lockheed-martin/software-developer-intern?utm_source=github&utm_medium=internship-list) | Boulder, CO | $30.16–$34.84/hr |  | Nov 6 |
-| **Apex** | [Ground Software Engineering Internship (Spring or Summer 2027)](https://spacejobs.now/jobs/apex/ground-software-engineering-internship-spring-or-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
 | **The Aerospace Corporation** | [2027 Software Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-software-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | with-housing | Nov 2 |
 | **Impulse Space** | [Enterprise Software Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/enterprise-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $32/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Information Security Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/information-security-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Information Technology Intern, Service Delivery (Summer 2027)](https://spacejobs.now/jobs/impulse-space/information-technology-intern-service-delivery-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
-| **Impulse Space** | [Test Automation Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/test-automation-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Iridium** | [Iridium Software Engineering Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA | $31/hr | Summer 2027 | Oct 30 |
 | **United Launch Alliance** | [Information Technology Internship Summer 2027](https://spacejobs.now/jobs/united-launch-alliance/information-technology-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Centennial, CO | $23.10–$37.95/hr | Summer 2027, freshmen-and-sophomores | Oct 30 |
 | **Axiom Space** | [IT Infrastructure Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/it-infrastructure-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 30 |

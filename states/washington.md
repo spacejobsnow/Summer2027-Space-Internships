@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Washington (2027)"
-description: "49 open space internships and co-ops in Washington (Blue Origin, Stoke Space, Gravitics, Starfish Space and more), updated daily."
+description: "49 open space internships and co-ops in Washington (Blue Origin, Stoke Space, Starfish Space, Cowboy Space and more), updated daily."
 ---
 
 # Space and aerospace internships in Washington (2027)
 
-**49 open at 6 companies, most at Blue Origin, Stoke Space, Gravitics, Starfish Space, Cowboy Space. Updated 24 Nov 2026.**
+**49 open at 6 companies, most at Blue Origin, Stoke Space, Starfish Space, Cowboy Space, Constellation Space. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/washington?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -57,8 +57,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Blue Origin** | [2026 Intern Conversion - Guidance, Navigation & Control Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-guidance-navigation-control-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA and 8 more | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Industrial Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-industrial-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Manufacturing Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-manufacturing-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
-| **Blue Origin** | [2026 Intern Conversion - Electronics/Electrical Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-electronics-electrical-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Quality Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-quality-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $75,289–$105,404/yr |  | Aug 11 |
+| **Blue Origin** | [2026 Intern Conversion - Electronics/Electrical Systems Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-electronics-electrical-systems-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $87,816–$122,942/yr |  | Aug 11 |
 | **Blue Origin** | [2026 Intern Conversion - Propulsion Engineer I](https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-propulsion-engineer-i?utm_source=github&utm_medium=internship-list) | Seattle, WA | $81,313–$113,838/yr |  | Aug 11 |
 | **Starfish Space** | [Skillbridge Internship](https://spacejobs.now/jobs/starfish-space/skillbridge-internship?utm_source=github&utm_medium=internship-list) | Tukwila, Washington |  |  | Jun 25 |
 | **Constellation Space** | [Software Engineering Intern (Winter/Spring)](https://spacejobs.now/jobs/constellation-space/software-engineering-intern-winter-spring?utm_source=github&utm_medium=internship-list) | Seattle, WA | $6K-$7K/mo • $3k relocation stipend. |  | Apr 24 |

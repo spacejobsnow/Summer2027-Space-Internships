@@ -5,7 +5,7 @@ description: "97 open Thales Alenia Space internships and co-ops outside the US 
 
 # Thales Alenia Space internships (2027)
 
-**97 open. Updated 24 Nov 2026.**
+**97 open. Updated 25 Nov 2026.**
 
 How Thales Alenia Space's internship program works, who may apply and when: [Thales Alenia Space internships on SpaceJobs.Now](https://spacejobs.now/employers/thales-alenia-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -87,10 +87,10 @@ How Thales Alenia Space's internship program works, who may apply and when: [Tha
 | **Thales Alenia Space** | [STAGE - Ingénieur Automatisation de Tests Outils Satcom - H/F](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-automatisation-de-tests-outils-satcom-h-f?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Oct 22 |
 | **Thales Alenia Space** | [STAGE– Ingénieur Développement Web - Equipement de Mesures Hyperfréquences - F/H](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-developpement-web-equipement-de-mesures-hyperfrequences-f-h?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Oct 22 |
 | **Thales Alenia Space** | [Stage – Ingénieur Migration simulateur AOCS/SCAO sur plateforme GIT– (H/F)](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-migration-simulateur-aocs-scao-sur-plateforme-git-h-f?utm_source=github&utm_medium=internship-list) | Cannes, Alpes-Maritimes, France |  |  | Oct 22 |
-| **Thales Alenia Space** | [STAGE – Ingénieur IA générative- Routage de circuits imprimés simples - F/H](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-ia-generative-routage-de-circuits-imprimes-simples-f-h?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Oct 22 |
 | **Thales Alenia Space** | [STAGE - Évaluation des solutions de contrôle non destructif pour les technologies Flip-Chip et SiP - F/H](https://spacejobs.now/jobs/thales-alenia-space/stage-evaluation-des-solutions-de-controle-non-destructif-pour-les-technologies-flip-chip?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Oct 22 |
 | **Thales Alenia Space** | [Stage – Ingénieur Fiabilité Système et Logiciel – H/F](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-fiabilite-systeme-et-logiciel-h-f?utm_source=github&utm_medium=internship-list) | Cannes, Alpes-Maritimes, France |  |  | Oct 22 |
 | **Thales Alenia Space** | [Stage – Ingénieur HSE – (H/F)](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-hse-h-f?utm_source=github&utm_medium=internship-list) | Cannes, Alpes-Maritimes, France |  |  | Oct 22 |
+| **Thales Alenia Space** | [STAGE – Ingénieur IA générative- Routage de circuits imprimés simples - F/H](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-ia-generative-routage-de-circuits-imprimes-simples-f-h?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Oct 22 |
 | **Thales Alenia Space** | [STAGE – Ingénieur IA appliquée à l'exploitation Cloud – F / H](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-ia-appliquee-a-l-exploitation-cloud-f-h?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Oct 21 |
 | **Thales Alenia Space** | [Stage – Ingénieur Intégration de l’Intelligence Artificielle dans la chaîne de validation des logiciels embarqués satellites – (H/F)](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-integration-de-l-intelligence-artificielle-dans-la-chaine-de-validation?utm_source=github&utm_medium=internship-list) | Cannes, Alpes-Maritimes, France |  |  | Oct 21 |
 | **Thales Alenia Space** | [STAGE – Ingénieur Système - Support et Déploiement d’outil d’ingénierie -F/H](https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-systeme-support-et-deploiement-d-outil-d-ingenierie-f-h?utm_source=github&utm_medium=internship-list) | Toulouse, Haute-Garonne, France |  |  | Oct 21 |

@@ -1,11 +1,11 @@
 ---
 title: "Airbus Defence and Space internships 2027: open roles, pay and how to apply"
-description: "31 open Airbus Defence and Space internships and co-ops outside the US (Business and programs; RF, communications and payloads; Quality and mission assurance), updated daily."
+description: "31 open Airbus Defence and Space internships and co-ops outside the US (Business and programs; RF, communications and payloads; Systems, integration and test), updated daily."
 ---
 
 # Airbus Defence and Space internships (2027)
 
-**31 open. Updated 24 Nov 2026.**
+**31 open. Updated 25 Nov 2026.**
 
 How Airbus Defence and Space's internship program works, who may apply and when: [Airbus Defence and Space internships on SpaceJobs.Now](https://spacejobs.now/employers/airbus-defence-and-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -20,8 +20,8 @@ How Airbus Defence and Space's internship program works, who may apply and when:
 | **Airbus Defence and Space** | [Praktikum "Automatisierung eines Messplatzes für die neueste Generation von Modulatoren" (d/m/w)](https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-automatisierung-eines-messplatzes-fur-die-neueste-generation-von-modulatoren-d?utm_source=github&utm_medium=internship-list) | Stuttgart Area, Germany |  |  | Nov 5 |
 | **Airbus Defence and Space** | [Internship in Satellite Radio Frequency Communications: Tool Development/Improvement (d/f/m)](https://spacejobs.now/jobs/airbus-defence-and-space/internship-in-satellite-radio-frequency-communications-tool-development-improvement-d-f-m?utm_source=github&utm_medium=internship-list) | Immenstaad am Bodensee, Germany |  |  | Nov 5 |
 | **Airbus Defence and Space** | [Praktikum "Entwicklung und Charakterisierung von Hochfrequenz- und Digitalschaltungen" (d/m/w)](https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-entwicklung-und-charakterisierung-von-hochfrequenz-und-digitalschaltungen-d-m-w?utm_source=github&utm_medium=internship-list) | Stuttgart Area, Germany |  |  | Nov 5 |
-| **Airbus Defence and Space** | [Internship in Satellite On-Board Data Handling: Integration of Data Handling Unit (d/f/m)](https://spacejobs.now/jobs/airbus-defence-and-space/internship-in-satellite-on-board-data-handling-integration-of-data-handling-unit-d-f-m?utm_source=github&utm_medium=internship-list) | Immenstaad am Bodensee, Germany |  |  | Nov 5 |
 | **Airbus Defence and Space** | [Praktikum/Abschlussarbeit "KI‑gestützte Auswertung Prüfbefund‑Datenbank" (d/m/w)](https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-abschlussarbeit-ki-gestutzte-auswertung-prufbefund-datenbank-d-m-w?utm_source=github&utm_medium=internship-list) | Stuttgart Area, Germany |  |  | Nov 5 |
+| **Airbus Defence and Space** | [Internship in Satellite On-Board Data Handling: Integration of Data Handling Unit (d/f/m)](https://spacejobs.now/jobs/airbus-defence-and-space/internship-in-satellite-on-board-data-handling-integration-of-data-handling-unit-d-f-m?utm_source=github&utm_medium=internship-list) | Immenstaad am Bodensee, Germany |  |  | Nov 5 |
 | **Airbus Defence and Space** | [Praktikum (d/m/w) Projektmanagement Ground Support Systems & Services](https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-d-m-w-projektmanagement-ground-support-systems-services?utm_source=github&utm_medium=internship-list) | Immenstaad am Bodensee, Germany |  |  | Nov 4 |
 | **Airbus Defence and Space** | [STAGE 2027- Commercial and Contract H/F](https://spacejobs.now/jobs/airbus-defence-and-space/stage-2027-commercial-and-contract-h-f?utm_source=github&utm_medium=internship-list) | Toulouse Area, France |  |  | Nov 4 |
 | **Airbus Defence and Space** | [STAGE 2027 - Operations Logistique Maintenance EGNOS v3](https://spacejobs.now/jobs/airbus-defence-and-space/stage-2027-operations-logistique-maintenance-egnos-v3?utm_source=github&utm_medium=internship-list) | Toulouse Area, France |  |  | Nov 4 |

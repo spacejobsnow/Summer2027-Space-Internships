@@ -1,11 +1,11 @@
 ---
 title: "AeroVironment (AV) internships 2027: open roles, pay and how to apply"
-description: "7 open AeroVironment (AV) internships and co-ops in the US (Systems, integration and test; Avionics and electrical; Quality and mission assurance), updated daily."
+description: "7 open AeroVironment (AV) internships and co-ops in the US (Systems, integration and test; Manufacturing; Business and programs), updated daily."
 ---
 
 # AeroVironment (AV) internships (2027)
 
-**7 open in the United States. Updated 24 Nov 2026.**
+**7 open in the United States. Updated 25 Nov 2026.**
 
 How AeroVironment (AV)'s internship program works, who may apply and when: [AeroVironment (AV) internships on SpaceJobs.Now](https://spacejobs.now/employers/aerovironment/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

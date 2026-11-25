@@ -1,11 +1,11 @@
 ---
 title: "Flight software and GNC internships at space companies (2027)"
-description: "43 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Varda Space Industries, Rendezvous Robotics and more), updated daily."
+description: "42 open flight software and gnc internships and co-ops at space companies in the US (The Aerospace Corporation, Blue Origin, Varda Space Industries, Lockheed Martin and more), updated daily."
 ---
 
 # Flight software and GNC internships at space companies (2027)
 
-**43 open in the United States at 18 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Rendezvous Robotics, Astranis. Updated 24 Nov 2026.**
+**42 open in the United States at 18 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Lockheed Martin, CesiumAstro. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -55,4 +55,3 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Varda Space Industries** | [Guidance, Navigation & Controls (GNC) Internship - Spring 2027](https://spacejobs.now/jobs/varda/guidance-navigation-controls-gnc-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Spring 2027, with-housing | Aug 7 |
 | **Varda Space Industries** | [Flight Software Internship - Spring 2027](https://spacejobs.now/jobs/varda/flight-software-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $37.00/hr | Spring 2027, with-housing | Aug 7 |
 | **Rendezvous Robotics** | [GNC Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/gnc-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 27 |
-| **Rendezvous Robotics** | [Software Engineering Intern (Spring 2027)](https://spacejobs.now/jobs/rendezvous-robotics/software-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Golden, CO |  | Spring 2027 | Jul 22 |

@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Virginia (2027)"
-description: "33 open space internships and co-ops in Virginia (Virginia Space, The Aerospace Corporation, Blue Origin, Rocket Lab and more), updated daily."
+description: "32 open space internships and co-ops in Virginia (Virginia Space, The Aerospace Corporation, Blue Origin, Rocket Lab and more), updated daily."
 ---
 
 # Space and aerospace internships in Virginia (2027)
 
-**33 open at 10 companies, most at Virginia Space, The Aerospace Corporation, Blue Origin, Rocket Lab, Muon Space. Updated 24 Nov 2026.**
+**32 open at 10 companies, most at Virginia Space, The Aerospace Corporation, Blue Origin, Rocket Lab, Muon Space. Updated 25 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/virginia?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -19,7 +19,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Trajectory Optimization Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-trajectory-optimization-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | graduate-students, with-housing | Nov 5 |
 | **The Aerospace Corporation** | [2027 Software Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-software-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | with-housing | Nov 2 |
 | **Iridium** | [Iridium Software Engineering Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA | $31/hr | Summer 2027 | Oct 30 |
-| **Iridium** | [Iridium Systems & Mission Operations Internship - Summer 2027](https://spacejobs.now/jobs/iridium/iridium-systems-mission-operations-internship-summer-2027?utm_source=github&utm_medium=internship-list) | McLean, VA and 3 more | $31/hr | Summer 2027 | Oct 30 |
 | **The Aerospace Corporation** | [2027 Risk and Reliability Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-risk-and-reliability-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 1 more |  | graduate-students, with-housing | Oct 30 |
 | **The Aerospace Corporation** | [2027 Sensor Modeling and Simulation Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-sensor-modeling-and-simulation-grad-intern?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  | with-housing | Oct 14 |
 | **The Aerospace Corporation** | [2027 Sensor Modeling and Simulation Undergrad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-sensor-modeling-and-simulation-undergrad-intern?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  | with-housing | Oct 14 |
