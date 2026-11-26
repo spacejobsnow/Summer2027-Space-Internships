@@ -5,7 +5,7 @@ description: "5 open space internships and co-ops in Arizona (Rocket Lab, Viasat
 
 # Space and aerospace internships in Arizona (2027)
 
-**5 open at 3 companies, most at Rocket Lab, Viasat, Intuitive Machines. Updated 25 Nov 2026.**
+**5 open at 3 companies, most at Rocket Lab, Viasat, Intuitive Machines. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/arizona?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

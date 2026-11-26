@@ -1,11 +1,11 @@
 ---
 title: "Mechanical, structures and thermal internships at space companies (2027)"
-description: "58 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Varda Space Industries, Astranis and more), updated daily."
+description: "57 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Astranis, Rocket Lab and more), updated daily."
 ---
 
 # Mechanical, structures and thermal internships at space companies (2027)
 
-**58 open in the United States at 28 companies, most at Blue Origin, Intuitive Machines, Varda Space Industries, Astranis, Firefly Aerospace. Updated 25 Nov 2026.**
+**57 open in the United States at 28 companies, most at Blue Origin, Intuitive Machines, Astranis, Rocket Lab, Varda Space Industries. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/mechanical-structures?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -48,7 +48,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Varda Space Industries** | [Aerodynamics & Analysis Engineering Internship - Summer 2027](https://spacejobs.now/jobs/varda/aerodynamics-analysis-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Varda Space Industries** | [Mechanisms & Payload Internship - Summer 2027](https://spacejobs.now/jobs/varda/mechanisms-payload-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Varda Space Industries** | [Structures Engineering Internship - Summer 2027](https://spacejobs.now/jobs/varda/structures-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
-| **Varda Space Industries** | [Thermal Engineering Internship - Summer 2027](https://spacejobs.now/jobs/varda/thermal-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Muon Space** | [Thermal Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/muon-space/thermal-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Jose, CA | $40/hr | Summer 2027 | Sep 30 |
 | **Virginia Space** | [Mechanical Engineer Intern](https://spacejobs.now/jobs/virginia-space/mechanical-engineer-intern?utm_source=github&utm_medium=internship-list) | Wallops Island, VA | $22/hr |  | Sep 30 |
 | **Voyager Technologies** | [2027 Mechanical Engineering Intern](https://spacejobs.now/jobs/voyager/2027-mechanical-engineering-intern?utm_source=github&utm_medium=internship-list) | Long Beach, CA | $23.50–$30.00/hr |  | Sep 28 |

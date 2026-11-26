@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in California (2027)"
-description: "213 open space internships and co-ops in California (The Aerospace Corporation, Astranis, Varda Space Industries, Rocket Lab and more), updated daily."
+description: "217 open space internships and co-ops in California (The Aerospace Corporation, Astranis, Varda Space Industries, Rocket Lab and more), updated daily."
 ---
 
 # Space and aerospace internships in California (2027)
 
-**213 open at 29 companies, most at The Aerospace Corporation, Astranis, Varda Space Industries, Rocket Lab, Muon Space. Updated 25 Nov 2026.**
+**217 open at 30 companies, most at The Aerospace Corporation, Astranis, Varda Space Industries, Rocket Lab, Muon Space. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/california?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,10 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Astrolab** | [Production Engineering Intern](https://spacejobs.now/jobs/astrolab/production-engineering-intern?utm_source=github&utm_medium=internship-list) | Hawthorne, CA | $30/hr |  | Nov 26 |
+| **Xona Space Systems** | [Software Engineering (Engineering Productivity) Intern](https://spacejobs.now/jobs/xona-space/software-engineering-engineering-productivity-intern?utm_source=github&utm_medium=internship-list) | Burlingame, California | $40–$45/hr |  | Nov 25 |
+| **Apex** | [Software Engineering, Operating Systems Internship (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-operating-systems-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 25 |
+| **Apex** | [Flight Software Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/apex/flight-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 25 |
 | **GITAI** | [Field Test Operations Intern (January 2027 Start)](https://spacejobs.now/jobs/gitai/field-test-operations-intern-january-2027-start?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $28–$35/hr |  | Nov 24 |
 | **Apex** | [Software Engineer, Test Automation Internship (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineer-test-automation-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 24 |
 | **Apex** | [Mechanical Ground Systems Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/apex/mechanical-ground-systems-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 24 |
@@ -41,6 +45,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **The Aerospace Corporation** | [2027 Power and Analog Circuit Engineering Grad Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-power-and-analog-circuit-engineering-grad-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | with-housing | Nov 9 |
 | **Varda Space Industries** | [Site Reliability Internship - Summer 2027](https://spacejobs.now/jobs/varda/site-reliability-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Nov 6 |
 | **Astranis** | [Embedded Software Developer, Network/Payload Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/embedded-software-developer-network-payload-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Nov 6 |
+| **Apex** | [Ground Software Engineering Internship (Spring or Summer 2027)](https://spacejobs.now/jobs/apex/ground-software-engineering-internship-spring-or-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
+| **Apex** | [Software Engineering Internship, Test & Automation (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-internship-test-automation-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
 | **Apex** | [Software Engineering Internship, Embedded Systems (Spring or Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-internship-embedded-systems-spring-or-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
 | **The Aerospace Corporation** | [2027 Trajectory Optimization Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-trajectory-optimization-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | graduate-students, with-housing | Nov 5 |
 | **The Aerospace Corporation** | [2027 Battery Test Lab Undergraduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-battery-test-lab-undergraduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | freshmen-and-sophomores, with-housing | Nov 5 |
@@ -121,7 +127,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Varda Space Industries** | [Mechanisms & Payload Internship - Summer 2027](https://spacejobs.now/jobs/varda/mechanisms-payload-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Varda Space Industries** | [Structures Engineering Internship - Summer 2027](https://spacejobs.now/jobs/varda/structures-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Varda Space Industries** | [Vehicle Integration & Test Internship - Summer 2027](https://spacejobs.now/jobs/varda/vehicle-integration-test-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
-| **Varda Space Industries** | [Thermal Engineering Internship - Summer 2027](https://spacejobs.now/jobs/varda/thermal-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Astranis** | [Radiation Effects Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/radiation-effects-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 30 |
 | **Astranis** | [Automation & Controls Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/automation-controls-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 30 |
 | **Astranis** | [Automation & Controls Engineering Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/automation-controls-engineering-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 30 |
@@ -157,7 +162,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Astranis** | [FPGA Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/fpga-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Software Defined Radio Hardware Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/software-defined-radio-hardware-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Muon Space** | [Junior Help Desk Intern (Summer 2027)](https://spacejobs.now/jobs/muon-space/junior-help-desk-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Mountain View, CA | $40/hr | Summer 2027 | Sep 23 |
-| **Astranis** | [Propulsion Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/propulsion-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Antenna Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/antenna-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Electrical Reliability Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/electrical-reliability-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |
 | **Astranis** | [Avionics Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/avionics-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |

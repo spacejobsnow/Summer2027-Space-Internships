@@ -1,11 +1,11 @@
 ---
 title: "Rocket Lab internships 2027: open roles, pay and how to apply"
-description: "36 open Rocket Lab internships and co-ops (32 in the US) (Business and programs; Propulsion; Supply chain and facilities), updated daily."
+description: "36 open Rocket Lab internships and co-ops (32 in the US) (Business and programs; Supply chain and facilities; Propulsion), updated daily."
 ---
 
 # Rocket Lab internships (2027)
 
-**36 open, 32 of them in the United States. Updated 25 Nov 2026.**
+**36 open, 32 of them in the United States. Updated 26 Nov 2026.**
 
 How Rocket Lab's internship program works, who may apply and when: [Rocket Lab internships on SpaceJobs.Now](https://spacejobs.now/employers/rocket-lab/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

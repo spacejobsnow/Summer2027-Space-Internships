@@ -1,11 +1,11 @@
 ---
 title: "OHB internships 2027: open roles, pay and how to apply"
-description: "14 open OHB internships and co-ops outside the US (Mechanical, structures and thermal; Software and IT; Business and programs), updated daily."
+description: "14 open OHB internships and co-ops outside the US (Mechanical, structures and thermal; Software and IT; Supply chain and facilities), updated daily."
 ---
 
 # OHB internships (2027)
 
-**14 open. Updated 25 Nov 2026.**
+**14 open. Updated 26 Nov 2026.**
 
 How OHB's internship program works, who may apply and when: [OHB internships on SpaceJobs.Now](https://spacejobs.now/employers/ohb/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -14,10 +14,10 @@ How OHB's internship program works, who may apply and when: [OHB internships on 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
 | **OHB** | [Internship (m/f/d) Construction & BMK](https://spacejobs.now/jobs/ohb/internship-m-f-d-construction-bmk?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 23 |
-| **OHB** | [Pupil internship Technology Workshop Augsburg - copy](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
-| **OHB** | [Pupil internship Technology Workshop Augsburg - copy - copy](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy-copy?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
-| **OHB** | [Pupil internship Technology Workshop Augsburg - copy - copy - copy](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy-copy-copy?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
-| **OHB** | [Studentischer Mitarbeiter / Praktikant - Information Security (m/w/d)](https://spacejobs.now/jobs/ohb/studentischer-mitarbeiter-praktikant-information-security-m-w-d?utm_source=github&utm_medium=internship-list) | Bremen, Germany |  |  | Oct 20 |
+| **OHB** | [Pupil internship Technology Workshop Augsburg - 12.07.2027 - 16.07.2027](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-12-07-2027-16-07-2027?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
+| **OHB** | [Pupil internship Technology Workshop Augsburg - 18.05.2027 - 21.05.2027](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-18-05-2027-21-05-2027?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
+| **OHB** | [Pupil internship Technology Workshop Augsburg - 19.07.2027 - 23.07.2027](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-19-07-2027-23-07-2027?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
+| **OHB** | [Pupil internship Technology Workshop Augsburg 22.03.2027 - 25.03.2027](https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-22-03-2027-25-03-2027?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Nov 19 |
 | **OHB** | [Systems Engineer Intern - Image Simulation & Processing (m/f/d)](https://spacejobs.now/jobs/ohb/systems-engineer-intern-image-simulation-processing-m-f-d?utm_source=github&utm_medium=internship-list) | Weßling bei München, Germany |  |  | Oct 6 |
 | **OHB** | [Student intern in the Materials & Processes department (m/f/d)](https://spacejobs.now/jobs/ohb/student-intern-in-the-materials-processes-department-m-f-d?utm_source=github&utm_medium=internship-list) | Augsburg, Germany |  |  | Aug 28 |
 | **OHB** | [Intern unsolicited (m/f/d)](https://spacejobs.now/jobs/ohb/intern-unsolicited-m-f-d?utm_source=github&utm_medium=internship-list) | Mainz, Germany and 1 more |  |  | Aug 20 |

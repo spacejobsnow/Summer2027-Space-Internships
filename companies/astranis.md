@@ -1,11 +1,11 @@
 ---
 title: "Astranis internships 2027: open roles, pay and how to apply"
-description: "39 open Astranis internships and co-ops in the US (Systems, integration and test; Avionics and electrical; Mechanical, structures and thermal), updated daily."
+description: "38 open Astranis internships and co-ops in the US (Systems, integration and test; Avionics and electrical; Mechanical, structures and thermal), updated daily."
 ---
 
 # Astranis internships (2027)
 
-**39 open in the United States. Updated 25 Nov 2026.**
+**38 open in the United States. Updated 26 Nov 2026.**
 
 How Astranis's internship program works, who may apply and when: [Astranis internships on SpaceJobs.Now](https://spacejobs.now/employers/astranis/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -30,7 +30,6 @@ How Astranis's internship program works, who may apply and when: [Astranis inter
 | **Astranis** | [FPGA Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/fpga-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |
 | **Astranis** | [FPGA Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/fpga-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Software Defined Radio Hardware Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/software-defined-radio-hardware-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
-| **Astranis** | [Propulsion Engineer Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/propulsion-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Antenna Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/antenna-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |
 | **Astranis** | [Electrical Reliability Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/electrical-reliability-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Sep 23 |
 | **Astranis** | [Avionics Intern (Winter 2027)](https://spacejobs.now/jobs/astranis/avionics-intern-winter-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Winter 2027 | Sep 23 |

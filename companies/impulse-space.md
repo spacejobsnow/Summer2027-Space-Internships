@@ -1,11 +1,11 @@
 ---
 title: "Impulse Space internships 2027: open roles, pay and how to apply"
-description: "11 open Impulse Space internships and co-ops in the US (Software and IT; Systems, integration and test; Avionics and electrical), updated daily."
+description: "11 open Impulse Space internships and co-ops in the US (Software and IT; Avionics and electrical; Systems, integration and test), updated daily."
 ---
 
 # Impulse Space internships (2027)
 
-**11 open in the United States. Updated 25 Nov 2026.**
+**11 open in the United States. Updated 26 Nov 2026.**
 
 How Impulse Space's internship program works, who may apply and when: [Impulse Space internships on SpaceJobs.Now](https://spacejobs.now/employers/impulse-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

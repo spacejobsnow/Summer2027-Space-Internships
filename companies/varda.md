@@ -1,11 +1,11 @@
 ---
 title: "Varda Space Industries internships 2027: open roles, pay and how to apply"
-description: "26 open Varda Space Industries internships and co-ops in the US (Mechanical, structures and thermal; Flight software and GNC; Science, imaging and Earth data), updated daily."
+description: "25 open Varda Space Industries internships and co-ops in the US (Mechanical, structures and thermal; Flight software and GNC; Science, imaging and Earth data), updated daily."
 ---
 
 # Varda Space Industries internships (2027)
 
-**26 open in the United States. Updated 25 Nov 2026.**
+**25 open in the United States. Updated 26 Nov 2026.**
 
 How Varda Space Industries's internship program works, who may apply and when: [Varda Space Industries internships on SpaceJobs.Now](https://spacejobs.now/employers/varda/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -27,7 +27,6 @@ How Varda Space Industries's internship program works, who may apply and when: [
 | **Varda Space Industries** | [Mechanisms & Payload Internship - Summer 2027](https://spacejobs.now/jobs/varda/mechanisms-payload-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Varda Space Industries** | [Structures Engineering Internship - Summer 2027](https://spacejobs.now/jobs/varda/structures-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Varda Space Industries** | [Vehicle Integration & Test Internship - Summer 2027](https://spacejobs.now/jobs/varda/vehicle-integration-test-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
-| **Varda Space Industries** | [Thermal Engineering Internship - Summer 2027](https://spacejobs.now/jobs/varda/thermal-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Summer 2027, with-housing | Oct 1 |
 | **Varda Space Industries** | [Vehicle Integration & Test Internship - Spring 2027](https://spacejobs.now/jobs/varda/vehicle-integration-test-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Spring 2027, with-housing | Aug 7 |
 | **Varda Space Industries** | [Supply Chain Internship - Spring 2027](https://spacejobs.now/jobs/varda/supply-chain-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Spring 2027, with-housing | Aug 7 |
 | **Varda Space Industries** | [Structures Engineering Internship - Spring 2027](https://spacejobs.now/jobs/varda/structures-engineering-internship-spring-2027?utm_source=github&utm_medium=internship-list) | El Segundo, California | $33.00/hr | Spring 2027, with-housing | Aug 7 |

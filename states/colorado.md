@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Colorado (2027)"
-description: "74 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro and more), updated daily."
+description: "73 open space internships and co-ops in Colorado (Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro and more), updated daily."
 ---
 
 # Space and aerospace internships in Colorado (2027)
 
-**74 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro, Ursa Major. Updated 25 Nov 2026.**
+**73 open at 12 companies, most at Lockheed Martin, Agile Space Industries, Lunar Outpost, CesiumAstro, Ursa Major. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/colorado?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,7 +14,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
 | **Lunar Outpost** | [Marketing Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/marketing-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
-| **Lunar Outpost** | [Software Management Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/software-management-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
 | **Lunar Outpost** | [Crew Systems Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/crew-systems-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
 | **Agile Space Industries** | [Summer Intern 2027 / Strategy and Corporate Development](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-strategy-and-corporate-development?utm_source=github&utm_medium=internship-list) | Denver, CO | $21–$35/hr | with-housing | Nov 21 |
 | **Agile Space Industries** | [Summer Intern 2027 / IT](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-it?utm_source=github&utm_medium=internship-list) | Durango, CO | $19–$23/hr | with-housing | Nov 21 |
@@ -77,8 +76,8 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, RF](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-rf?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
 | **CesiumAstro** | [Summer 2027 - GNC Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-gnc-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Project Management Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/project-management-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
-| **Lunar Outpost** | [Thermal Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/thermal-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Simulation Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/simulation-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
+| **Lunar Outpost** | [Thermal Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/thermal-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Lunar Outpost** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, Colorado | $24.00/hr | Summer 2027 | Sep 15 |
 | **Rocket Lab** | [Flight Software Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/flight-software-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Littleton, CO | $27.00/hr | Summer 2027, with-housing | Sep 9 |
 | **CesiumAstro** | [Summer 2027 – Test Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-test-engineering-internship?utm_source=github&utm_medium=internship-list) | Westminster, CO |  | Summer 2027 | Aug 27 |

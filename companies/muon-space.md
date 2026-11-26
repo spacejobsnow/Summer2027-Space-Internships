@@ -1,11 +1,11 @@
 ---
 title: "Muon Space internships 2027: open roles, pay and how to apply"
-description: "16 open Muon Space internships and co-ops in the US (Systems, integration and test; Business and programs; Flight software and GNC), updated daily."
+description: "16 open Muon Space internships and co-ops in the US (Systems, integration and test; Business and programs; Avionics and electrical), updated daily."
 ---
 
 # Muon Space internships (2027)
 
-**16 open in the United States. Updated 25 Nov 2026.**
+**16 open in the United States. Updated 26 Nov 2026.**
 
 How Muon Space's internship program works, who may apply and when: [Muon Space internships on SpaceJobs.Now](https://spacejobs.now/employers/muon-space/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

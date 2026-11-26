@@ -1,8 +1,76 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "internships": [
+  {
+   "company": "Astrolab",
+   "title": "Production Engineering Intern",
+   "location": "Hawthorne, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$30/hr",
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-26",
+   "url": "https://spacejobs.now/jobs/astrolab/production-engineering-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Xona Space Systems",
+   "title": "Software Engineering (Engineering Productivity) Intern",
+   "location": "Burlingame, California",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$40\u2013$45/hr",
+   "term": null,
+   "field": "ground-software",
+   "posted": "2026-11-25",
+   "url": "https://spacejobs.now/jobs/xona-space/software-engineering-engineering-productivity-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ICEYE",
+   "title": "ICEYE Intern Lab: Product Design",
+   "location": "Espoo, Finland",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": "with-housing",
+   "field": "business-programs",
+   "posted": "2026-11-25",
+   "url": "https://spacejobs.now/jobs/iceye/iceye-intern-lab-product-design?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Apex",
+   "title": "Software Engineering, Operating Systems Internship (Summer 2027)",
+   "location": "Los Angeles, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$45/hr",
+   "term": "Summer 2027",
+   "field": "gnc-flight-software",
+   "posted": "2026-11-25",
+   "url": "https://spacejobs.now/jobs/apex/software-engineering-operating-systems-internship-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Apex",
+   "title": "Flight Software Engineering Internship (Summer 2027)",
+   "location": "Los Angeles, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$45/hr",
+   "term": "Summer 2027",
+   "field": "gnc-flight-software",
+   "posted": "2026-11-25",
+   "url": "https://spacejobs.now/jobs/apex/flight-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
   {
    "company": "Eutelsat",
    "title": "Systems Modelling Intern OneWeb Next",
@@ -31,20 +99,6 @@
   },
   {
    "company": "Lunar Outpost",
-   "title": "Software Management Intern - Summer 2027",
-   "location": "Golden, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$24.00/hr",
-   "term": "Summer 2027",
-   "field": "ground-software",
-   "posted": "2026-11-25",
-   "url": "https://spacejobs.now/jobs/lunar-outpost/software-management-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Lunar Outpost",
    "title": "Crew Systems Intern - Summer 2027",
    "location": "Golden, CO",
    "in_us": true,
@@ -56,6 +110,32 @@
    "field": "systems-test",
    "posted": "2026-11-25",
    "url": "https://spacejobs.now/jobs/lunar-outpost/crew-systems-intern-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "CNES (French space agency)",
+   "title": "STAGE - T\u00e9l\u00e9mesure pour exp\u00e9riences embarqu\u00e9es sur lanceurs/d\u00e9monstrateurs H/F",
+   "location": "Paris, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-25",
+   "url": "https://spacejobs.now/jobs/cnes/stage-telemesure-pour-experiences-embarquees-sur-lanceurs-demonstrateurs-h-f?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Busek",
+   "title": "Northeastern University Coop - Engineering",
+   "location": "Natick, MA",
+   "in_us": true,
+   "states": [
+    "MA"
+   ],
+   "pay": null,
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-25",
+   "url": "https://spacejobs.now/jobs/busek/northeastern-university-coop-engineering?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "GITAI",
@@ -98,6 +178,30 @@
    "field": "mechanical-structures",
    "posted": "2026-11-24",
    "url": "https://spacejobs.now/jobs/apex/mechanical-ground-systems-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Thales Alenia Space",
+   "title": "STAGE -Ing\u00e9nieur D\u00e9veloppement d'application - Comparaison et analyse de r\u00e9sultats RF - F/H",
+   "location": "Toulouse, Haute-Garonne, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "rf-communications",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-developpement-d-application-comparaison-et-analyse-de-resultats-rf-f-h?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Thales Alenia Space",
+   "title": "STAGE - Recherche et D\u00e9veloppement IA Neuromorphique - Applications spatiales - F/H",
+   "location": "Toulouse, Haute-Garonne, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-recherche-et-developpement-ia-neuromorphique-applications-spatiales-f-h?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Viasat",
@@ -576,7 +680,7 @@
   },
   {
    "company": "OHB",
-   "title": "Pupil internship Technology Workshop Augsburg - copy",
+   "title": "Pupil internship Technology Workshop Augsburg - 12.07.2027 - 16.07.2027",
    "location": "Augsburg, Germany",
    "in_us": false,
    "states": [],
@@ -584,11 +688,11 @@
    "term": null,
    "field": "other",
    "posted": "2026-11-19",
-   "url": "https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-12-07-2027-16-07-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "OHB",
-   "title": "Pupil internship Technology Workshop Augsburg - copy - copy",
+   "title": "Pupil internship Technology Workshop Augsburg - 18.05.2027 - 21.05.2027",
    "location": "Augsburg, Germany",
    "in_us": false,
    "states": [],
@@ -596,11 +700,11 @@
    "term": null,
    "field": "other",
    "posted": "2026-11-19",
-   "url": "https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy-copy?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-18-05-2027-21-05-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "OHB",
-   "title": "Pupil internship Technology Workshop Augsburg - copy - copy - copy",
+   "title": "Pupil internship Technology Workshop Augsburg - 19.07.2027 - 23.07.2027",
    "location": "Augsburg, Germany",
    "in_us": false,
    "states": [],
@@ -608,7 +712,19 @@
    "term": null,
    "field": "other",
    "posted": "2026-11-19",
-   "url": "https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-copy-copy-copy?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-19-07-2027-23-07-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "OHB",
+   "title": "Pupil internship Technology Workshop Augsburg 22.03.2027 - 25.03.2027",
+   "location": "Augsburg, Germany",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-19",
+   "url": "https://spacejobs.now/jobs/ohb/pupil-internship-technology-workshop-augsburg-22-03-2027-25-03-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "CNES (French space agency)",
@@ -1614,18 +1730,6 @@
    "url": "https://spacejobs.now/jobs/cnes/stage-optimisation-du-systeme-de-management-sante-et-securite-au-travail-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
-   "company": "CNES (French space agency)",
-   "title": "STAGE - Analyse des technologies de propulsion nucl\u00e9aire H/F",
-   "location": "Toulouse, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "propulsion",
-   "posted": "2026-11-12",
-   "url": "https://spacejobs.now/jobs/cnes/stage-analyse-des-technologies-de-propulsion-nucleaire-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
    "company": "Axiom Space",
    "title": "Contracts Intern (Summer 2027)",
    "location": "Houston, TX",
@@ -2393,18 +2497,6 @@
   },
   {
    "company": "European Space Agency (ESA)",
-   "title": "Intern in the Mechanical Department - Materials, Environments and Contamination Control Section",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-08",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-materials-environments-and-contamination-control?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
    "title": "Intern in the Systems Department - Navigation Systems Implementation and Validation Section",
    "location": "Noordwijk, Netherlands",
    "in_us": false,
@@ -2414,6 +2506,18 @@
    "field": "systems-test",
    "posted": "2026-11-08",
    "url": "https://spacejobs.now/jobs/esa/intern-in-the-systems-department-navigation-systems-implementation-and-validation-section?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Mechanical Department - Materials, Environments and Contamination Control Section",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-08",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-materials-environments-and-contamination-control?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "European Space Agency (ESA)",
@@ -2606,6 +2710,34 @@
   },
   {
    "company": "Apex",
+   "title": "Ground Software Engineering Internship (Spring or Summer 2027)",
+   "location": "Los Angeles, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$45/hr",
+   "term": "Summer 2027",
+   "field": "ground-software",
+   "posted": "2026-11-05",
+   "url": "https://spacejobs.now/jobs/apex/ground-software-engineering-internship-spring-or-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Apex",
+   "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
+   "location": "Los Angeles, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$45/hr",
+   "term": "Summer 2027",
+   "field": "systems-test",
+   "posted": "2026-11-05",
+   "url": "https://spacejobs.now/jobs/apex/software-engineering-internship-test-automation-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Apex",
    "title": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
    "location": "Los Angeles, CA",
    "in_us": true,
@@ -2665,18 +2797,6 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "Stage \u2013 Ing\u00e9nieur M\u00e9canique \u2013 (H/F)",
-   "location": "Cannes, Alpes-Maritimes, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-05",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-mecanique-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
    "title": "STAGE - Ing\u00e9nieur informatique industrielle Environnement essais -F/H",
    "location": "Toulouse, Haute-Garonne, France",
    "in_us": false,
@@ -2686,6 +2806,18 @@
    "field": "systems-test",
    "posted": "2026-11-05",
    "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-informatique-industrielle-environnement-essais-f-h?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Thales Alenia Space",
+   "title": "Stage \u2013 Ing\u00e9nieur M\u00e9canique \u2013 (H/F)",
+   "location": "Cannes, Alpes-Maritimes, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-05",
+   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-mecanique-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "CNES (French space agency)",
@@ -4082,90 +4214,6 @@
   },
   {
    "company": "European Space Agency (ESA)",
-   "title": "Intern in the Mechanical Department - Life Support and Physical Sciences Instrumentation Section",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-01",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-life-support-and-physical-sciences-instrumentation?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
-   "title": "Intern in the Mechanical Department - Mechanisms Section",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-01",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-mechanisms-section?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
-   "title": "Intern in the Mechanical Department - Robotics Section",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-01",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-robotics-section?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
-   "title": "Intern in the Mechanical Department - Structures Section",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-01",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-structures-section?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
-   "title": "Intern in the Mechanical Department - Thermal Analysis and Verification Section",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-01",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-thermal-analysis-and-verification-section?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
-   "title": "Intern in the Mechanical Department - Thermal Control Section",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-01",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-thermal-control-section?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
-   "title": "Intern in the Projects Department - EnVision Project: Thermo-Elastic Modelling",
-   "location": "Noordwijk, Netherlands",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-11-01",
-   "url": "https://spacejobs.now/jobs/esa/intern-in-the-projects-department-envision-project-thermo-elastic-modelling?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "European Space Agency (ESA)",
    "title": "Intern in the Ariane 6 Department - Ariane Mission and System Engineering Division",
    "location": "Paris, France",
    "in_us": false,
@@ -4427,6 +4475,90 @@
    "field": "systems-test",
    "posted": "2026-11-01",
    "url": "https://spacejobs.now/jobs/esa/intern-in-the-systems-department-zero-debris-approach-and-end-of-life-management?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Mechanical Department - Life Support and Physical Sciences Instrumentation Section",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-01",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-life-support-and-physical-sciences-instrumentation?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Mechanical Department - Mechanisms Section",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-01",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-mechanisms-section?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Mechanical Department - Robotics Section",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-01",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-robotics-section?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Mechanical Department - Structures Section",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-01",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-structures-section?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Mechanical Department - Thermal Analysis and Verification Section",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-01",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-thermal-analysis-and-verification-section?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Mechanical Department - Thermal Control Section",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-01",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-mechanical-department-thermal-control-section?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "European Space Agency (ESA)",
+   "title": "Intern in the Projects Department - EnVision Project: Thermo-Elastic Modelling",
+   "location": "Noordwijk, Netherlands",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-01",
+   "url": "https://spacejobs.now/jobs/esa/intern-in-the-projects-department-envision-project-thermo-elastic-modelling?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "European Space Agency (ESA)",
@@ -5402,18 +5534,6 @@
   },
   {
    "company": "German Aerospace Center (DLR)",
-   "title": "Master's Thesis / Student (f/m/x) Joining Concepts for Ceramic Matrix Composites",
-   "location": "Stuttgart, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": "graduate-students",
-   "field": "mechanical-structures",
-   "posted": "2026-10-31",
-   "url": "https://spacejobs.now/jobs/dlr/master-s-thesis-student-f-m-x-joining-concepts-for-ceramic-matrix-composites?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "German Aerospace Center (DLR)",
    "title": "Master Thesis (f/m/x) - Multi-Criteria selection of configurations in Trade-off Analysis",
    "location": "Braunschweig, Germany",
    "in_us": false,
@@ -5426,15 +5546,15 @@
   },
   {
    "company": "German Aerospace Center (DLR)",
-   "title": "Master Thesis (f/m/x) - Development and analysis of a software-based SpaceWire-to-Ethernet bridge",
-   "location": "Oberpfaffenhofen, Germany",
+   "title": "Master's Thesis / Student (f/m/x) Joining Concepts for Ceramic Matrix Composites",
+   "location": "Stuttgart, Germany",
    "in_us": false,
    "states": [],
    "pay": null,
-   "term": null,
-   "field": "gnc-flight-software",
+   "term": "graduate-students",
+   "field": "mechanical-structures",
    "posted": "2026-10-31",
-   "url": "https://spacejobs.now/jobs/dlr/master-thesis-f-m-x-development-and-analysis-of-a-software-based-spacewire-to-ethernet?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/dlr/master-s-thesis-student-f-m-x-joining-concepts-for-ceramic-matrix-composites?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "German Aerospace Center (DLR)",
@@ -5447,18 +5567,6 @@
    "field": "gnc-flight-software",
    "posted": "2026-10-31",
    "url": "https://spacejobs.now/jobs/dlr/master-thesis-f-m-x-neuro-symbolic-ai-for-resilient-on-board-decision-making?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "German Aerospace Center (DLR)",
-   "title": "Masterarbeit (w/m/d) - Entwicklung und Analyse eines softwarebasierten SpaceWire-zu-Ethernet Moduls",
-   "location": "Oberpfaffenhofen, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "gnc-flight-software",
-   "posted": "2026-10-31",
-   "url": "https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-entwicklung-und-analyse-eines-softwarebasierten-spacewire-zu-ethernet?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "German Aerospace Center (DLR)",
@@ -5594,6 +5702,18 @@
   },
   {
    "company": "CNES (French space agency)",
+   "title": "STAGE - D\u00e9veloppement d'un simulateur de vo\u00fbte c\u00e9leste pour viseurs d'\u00e9toiles",
+   "location": "Toulouse, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-31",
+   "url": "https://spacejobs.now/jobs/cnes/stage-developpement-d-un-simulateur-de-voute-celeste-pour-viseurs-d-etoiles?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "CNES (French space agency)",
    "title": "STAGE - Conception d'un oscillateur haute fr\u00e9quence avec un LNA int\u00e9gr\u00e9 H/F",
    "location": "Toulouse, France",
    "in_us": false,
@@ -5666,18 +5786,6 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "STAGE - Analyste Strat\u00e9gie et Innovation -Space Business Catalyst - F/H",
-   "location": "Toulouse, Haute-Garonne, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "business-programs",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-analyste-strategie-et-innovation-space-business-catalyst-f-h?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
    "title": "STAGE \u2013 Ing\u00e9nieur Industrie 4.0 & Jumeaux Num\u00e9riques de production \u2013 F/H",
    "location": "Toulouse, Haute-Garonne, France",
    "in_us": false,
@@ -5687,18 +5795,6 @@
    "field": "manufacturing",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-industrie-4-0-jumeaux-numeriques-de-production-f-h?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
-   "title": "STAGE \u2013 Ing\u00e9nieur Simulation Radar pour l'Observation de la Terre -F/H",
-   "location": "Toulouse, Haute-Garonne, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "science-imaging",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-simulation-radar-pour-l-observation-de-la-terre-f-h?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -5989,6 +6085,20 @@
    "url": "https://spacejobs.now/jobs/united-launch-alliance/information-technology-internship-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
+   "company": "United Launch Alliance",
+   "title": "Weld Engineering Internship - Summer 2027",
+   "location": "Decatur, AL",
+   "in_us": true,
+   "states": [
+    "AL"
+   ],
+   "pay": null,
+   "term": "Summer 2027, freshmen-and-sophomores",
+   "field": "manufacturing",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/united-launch-alliance/weld-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
    "company": "Loft Orbital",
    "title": "Summer 2027 Internship \u2013 Thermal & Manufacturing Engineering",
    "location": "Golden, CO",
@@ -6016,18 +6126,6 @@
    "field": "quality-safety",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/aerospace-corporation/2027-risk-and-reliability-graduate-intern?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
-   "title": "STAGE - Etude de compatibilit\u00e9 du logiciel SATSIZE pour le dimensionnement m\u00e9canique des programmes spatiaux scientifiques \u2013 (H/F)",
-   "location": "Cannes, Alpes-Maritimes, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-etude-de-compatibilite-du-logiciel-satsize-pour-le-dimensionnement-mecanique-des?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -6067,18 +6165,6 @@
   },
   {
    "company": "CNES (French space agency)",
-   "title": "STAGE - Ing\u00e9nieur.e simulation et essais thermique H/F",
-   "location": "Paris, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/cnes/stage-ingenieur-e-simulation-et-essais-thermique-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "CNES (French space agency)",
    "title": "STAGE - Mod\u00e9lisation Monte-Carlo de la chaine optique LISA H/F",
    "location": "Toulouse, France",
    "in_us": false,
@@ -6088,6 +6174,18 @@
    "field": "systems-test",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/cnes/stage-modelisation-monte-carlo-de-la-chaine-optique-lisa-h-f?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "CNES (French space agency)",
+   "title": "STAGE - Ing\u00e9nieur.e simulation et essais thermique H/F",
+   "location": "Paris, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-10-30",
+   "url": "https://spacejobs.now/jobs/cnes/stage-ingenieur-e-simulation-et-essais-thermique-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "CNES (French space agency)",
@@ -6422,18 +6520,6 @@
    "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-compression-de-donnees-hyperspectrales-conception-simulation-et-performances?utm_source=github&utm_medium=internship-list"
   },
   {
-   "company": "Thales Alenia Space",
-   "title": "Stage \u2013 Ing\u00e9nieur de recherche \u2013 Vers un mod\u00e8le de fondation multimodal optique / SAR / IR pour l'observation de la Terre \u2013 (H/F)",
-   "location": "Cannes, Alpes-Maritimes, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "science-imaging",
-   "posted": "2026-10-28",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-de-recherche-vers-un-modele-de-fondation-multimodal-optique-sar-ir-pour-l?utm_source=github&utm_medium=internship-list"
-  },
-  {
    "company": "CNES (French space agency)",
    "title": "STAGE : Ing\u00e9nieur.e logiciel de vol - Boot bas\u00e9 fichiers H/F",
    "location": "Toulouse, France",
@@ -6735,18 +6821,6 @@
   },
   {
    "company": "CNES (French space agency)",
-   "title": "STAGE - Conception, assemblage et pilotage d\u2019une maquette m\u00e9catronique H/F",
-   "location": "Paris, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "gnc-flight-software",
-   "posted": "2026-10-27",
-   "url": "https://spacejobs.now/jobs/cnes/stage-conception-assemblage-et-pilotage-d-une-maquette-mecatronique-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "CNES (French space agency)",
    "title": "STAGE - Ing\u00e9nieur.e Restitution d'orbite et catalogage H/F",
    "location": "Toulouse, France",
    "in_us": false,
@@ -6891,20 +6965,6 @@
   },
   {
    "company": "AeroVironment (AV)",
-   "title": "Mechanical Engineering Intern - Space Technologies",
-   "location": "Albuquerque, NM",
-   "in_us": true,
-   "states": [
-    "NM"
-   ],
-   "pay": null,
-   "term": "with-housing",
-   "field": "mechanical-structures",
-   "posted": "2026-10-27",
-   "url": "https://spacejobs.now/jobs/aerovironment/mechanical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "AeroVironment (AV)",
    "title": "Systems Engineering Intern - Space Technologies",
    "location": "Albuquerque, NM",
    "in_us": true,
@@ -6930,6 +6990,20 @@
    "field": "systems-test",
    "posted": "2026-10-27",
    "url": "https://spacejobs.now/jobs/aerovironment/test-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "AeroVironment (AV)",
+   "title": "Mechanical Engineering Intern - Space Technologies",
+   "location": "Albuquerque, NM",
+   "in_us": true,
+   "states": [
+    "NM"
+   ],
+   "pay": null,
+   "term": "with-housing",
+   "field": "mechanical-structures",
+   "posted": "2026-10-27",
+   "url": "https://spacejobs.now/jobs/aerovironment/mechanical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "AeroVironment (AV)",
@@ -7079,18 +7153,6 @@
   },
   {
    "company": "ArianeGroup",
-   "title": "STAGE - Technicienne / Technicien en M\u00e9thodologie de cha\u00eenes de cotes sur les \u00e9quipements de moteur fus\u00e9e",
-   "location": "Vernon, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-26",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-technicienne-technicien-en-methodologie-de-chaines-de-cotes-sur-les-equipements-de?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "ArianeGroup",
    "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur en Am\u00e9lioration des m\u00e9thodes d'exploitation de donn\u00e9es d'essais",
    "location": "Vernon, France",
    "in_us": false,
@@ -7112,6 +7174,18 @@
    "field": "systems-test",
    "posted": "2026-10-26",
    "url": "https://spacejobs.now/jobs/arianegroup/stage-technicienne-technicien-en-mesures-physiques?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ArianeGroup",
+   "title": "STAGE - Technicienne / Technicien en M\u00e9thodologie de cha\u00eenes de cotes sur les \u00e9quipements de moteur fus\u00e9e",
+   "location": "Vernon, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-10-26",
+   "url": "https://spacejobs.now/jobs/arianegroup/stage-technicienne-technicien-en-methodologie-de-chaines-de-cotes-sur-les-equipements-de?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "ArianeGroup",
@@ -7247,18 +7321,6 @@
   },
   {
    "company": "Airbus Defence and Space",
-   "title": "Werkstudent im Bereich Mechanical Engineering (d/m/w)",
-   "location": "Stuttgart Area, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "mechanical-structures",
-   "posted": "2026-10-26",
-   "url": "https://spacejobs.now/jobs/airbus-defence-and-space/werkstudent-im-bereich-mechanical-engineering-d-m-w?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Airbus Defence and Space",
    "title": "Praktikum \"Automatisierung eines Messplatzes f\u00fcr die n\u00e4chste Generation TT&C Transpondern\" (d/m/w)",
    "location": "Stuttgart Area, Germany",
    "in_us": false,
@@ -7268,6 +7330,18 @@
    "field": "systems-test",
    "posted": "2026-10-26",
    "url": "https://spacejobs.now/jobs/airbus-defence-and-space/praktikum-automatisierung-eines-messplatzes-fur-die-nachste-generation-tt-c-transpondern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Airbus Defence and Space",
+   "title": "Werkstudent im Bereich Mechanical Engineering (d/m/w)",
+   "location": "Stuttgart Area, Germany",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-10-26",
+   "url": "https://spacejobs.now/jobs/airbus-defence-and-space/werkstudent-im-bereich-mechanical-engineering-d-m-w?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Airbus Defence and Space",
@@ -7381,15 +7455,15 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "STAGE - Analyste Strat\u00e9gie & Sustainability -F/H",
-   "location": "Toulouse, Haute-Garonne, France",
+   "title": "Stage \u2013 Ing\u00e9nieur moyens d'essais thermique \u2013 (H/F)",
+   "location": "Cannes, Alpes-Maritimes, France",
    "in_us": false,
    "states": [],
    "pay": null,
    "term": null,
-   "field": "business-programs",
+   "field": "systems-test",
    "posted": "2026-10-23",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-analyste-strategie-sustainability-f-h?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-moyens-d-essais-thermique-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -7402,18 +7476,6 @@
    "field": "mechanical-structures",
    "posted": "2026-10-23",
    "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-de-recherche-modele-homogeneise-et-optimisation-parametrique-de-la?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
-   "title": "Stage \u2013 Ing\u00e9nieur moyens d'essais thermique \u2013 (H/F)",
-   "location": "Cannes, Alpes-Maritimes, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-23",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-moyens-d-essais-thermique-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -7915,18 +7977,6 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "Stage \u2013 Ing\u00e9nieur Int\u00e9gration de l\u2019Intelligence Artificielle dans la cha\u00eene de validation des logiciels embarqu\u00e9s satellites \u2013 (H/F)",
-   "location": "Cannes, Alpes-Maritimes, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-21",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-integration-de-l-intelligence-artificielle-dans-la-chaine-de-validation?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
    "title": "STAGE \u2013 Ing\u00e9nieur Syst\u00e8me - Support et D\u00e9ploiement d\u2019outil d\u2019ing\u00e9nierie -F/H",
    "location": "Toulouse, Haute-Garonne, France",
    "in_us": false,
@@ -7987,18 +8037,6 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "STAGE - Ing\u00e9nieur conception \u00e9lectronique de puissance \u2013 Evaluation GaN\u2013 F/H",
-   "location": "Toulouse, Haute-Garonne, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-10-21",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-conception-electronique-de-puissance-evaluation-gan-f-h?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
    "title": "Stage - D\u00e9veloppement de l'usage de l'IA au sein d\u2019activit\u00e9s industrielles et ing\u00e9nierie - H/F",
    "location": "Aix-en-Provence, Bouches-du-Rhone, France",
    "in_us": false,
@@ -8008,6 +8046,18 @@
    "field": "other",
    "posted": "2026-10-21",
    "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-developpement-de-l-usage-de-l-ia-au-sein-d-activites-industrielles-et-ingenierie-h-f?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Thales Alenia Space",
+   "title": "STAGE - Ing\u00e9nieur conception \u00e9lectronique de puissance \u2013 Evaluation GaN\u2013 F/H",
+   "location": "Toulouse, Haute-Garonne, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-10-21",
+   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-conception-electronique-de-puissance-evaluation-gan-f-h?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Airbus Defence and Space",
@@ -8125,18 +8175,6 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "Stage \u2013 Ing\u00e9nieur traitement du signal et machine learning (H/F)",
-   "location": "Cannes, Alpes-Maritimes, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "rf-communications",
-   "posted": "2026-10-20",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-traitement-du-signal-et-machine-learning-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
    "title": "STAGE - Ing\u00e9nieur \u00e9valuation des technologies IA pour la conception ASIC/FPGA - F/H",
    "location": "Toulouse, Haute-Garonne, France",
    "in_us": false,
@@ -8146,18 +8184,6 @@
    "field": "avionics-electrical",
    "posted": "2026-10-20",
    "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-evaluation-des-technologies-ia-pour-la-conception-asic-fpga-f-h?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "OHB",
-   "title": "Studentischer Mitarbeiter / Praktikant - Information Security (m/w/d)",
-   "location": "Bremen, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "ground-software",
-   "posted": "2026-10-20",
-   "url": "https://spacejobs.now/jobs/ohb/studentischer-mitarbeiter-praktikant-information-security-m-w-d?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Firefly Aerospace",
@@ -8611,6 +8637,42 @@
   },
   {
    "company": "ArianeGroup",
+   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur ESSAIS - Am\u00e9lioration process essais E2E",
+   "location": "Les Mureaux, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-19",
+   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-essais-amelioration-process-essais-e2e?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ArianeGroup",
+   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur Syst\u00e8me Projets Futurs",
+   "location": "Les Mureaux, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-19",
+   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-systeme-projets-futurs?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ArianeGroup",
+   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur Syst\u00e8mes MBSE",
+   "location": "Les Mureaux, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-10-19",
+   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-systemes-mbse?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "ArianeGroup",
    "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur en m\u00e9canique - simulation de la Fabrication Additive m\u00e9tallique (ALM)",
    "location": "Vernon, France",
    "in_us": false,
@@ -8680,42 +8742,6 @@
    "field": "mechanical-structures",
    "posted": "2026-10-19",
    "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-specialise-en-mecanique-dimensionnel?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "ArianeGroup",
-   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur ESSAIS - Am\u00e9lioration process essais E2E",
-   "location": "Les Mureaux, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-19",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-essais-amelioration-process-essais-e2e?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "ArianeGroup",
-   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur Syst\u00e8me Projets Futurs",
-   "location": "Les Mureaux, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-19",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-systeme-projets-futurs?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "ArianeGroup",
-   "title": "STAGE - Ing\u00e9nieure / Ing\u00e9nieur Syst\u00e8mes MBSE",
-   "location": "Les Mureaux, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-10-19",
-   "url": "https://spacejobs.now/jobs/arianegroup/stage-ingenieure-ingenieur-systemes-mbse?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "ArianeGroup",
@@ -9151,18 +9177,6 @@
   },
   {
    "company": "CNES (French space agency)",
-   "title": "STAGE - Architecte \u00c9lectrique et Avionique H/F",
-   "location": "Toulouse, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "avionics-electrical",
-   "posted": "2026-10-18",
-   "url": "https://spacejobs.now/jobs/cnes/stage-architecte-electrique-et-avionique-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "CNES (French space agency)",
    "title": "STAGE - Diminution du volume de t\u00e9l\u00e9m\u00e9trie \"HouseKeeping\" en VLEO H/F",
    "location": "Toulouse, France",
    "in_us": false,
@@ -9362,20 +9376,6 @@
   },
   {
    "company": "Axiom Space",
-   "title": "Mechanical/Aerospace Engineering Intern (Summer 2027)",
-   "location": "Houston, TX",
-   "in_us": true,
-   "states": [
-    "TX"
-   ],
-   "pay": null,
-   "term": "Summer 2027",
-   "field": "mechanical-structures",
-   "posted": "2026-10-15",
-   "url": "https://spacejobs.now/jobs/axiom-space/mechanical-aerospace-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Axiom Space",
    "title": "Systems Engineering Intern (Summer 2027)",
    "location": "Houston, TX",
    "in_us": true,
@@ -9387,6 +9387,20 @@
    "field": "systems-test",
    "posted": "2026-10-15",
    "url": "https://spacejobs.now/jobs/axiom-space/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Axiom Space",
+   "title": "Mechanical/Aerospace Engineering Intern (Summer 2027)",
+   "location": "Houston, TX",
+   "in_us": true,
+   "states": [
+    "TX"
+   ],
+   "pay": null,
+   "term": "Summer 2027",
+   "field": "mechanical-structures",
+   "posted": "2026-10-15",
+   "url": "https://spacejobs.now/jobs/axiom-space/mechanical-aerospace-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Axiom Space",
@@ -9500,6 +9514,34 @@
   },
   {
    "company": "Blue Origin",
+   "title": "Summer 2027 Aerospace Systems Engineering Intern - Graduate",
+   "location": "Seattle, WA",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$38/hr",
+   "term": "Summer 2027, graduate-students, with-housing",
+   "field": "systems-test",
+   "posted": "2026-10-14",
+   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-aerospace-systems-engineering-intern-graduate?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate",
+   "location": "Seattle, WA",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$32/hr",
+   "term": "Summer 2027, freshmen-and-sophomores, with-housing",
+   "field": "systems-test",
+   "posted": "2026-10-14",
+   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-aerospace-systems-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Blue Origin",
    "title": "Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate",
    "location": "Space Coast, FL",
    "in_us": true,
@@ -9539,34 +9581,6 @@
    "field": "mechanical-structures",
    "posted": "2026-10-14",
    "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-materials-processes-internship-undergraduate?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Summer 2027 Aerospace Systems Engineering Intern - Graduate",
-   "location": "Seattle, WA",
-   "in_us": true,
-   "states": [
-    "WA"
-   ],
-   "pay": "$38/hr",
-   "term": "Summer 2027, graduate-students, with-housing",
-   "field": "systems-test",
-   "posted": "2026-10-14",
-   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-aerospace-systems-engineering-intern-graduate?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Summer 2027 Aerospace Systems Engineering Internship - Undergraduate",
-   "location": "Seattle, WA",
-   "in_us": true,
-   "states": [
-    "WA"
-   ],
-   "pay": "$32/hr",
-   "term": "Summer 2027, freshmen-and-sophomores, with-housing",
-   "field": "systems-test",
-   "posted": "2026-10-14",
-   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-aerospace-systems-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Blue Origin",
@@ -9730,34 +9744,6 @@
   },
   {
    "company": "Blue Origin",
-   "title": "Summer 2027 Structural & Mechanical Engineering Internship - Undergraduate",
-   "location": "Seattle, WA",
-   "in_us": true,
-   "states": [
-    "WA"
-   ],
-   "pay": "$32/hr",
-   "term": "Summer 2027, freshmen-and-sophomores, with-housing",
-   "field": "mechanical-structures",
-   "posted": "2026-10-13",
-   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-structural-mechanical-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate",
-   "location": "Seattle, WA",
-   "in_us": true,
-   "states": [
-    "WA"
-   ],
-   "pay": "$38/hr",
-   "term": "Summer 2027, graduate-students, with-housing",
-   "field": "mechanical-structures",
-   "posted": "2026-10-13",
-   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-structural-mechanical-systems-engineering-internship-graduate?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Blue Origin",
    "title": "Summer 2027 Test Engineering Internship - Graduate",
    "location": "Van Horn, TX",
    "in_us": true,
@@ -9783,6 +9769,34 @@
    "field": "systems-test",
    "posted": "2026-10-13",
    "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-test-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Summer 2027 Structural & Mechanical Engineering Internship - Undergraduate",
+   "location": "Seattle, WA",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$32/hr",
+   "term": "Summer 2027, freshmen-and-sophomores, with-housing",
+   "field": "mechanical-structures",
+   "posted": "2026-10-13",
+   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-structural-mechanical-engineering-internship-undergraduate?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate",
+   "location": "Seattle, WA",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$38/hr",
+   "term": "Summer 2027, graduate-students, with-housing",
+   "field": "mechanical-structures",
+   "posted": "2026-10-13",
+   "url": "https://spacejobs.now/jobs/blue-origin/summer-2027-structural-mechanical-systems-engineering-internship-graduate?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Blue Origin",
@@ -10557,20 +10571,6 @@
    "field": "systems-test",
    "posted": "2026-10-01",
    "url": "https://spacejobs.now/jobs/varda/vehicle-integration-test-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Varda Space Industries",
-   "title": "Thermal Engineering Internship - Summer 2027",
-   "location": "El Segundo, California",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$33.00/hr",
-   "term": "Summer 2027, with-housing",
-   "field": "mechanical-structures",
-   "posted": "2026-10-01",
-   "url": "https://spacejobs.now/jobs/varda/thermal-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "The Aerospace Corporation",
@@ -11351,20 +11351,6 @@
   },
   {
    "company": "Astranis",
-   "title": "Propulsion Engineer Intern (Winter 2027)",
-   "location": "San Francisco, CA",
-   "in_us": true,
-   "states": [
-    "CA"
-   ],
-   "pay": "$29.00/hr",
-   "term": "Winter 2027",
-   "field": "propulsion",
-   "posted": "2026-09-23",
-   "url": "https://spacejobs.now/jobs/astranis/propulsion-engineer-intern-winter-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Astranis",
    "title": "Antenna Intern (Winter 2027)",
    "location": "San Francisco, CA",
    "in_us": true,
@@ -12096,20 +12082,6 @@
   },
   {
    "company": "Lunar Outpost",
-   "title": "Thermal Engineering Intern - Summer 2027",
-   "location": "Golden, Colorado",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$24.00/hr",
-   "term": "Summer 2027",
-   "field": "mechanical-structures",
-   "posted": "2026-09-15",
-   "url": "https://spacejobs.now/jobs/lunar-outpost/thermal-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Lunar Outpost",
    "title": "Simulation Engineering Intern - Summer 2027",
    "location": "Golden, Colorado",
    "in_us": true,
@@ -12121,6 +12093,20 @@
    "field": "systems-test",
    "posted": "2026-09-15",
    "url": "https://spacejobs.now/jobs/lunar-outpost/simulation-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lunar Outpost",
+   "title": "Thermal Engineering Intern - Summer 2027",
+   "location": "Golden, Colorado",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$24.00/hr",
+   "term": "Summer 2027",
+   "field": "mechanical-structures",
+   "posted": "2026-09-15",
+   "url": "https://spacejobs.now/jobs/lunar-outpost/thermal-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Lunar Outpost",
@@ -12895,6 +12881,34 @@
   },
   {
    "company": "Blue Origin",
+   "title": "2026 Intern Conversion - Aerospace Systems Engineer I",
+   "location": "Seattle, WA",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$81,313\u2013$113,838/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-08-11",
+   "url": "https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-aerospace-systems-engineer-i?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Blue Origin",
+   "title": "2026 Intern Conversion - Test Engineer I",
+   "location": "Seattle, WA",
+   "in_us": true,
+   "states": [
+    "WA"
+   ],
+   "pay": "$81,313\u2013$113,838/yr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-08-11",
+   "url": "https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-test-engineer-i?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Blue Origin",
    "title": "2026 Intern Conversion - Materials and Process Engineer I",
    "location": "Seattle, WA",
    "in_us": true,
@@ -12948,34 +12962,6 @@
    "field": "mechanical-structures",
    "posted": "2026-08-11",
    "url": "https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-thermal-engineer-i?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "2026 Intern Conversion - Aerospace Systems Engineer I",
-   "location": "Seattle, WA",
-   "in_us": true,
-   "states": [
-    "WA"
-   ],
-   "pay": "$81,313\u2013$113,838/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-08-11",
-   "url": "https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-aerospace-systems-engineer-i?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Blue Origin",
-   "title": "2026 Intern Conversion - Test Engineer I",
-   "location": "Seattle, WA",
-   "in_us": true,
-   "states": [
-    "WA"
-   ],
-   "pay": "$81,313\u2013$113,838/yr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-08-11",
-   "url": "https://spacejobs.now/jobs/blue-origin/2026-intern-conversion-test-engineer-i?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Blue Origin",
@@ -13531,7 +13517,7 @@
   },
   {
    "company": "Constellation Space",
-   "title": "Software Engineering Intern (Winter/Spring)",
+   "title": "Machine Learning Intern (Winter/Spring)",
    "location": "Seattle, WA",
    "in_us": true,
    "states": [
@@ -13541,7 +13527,7 @@
    "term": null,
    "field": "ground-software",
    "posted": "2026-04-24",
-   "url": "https://spacejobs.now/jobs/constellation-space/software-engineering-intern-winter-spring?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/constellation-space/machine-learning-intern-winter-spring?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Rocket Factory Augsburg",

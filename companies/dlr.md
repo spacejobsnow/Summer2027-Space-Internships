@@ -1,11 +1,11 @@
 ---
 title: "German Aerospace Center (DLR) internships 2027: open roles, pay and how to apply"
-description: "30 open German Aerospace Center (DLR) internships and co-ops outside the US (RF, communications and payloads; Science, imaging and Earth data; Flight software and GNC), updated daily."
+description: "28 open German Aerospace Center (DLR) internships and co-ops outside the US (RF, communications and payloads; Science, imaging and Earth data; Software and IT), updated daily."
 ---
 
 # German Aerospace Center (DLR) internships (2027)
 
-**30 open. Updated 25 Nov 2026.**
+**28 open. Updated 26 Nov 2026.**
 
 How German Aerospace Center (DLR)'s internship program works, who may apply and when: [German Aerospace Center (DLR) internships on SpaceJobs.Now](https://spacejobs.now/employers/dlr/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Each role's page says who may apply.
 
@@ -27,11 +27,9 @@ How German Aerospace Center (DLR)'s internship program works, who may apply and 
 | **German Aerospace Center (DLR)** | [Master student / Internship (m/f/d) in Information Technology or Physics](https://spacejobs.now/jobs/dlr/master-student-internship-m-f-d-in-information-technology-or-physics?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d) Informatik oder Physik](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-informatik-oder-physik?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterthesis (f/m/x) - Investigating Visualization Techniques for Public Space Object Catalogs](https://spacejobs.now/jobs/dlr/masterthesis-f-m-x-investigating-visualization-techniques-for-public-space-object-catalogs?utm_source=github&utm_medium=internship-list) | Braunschweig, Germany |  |  | Oct 31 |
-| **German Aerospace Center (DLR)** | [Master's Thesis / Student (f/m/x) Joining Concepts for Ceramic Matrix Composites](https://spacejobs.now/jobs/dlr/master-s-thesis-student-f-m-x-joining-concepts-for-ceramic-matrix-composites?utm_source=github&utm_medium=internship-list) | Stuttgart, Germany |  | graduate-students | Oct 31 |
 | **German Aerospace Center (DLR)** | [Master Thesis (f/m/x) - Multi-Criteria selection of configurations in Trade-off Analysis](https://spacejobs.now/jobs/dlr/master-thesis-f-m-x-multi-criteria-selection-of-configurations-in-trade-off-analysis?utm_source=github&utm_medium=internship-list) | Braunschweig, Germany |  |  | Oct 31 |
-| **German Aerospace Center (DLR)** | [Master Thesis (f/m/x) - Development and analysis of a software-based SpaceWire-to-Ethernet bridge](https://spacejobs.now/jobs/dlr/master-thesis-f-m-x-development-and-analysis-of-a-software-based-spacewire-to-ethernet?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
+| **German Aerospace Center (DLR)** | [Master's Thesis / Student (f/m/x) Joining Concepts for Ceramic Matrix Composites](https://spacejobs.now/jobs/dlr/master-s-thesis-student-f-m-x-joining-concepts-for-ceramic-matrix-composites?utm_source=github&utm_medium=internship-list) | Stuttgart, Germany |  | graduate-students | Oct 31 |
 | **German Aerospace Center (DLR)** | [Master Thesis (f/m/x) - Neuro-Symbolic AI for Resilient On-Board Decision Making](https://spacejobs.now/jobs/dlr/master-thesis-f-m-x-neuro-symbolic-ai-for-resilient-on-board-decision-making?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
-| **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d) - Entwicklung und Analyse eines softwarebasierten SpaceWire-zu-Ethernet Moduls](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-entwicklung-und-analyse-eines-softwarebasierten-spacewire-zu-ethernet?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d) - Neuro-symbolische KI für resiliente On-Board Entscheidungen](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-neuro-symbolische-ki-fur-resiliente-on-board-entscheidungen?utm_source=github&utm_medium=internship-list) | Oberpfaffenhofen, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d) - Entwicklung Atomuhren](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-entwicklung-atomuhren?utm_source=github&utm_medium=internship-list) | Hannover, Germany |  |  | Oct 31 |
 | **German Aerospace Center (DLR)** | [Masterarbeit (w/m/d): Entwicklung eines Labordemonstrators für Lichtkurven](https://spacejobs.now/jobs/dlr/masterarbeit-w-m-d-entwicklung-eines-labordemonstrators-fur-lichtkurven?utm_source=github&utm_medium=internship-list) | Stuttgart, Germany |  |  | Oct 31 |

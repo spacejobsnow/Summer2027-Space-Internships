@@ -5,7 +5,7 @@ description: "38 open avionics and electrical internships and co-ops at space co
 
 # Avionics and electrical internships at space companies (2027)
 
-**38 open in the United States at 20 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, Impulse Space. Updated 25 Nov 2026.**
+**38 open in the United States at 20 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, Impulse Space. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

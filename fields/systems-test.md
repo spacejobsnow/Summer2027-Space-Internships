@@ -1,11 +1,11 @@
 ---
 title: "Systems, integration and test internships at space companies (2027)"
-description: "59 open systems, integration and test internships and co-ops at space companies in the US (Astranis, Blue Origin, The Aerospace Corporation, Muon Space and more), updated daily."
+description: "60 open systems, integration and test internships and co-ops at space companies in the US (Astranis, Blue Origin, The Aerospace Corporation, Muon Space and more), updated daily."
 ---
 
 # Systems, integration and test internships at space companies (2027)
 
-**59 open in the United States at 23 companies, most at Astranis, Blue Origin, The Aerospace Corporation, Muon Space, Lockheed Martin. Updated 25 Nov 2026.**
+**60 open in the United States at 23 companies, most at Astranis, Blue Origin, The Aerospace Corporation, Muon Space, Lockheed Martin. Updated 26 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/systems-test?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -24,6 +24,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Intuitive Machines** | [Assembly Integration & Test Intern](https://spacejobs.now/jobs/intuitive-machines/assembly-integration-test-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 12 |
 | **Lockheed Martin** | [Systems Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineering-intern?utm_source=github&utm_medium=internship-list) | Hill AFB, UT | $20.14–$28.15/hr |  | Nov 10 |
 | **Barrios Technology** | [Engineering Intern - Summer 2027](https://spacejobs.now/jobs/barrios-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027, freshmen-and-sophomores | Nov 9 |
+| **Apex** | [Software Engineering Internship, Test & Automation (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-internship-test-automation-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 5 |
 | **The Aerospace Corporation** | [2027 Enterprise REsiliency Modeling and Simulation Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-enterprise-resiliency-modeling-and-simulation-graduate-intern?utm_source=github&utm_medium=internship-list) | Chantilly, VA |  | graduate-students, with-housing | Nov 5 |
 | **Lockheed Martin** | [Mechanical Test Engineer-INTERN](https://spacejobs.now/jobs/lockheed-martin/mechanical-test-engineer-intern?utm_source=github&utm_medium=internship-list) | Cape Canaveral, FL | $20.14–$28.15/hr |  | Nov 3 |
 | **Orbion Space Technology** | [Engineering Intern - Summer 2027](https://spacejobs.now/jobs/orbion-space-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houghton, MI |  | Summer 2027 | Nov 2 |
