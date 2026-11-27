@@ -1,11 +1,11 @@
 ---
 title: "Mechanical, structures and thermal internships at space companies (2027)"
-description: "57 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Astranis, Rocket Lab and more), updated daily."
+description: "56 open mechanical, structures and thermal internships and co-ops at space companies in the US (Blue Origin, Intuitive Machines, Astranis, Firefly Aerospace and more), updated daily."
 ---
 
 # Mechanical, structures and thermal internships at space companies (2027)
 
-**57 open in the United States at 28 companies, most at Blue Origin, Intuitive Machines, Astranis, Rocket Lab, Varda Space Industries. Updated 26 Nov 2026.**
+**56 open in the United States at 27 companies, most at Blue Origin, Intuitive Machines, Astranis, Firefly Aerospace, Varda Space Industries. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/mechanical-structures?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -28,7 +28,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Rocket Lab** | [Ground Systems Engineering Intern Summer 2027](https://spacejobs.now/jobs/rocket-lab/ground-systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 1 more |  | Summer 2027, with-housing | Nov 2 |
 | **Rocket Lab** | [Ground Systems Engineering Intern Spring 2027](https://spacejobs.now/jobs/rocket-lab/ground-systems-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list) | Middle River, MD and 1 more |  | Spring 2027, with-housing | Nov 2 |
 | **Amentum** | [Spring 2027 Intern - Structural Dynamics Engineer](https://spacejobs.now/jobs/amentum/spring-2027-intern-structural-dynamics-engineer?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Spring 2027 | Oct 28 |
-| **Loft Orbital** | [Summer 2027 Internship – Mechanical Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-mechanical-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Mechanical Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/mechanical-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **Firefly Aerospace** | [Internship - Ground Support Equipment - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-ground-support-equipment-spring-2027?utm_source=github&utm_medium=internship-list) | Briggs, TX |  | Spring 2027 | Oct 23 |
 | **Firefly Aerospace** | [Internship - Mechanical Engineering - Spring 2027](https://spacejobs.now/jobs/firefly-aerospace/internship-mechanical-engineering-spring-2027?utm_source=github&utm_medium=internship-list) | Cedar Park, TX |  | Spring 2027 | Oct 23 |

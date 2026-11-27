@@ -1,7 +1,7 @@
 {
  "source": "SpaceJobs.Now (https://spacejobs.now)",
  "license": "CC BY 4.0",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "internships": [
   {
    "company": "Astrolab",
@@ -13,9 +13,38 @@
    ],
    "pay": "$30/hr",
    "term": null,
-   "field": "other",
+   "field": "manufacturing",
    "posted": "2026-11-26",
    "url": "https://spacejobs.now/jobs/astrolab/production-engineering-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "OHB",
+   "title": "Intern Mechanisms and Robotics \u2013 Exploration Mechanisms (m/f/d) (m/f/d)",
+   "location": "We\u00dfling bei M\u00fcnchen, Germany",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "mechanical-structures",
+   "posted": "2026-11-26",
+   "url": "https://spacejobs.now/jobs/ohb/intern-mechanisms-and-robotics-exploration-mechanisms-m-f-d-m-f-d?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "College Student - Technical - Summer Intern",
+   "location": "King of Prussia, PA and 4 more",
+   "in_us": true,
+   "states": [
+    "PA",
+    "CA",
+    "CO",
+    "AL"
+   ],
+   "pay": "$20.14\u2013$35.19/hr",
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-25",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/college-student-technical-summer-intern?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Xona Space Systems",
@@ -79,7 +108,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "systems-test",
    "posted": "2026-11-25",
    "url": "https://spacejobs.now/jobs/eutelsat/systems-modelling-intern-oneweb-next?utm_source=github&utm_medium=internship-list"
   },
@@ -119,7 +148,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "rf-communications",
    "posted": "2026-11-25",
    "url": "https://spacejobs.now/jobs/cnes/stage-telemesure-pour-experiences-embarquees-sur-lanceurs-demonstrateurs-h-f?utm_source=github&utm_medium=internship-list"
   },
@@ -152,6 +181,20 @@
    "url": "https://spacejobs.now/jobs/gitai/field-test-operations-intern-january-2027-start?utm_source=github&utm_medium=internship-list"
   },
   {
+   "company": "Lockheed Martin",
+   "title": "Satellite Operations Intern",
+   "location": "Sunnyvale, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$25.18\u2013$35.19/hr",
+   "term": null,
+   "field": "launch-mission-ops",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/satellite-operations-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
    "company": "Apex",
    "title": "Software Engineer, Test Automation Internship (Summer 2027)",
    "location": "Los Angeles, CA",
@@ -178,6 +221,34 @@
    "field": "mechanical-structures",
    "posted": "2026-11-24",
    "url": "https://spacejobs.now/jobs/apex/mechanical-ground-systems-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Embedded Software Engineering Intern - Summer 2027",
+   "location": "Highlands Ranch, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$22.66\u2013$31.67/hr",
+   "term": "Summer 2027",
+   "field": "gnc-flight-software",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Systems Engineer Intern - Summer 2027",
+   "location": "King of Prussia, PA",
+   "in_us": true,
+   "states": [
+    "PA"
+   ],
+   "pay": "$22.66\u2013$31.67/hr",
+   "term": "Summer 2027",
+   "field": "systems-test",
+   "posted": "2026-11-24",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -218,6 +289,34 @@
    "url": "https://spacejobs.now/jobs/viasat/mechanical-engineering-intern?utm_source=github&utm_medium=internship-list"
   },
   {
+   "company": "Lockheed Martin",
+   "title": "Post Grad Student - Technical Intern",
+   "location": "Littleton, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$30.16\u2013$40.67/hr",
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-23",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/post-grad-student-technical-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "College Intern - Scientist",
+   "location": "Sunnyvale, CA",
+   "in_us": true,
+   "states": [
+    "CA"
+   ],
+   "pay": "$25.18\u2013$35.19/hr",
+   "term": null,
+   "field": "science-imaging",
+   "posted": "2026-11-23",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/college-intern-scientist?utm_source=github&utm_medium=internship-list"
+  },
+  {
    "company": "Viasat",
    "title": "Embedded Software Engineer Intern - Viasat Government",
    "location": "Tempe, AZ",
@@ -230,6 +329,20 @@
    "field": "gnc-flight-software",
    "posted": "2026-11-23",
    "url": "https://spacejobs.now/jobs/viasat/embedded-software-engineer-intern-viasat-government?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Aeronautical Engineering Intern",
+   "location": "King of Prussia, PA",
+   "in_us": true,
+   "states": [
+    "PA"
+   ],
+   "pay": "$22.66\u2013$31.67/hr",
+   "term": null,
+   "field": "other",
+   "posted": "2026-11-23",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/aeronautical-engineering-intern?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -263,7 +376,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "systems-test",
    "posted": "2026-11-23",
    "url": "https://spacejobs.now/jobs/cnes/stage-irradiation-de-materiaux-spatiaux-aux-ions-lourds-h-f?utm_source=github&utm_medium=internship-list"
   },
@@ -429,7 +542,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "systems-test",
    "posted": "2026-11-21",
    "url": "https://spacejobs.now/jobs/eutelsat/satellite-systems-modelling-engineering-intern?utm_source=github&utm_medium=internship-list"
   },
@@ -524,7 +637,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "gnc-flight-software",
    "posted": "2026-11-20",
    "url": "https://spacejobs.now/jobs/cnes/stage-developpement-de-logiciels-embarques-spatiaux-sous-linux-pour-aerosat?utm_source=github&utm_medium=internship-list"
   },
@@ -536,7 +649,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "supply-chain-facilities",
    "posted": "2026-11-20",
    "url": "https://spacejobs.now/jobs/cnes/stage-maintenance-exploitation-des-infrastructures-techniques-du-batiment?utm_source=github&utm_medium=internship-list"
   },
@@ -553,6 +666,34 @@
    "field": "business-programs",
    "posted": "2026-11-19",
    "url": "https://spacejobs.now/jobs/rocket-lab/total-rewards-intern-summer-2027?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Test Engineer Intern",
+   "location": "Littleton, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$22.66\u2013$31.67/hr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-11-19",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/test-engineer-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Electrical Test Engineer- Intern",
+   "location": "FL",
+   "in_us": true,
+   "states": [
+    "FL"
+   ],
+   "pay": "$26.81\u2013$30.97/hr",
+   "term": null,
+   "field": "avionics-electrical",
+   "posted": "2026-11-19",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineer-intern?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Viasat",
@@ -643,6 +784,20 @@
    "url": "https://spacejobs.now/jobs/scout-space/embedded-firmware-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
+   "company": "Lockheed Martin",
+   "title": "Production Supply Chain Management Intern",
+   "location": "Courtland, AL",
+   "in_us": true,
+   "states": [
+    "AL"
+   ],
+   "pay": "$24.37\u2013$28.15/hr",
+   "term": null,
+   "field": "supply-chain-facilities",
+   "posted": "2026-11-19",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/production-supply-chain-management-intern?utm_source=github&utm_medium=internship-list"
+  },
+  {
    "company": "Scout Space",
    "title": "Computer Vision (AI/ML) Engineering Intern (Summer 2027)",
    "location": "Remote (United States)",
@@ -653,18 +808,6 @@
    "field": "science-imaging",
    "posted": "2026-11-19",
    "url": "https://spacejobs.now/jobs/scout-space/computer-vision-ai-ml-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
-   "title": "Stagiaire Marketing & Analyse de march\u00e9",
-   "location": "Mont-sur-marchienne, Belgium",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "business-programs",
-   "posted": "2026-11-19",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stagiaire-marketing-analyse-de-marche?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -728,25 +871,13 @@
   },
   {
    "company": "CNES (French space agency)",
-   "title": "STAGE - Contr\u00f4le d'une exp\u00e9rience scientifique dans l'ISS H/F",
-   "location": "Toulouse, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "gnc-flight-software",
-   "posted": "2026-11-19",
-   "url": "https://spacejobs.now/jobs/cnes/stage-controle-d-une-experience-scientifique-dans-l-iss-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "CNES (French space agency)",
    "title": "STAGE - Base de donn\u00e9es spectrales infrarouges de contaminants spatiaux H/F",
    "location": "Toulouse, France",
    "in_us": false,
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "science-imaging",
    "posted": "2026-11-19",
    "url": "https://spacejobs.now/jobs/cnes/stage-base-de-donnees-spectrales-infrarouges-de-contaminants-spatiaux-h-f?utm_source=github&utm_medium=internship-list"
   },
@@ -758,7 +889,7 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "quality-safety",
    "posted": "2026-11-19",
    "url": "https://spacejobs.now/jobs/cnes/stage-dosimetrie-des-moyens-de-tomographie-x-h-f?utm_source=github&utm_medium=internship-list"
   },
@@ -770,9 +901,50 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "quality-safety",
    "posted": "2026-11-19",
    "url": "https://spacejobs.now/jobs/cnes/stage-optimisation-d-une-methode-de-ressuage-de-composants-h-f?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "CNES (French space agency)",
+   "title": "STAGE - Contr\u00f4le d'une exp\u00e9rience scientifique dans l'ISS H/F",
+   "location": "Toulouse, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "launch-mission-ops",
+   "posted": "2026-11-19",
+   "url": "https://spacejobs.now/jobs/cnes/stage-controle-d-une-experience-scientifique-dans-l-iss-h-f?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Systems Engineering Internship",
+   "location": "Colorado Springs, CO",
+   "in_us": true,
+   "states": [
+    "CO"
+   ],
+   "pay": "$20.14\u2013$28.15/hr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-11-18",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/systems-engineering-internship?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Lockheed Martin",
+   "title": "Systems Engineer Intern",
+   "location": "Huntsville, AL and 1 more",
+   "in_us": true,
+   "states": [
+    "AL",
+    "CO"
+   ],
+   "pay": "$20.14\u2013$34.84/hr",
+   "term": null,
+   "field": "systems-test",
+   "posted": "2026-11-18",
+   "url": "https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Thales Alenia Space",
@@ -813,20 +985,6 @@
    "field": "quality-safety",
    "posted": "2026-11-17",
    "url": "https://spacejobs.now/jobs/rocket-lab/quality-engineering-intern-spring-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Lockheed Martin",
-   "title": "Systems Engineer Intern",
-   "location": "Littleton, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$30.16\u2013$34.84/hr",
-   "term": null,
-   "field": "systems-test",
-   "posted": "2026-11-17",
-   "url": "https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Lockheed Martin",
@@ -898,21 +1056,6 @@
    "field": "mechanical-structures",
    "posted": "2026-11-17",
    "url": "https://spacejobs.now/jobs/intuitive-machines/thermal-analysis-intern?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Lockheed Martin",
-   "title": "College Student - Technical - Summer Intern",
-   "location": "Littleton, CO and 2 more",
-   "in_us": true,
-   "states": [
-    "CO",
-    "CA"
-   ],
-   "pay": "$22.66\u2013$35.19/hr",
-   "term": null,
-   "field": "other",
-   "posted": "2026-11-17",
-   "url": "https://spacejobs.now/jobs/lockheed-martin/college-student-technical-summer-intern?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Impulse Space",
@@ -1246,15 +1389,15 @@
   },
   {
    "company": "CNES (French space agency)",
-   "title": "STAGE - Contr\u00f4le d'attitude avant atterrissage d'un cubesat de la mission RAMSES",
+   "title": "STAGE - Analyste / ing\u00e9nieur BI RSE H/F",
    "location": "Toulouse, France",
    "in_us": false,
    "states": [],
    "pay": null,
    "term": null,
-   "field": "gnc-flight-software",
+   "field": "ground-software",
    "posted": "2026-11-16",
-   "url": "https://spacejobs.now/jobs/cnes/stage-controle-d-attitude-avant-atterrissage-d-un-cubesat-de-la-mission-ramses?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/cnes/stage-analyste-ingenieur-bi-rse-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "CNES (French space agency)",
@@ -1264,21 +1407,21 @@
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "gnc-flight-software",
    "posted": "2026-11-16",
    "url": "https://spacejobs.now/jobs/cnes/stage-analyse-trajectographique-des-vols-de-lanceurs-internationaux-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "CNES (French space agency)",
-   "title": "STAGE - Analyste / ing\u00e9nieur BI RSE H/F",
+   "title": "STAGE - Contr\u00f4le d'attitude avant atterrissage d'un cubesat de la mission RAMSES",
    "location": "Toulouse, France",
    "in_us": false,
    "states": [],
    "pay": null,
    "term": null,
-   "field": "other",
+   "field": "gnc-flight-software",
    "posted": "2026-11-16",
-   "url": "https://spacejobs.now/jobs/cnes/stage-analyste-ingenieur-bi-rse-h-f?utm_source=github&utm_medium=internship-list"
+   "url": "https://spacejobs.now/jobs/cnes/stage-controle-d-attitude-avant-atterrissage-d-un-cubesat-de-la-mission-ramses?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Eutelsat",
@@ -1466,20 +1609,6 @@
    "field": "ground-software",
    "posted": "2026-11-12",
    "url": "https://spacejobs.now/jobs/lockheed-martin/software-engineer-intern?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Lockheed Martin",
-   "title": "Embedded Software Engineering Intern - Summer 2027",
-   "location": "Highlands Ranch, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$22.66\u2013$31.67/hr",
-   "term": "Summer 2027",
-   "field": "gnc-flight-software",
-   "posted": "2026-11-12",
-   "url": "https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "ICEYE",
@@ -5846,18 +5975,6 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "STAGE - Ing\u00e9nieur T\u00e9l\u00e9com Spatial 5G NTN -F/H",
-   "location": "Toulouse, Haute-Garonne, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "rf-communications",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-telecom-spatial-5g-ntn-f-h?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
    "title": "Stage \u2013 Technicien d\u00e9veloppement de supports de formation d\u2019outils d\u2019inspection et de mesure des instruments d\u2019optique \u2013 (H/F)",
    "location": "Cannes, Alpes-Maritimes, France",
    "in_us": false,
@@ -6097,20 +6214,6 @@
    "field": "manufacturing",
    "posted": "2026-10-30",
    "url": "https://spacejobs.now/jobs/united-launch-alliance/weld-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Loft Orbital",
-   "title": "Summer 2027 Internship \u2013 Thermal & Manufacturing Engineering",
-   "location": "Golden, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$30.00/hr",
-   "term": "Summer 2027, with-housing",
-   "field": "manufacturing",
-   "posted": "2026-10-30",
-   "url": "https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-thermal-manufacturing-engineering?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "The Aerospace Corporation",
@@ -6604,48 +6707,6 @@
    "field": "mechanical-structures",
    "posted": "2026-10-28",
    "url": "https://spacejobs.now/jobs/amentum/spring-2027-intern-structural-dynamics-engineer?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Loft Orbital",
-   "title": "Summer 2027 Internship \u2013 Satellite Programs",
-   "location": "Golden, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$30.00/hr",
-   "term": "Summer 2027, with-housing",
-   "field": "business-programs",
-   "posted": "2026-10-27",
-   "url": "https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-satellite-programs?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Loft Orbital",
-   "title": "Summer 2027 Internship \u2013 Mechanical Engineering",
-   "location": "Golden, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$30.00/hr",
-   "term": "Summer 2027, with-housing",
-   "field": "mechanical-structures",
-   "posted": "2026-10-27",
-   "url": "https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-mechanical-engineering?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Loft Orbital",
-   "title": "Summer 2027 Internship \u2013 Test Engineering",
-   "location": "Golden, CO",
-   "in_us": true,
-   "states": [
-    "CO"
-   ],
-   "pay": "$30.00/hr",
-   "term": "Summer 2027, with-housing",
-   "field": "systems-test",
-   "posted": "2026-10-27",
-   "url": "https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-test-engineering?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Isar Aerospace",
@@ -8037,18 +8098,6 @@
   },
   {
    "company": "Thales Alenia Space",
-   "title": "Stage - D\u00e9veloppement de l'usage de l'IA au sein d\u2019activit\u00e9s industrielles et ing\u00e9nierie - H/F",
-   "location": "Aix-en-Provence, Bouches-du-Rhone, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "other",
-   "posted": "2026-10-21",
-   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-developpement-de-l-usage-de-l-ia-au-sein-d-activites-industrielles-et-ingenierie-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Thales Alenia Space",
    "title": "STAGE - Ing\u00e9nieur conception \u00e9lectronique de puissance \u2013 Evaluation GaN\u2013 F/H",
    "location": "Toulouse, Haute-Garonne, France",
    "in_us": false,
@@ -8058,6 +8107,18 @@
    "field": "avionics-electrical",
    "posted": "2026-10-21",
    "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-ingenieur-conception-electronique-de-puissance-evaluation-gan-f-h?utm_source=github&utm_medium=internship-list"
+  },
+  {
+   "company": "Thales Alenia Space",
+   "title": "Stage - D\u00e9veloppement de l'usage de l'IA au sein d\u2019activit\u00e9s industrielles et ing\u00e9nierie - H/F",
+   "location": "Aix-en-Provence, Bouches-du-Rhone, France",
+   "in_us": false,
+   "states": [],
+   "pay": null,
+   "term": null,
+   "field": "other",
+   "posted": "2026-10-21",
+   "url": "https://spacejobs.now/jobs/thales-alenia-space/stage-developpement-de-l-usage-de-l-ia-au-sein-d-activites-industrielles-et-ingenierie-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Airbus Defence and Space",
@@ -8332,18 +8393,6 @@
    "field": "science-imaging",
    "posted": "2026-10-20",
    "url": "https://spacejobs.now/jobs/cnes/stage-estimation-des-vitesses-des-vents-a-partir-d-images-satellites-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "CNES (French space agency)",
-   "title": "STAGE - L'IA au service du REX des \u00e9checs lanceurs H/F",
-   "location": "Paris, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "quality-safety",
-   "posted": "2026-10-20",
-   "url": "https://spacejobs.now/jobs/cnes/stage-l-ia-au-service-du-rex-des-echecs-lanceurs-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "CNES (French space agency)",
@@ -9174,18 +9223,6 @@
    "field": "business-programs",
    "posted": "2026-10-18",
    "url": "https://spacejobs.now/jobs/cnes/stage-education-developpement-de-projets-educatifs-sciences-h-f?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "CNES (French space agency)",
-   "title": "STAGE - Diminution du volume de t\u00e9l\u00e9m\u00e9trie \"HouseKeeping\" en VLEO H/F",
-   "location": "Toulouse, France",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "launch-mission-ops",
-   "posted": "2026-10-18",
-   "url": "https://spacejobs.now/jobs/cnes/stage-diminution-du-volume-de-telemetrie-housekeeping-en-vleo-h-f?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "CesiumAstro",
@@ -13466,18 +13503,6 @@
    "field": "other",
    "posted": "2026-06-25",
    "url": "https://spacejobs.now/jobs/starfish-space/skillbridge-internship?utm_source=github&utm_medium=internship-list"
-  },
-  {
-   "company": "Rocket Factory Augsburg",
-   "title": "Intern (m/f/d) LabVIEW Programming",
-   "location": "Augsburg, Bavaria, Germany",
-   "in_us": false,
-   "states": [],
-   "pay": null,
-   "term": null,
-   "field": "ground-software",
-   "posted": "2026-05-29",
-   "url": "https://spacejobs.now/jobs/rocket-factory-augsburg/intern-m-f-d-labview-programming?utm_source=github&utm_medium=internship-list"
   },
   {
    "company": "Rocket Factory Augsburg",

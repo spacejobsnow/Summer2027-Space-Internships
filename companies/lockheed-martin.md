@@ -1,11 +1,11 @@
 ---
 title: "Lockheed Martin internships 2027: open roles, pay and how to apply"
-description: "33 open Lockheed Martin internships and co-ops in the US (Software and IT; Systems, integration and test; Flight software and GNC), updated daily."
+description: "42 open Lockheed Martin internships and co-ops in the US (Software and IT; Systems, integration and test; Flight software and GNC), updated daily."
 ---
 
 # Lockheed Martin internships (2027)
 
-**33 open in the United States. Updated 26 Nov 2026.**
+**42 open in the United States. Updated 27 Nov 2026.**
 
 How Lockheed Martin's internship program works, who may apply and when: [Lockheed Martin internships on SpaceJobs.Now](https://spacejobs.now/employers/lockheed-martin/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,10 +13,20 @@ How Lockheed Martin's internship program works, who may apply and when: [Lockhee
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Lockheed Martin** | [College Student - Technical - Summer Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-technical-summer-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 4 more | $20.14–$35.19/hr |  | Nov 25 |
+| **Lockheed Martin** | [Satellite Operations Intern](https://spacejobs.now/jobs/lockheed-martin/satellite-operations-intern?utm_source=github&utm_medium=internship-list) | Sunnyvale, CA | $25.18–$35.19/hr |  | Nov 24 |
+| **Lockheed Martin** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO | $22.66–$31.67/hr | Summer 2027 | Nov 24 |
+| **Lockheed Martin** | [Systems Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | King of Prussia, PA | $22.66–$31.67/hr | Summer 2027 | Nov 24 |
+| **Lockheed Martin** | [Post Grad Student - Technical Intern](https://spacejobs.now/jobs/lockheed-martin/post-grad-student-technical-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $30.16–$40.67/hr |  | Nov 23 |
+| **Lockheed Martin** | [College Intern - Scientist](https://spacejobs.now/jobs/lockheed-martin/college-intern-scientist?utm_source=github&utm_medium=internship-list) | Sunnyvale, CA | $25.18–$35.19/hr |  | Nov 23 |
+| **Lockheed Martin** | [Aeronautical Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/aeronautical-engineering-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA | $22.66–$31.67/hr |  | Nov 23 |
+| **Lockheed Martin** | [Test Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/test-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 19 |
+| **Lockheed Martin** | [Electrical Test Engineer- Intern](https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineer-intern?utm_source=github&utm_medium=internship-list) | FL | $26.81–$30.97/hr |  | Nov 19 |
+| **Lockheed Martin** | [Production Supply Chain Management Intern](https://spacejobs.now/jobs/lockheed-martin/production-supply-chain-management-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $24.37–$28.15/hr |  | Nov 19 |
+| **Lockheed Martin** | [Systems Engineering Internship](https://spacejobs.now/jobs/lockheed-martin/systems-engineering-internship?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO | $20.14–$28.15/hr |  | Nov 18 |
+| **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 1 more | $20.14–$34.84/hr |  | Nov 18 |
 | **Lockheed Martin** | [Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO and 1 more | $22.66–$34.84/hr | Summer 2027 | Nov 17 |
-| **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $30.16–$34.84/hr |  | Nov 17 |
 | **Lockheed Martin** | [Project Engineering - Intern](https://spacejobs.now/jobs/lockheed-martin/project-engineering-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 1 more | $22.66–$31.67/hr |  | Nov 17 |
-| **Lockheed Martin** | [College Student - Technical - Summer Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-technical-summer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO and 2 more | $22.66–$35.19/hr |  | Nov 17 |
 | **Lockheed Martin** | [GN&C Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/gn-c-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO and 1 more | $30.16–$34.84/hr |  | Nov 17 |
 | **Lockheed Martin** | [College Student - Systems Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-systems-engineering-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 16 |
 | **Lockheed Martin** | [DevSecOps Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/devsecops-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO and 1 more | $20.14–$31.67/hr | Summer 2027 | Nov 16 |
@@ -28,7 +38,6 @@ How Lockheed Martin's internship program works, who may apply and when: [Lockhee
 | **Lockheed Martin** | [Contracts Intern - Non-Technical](https://spacejobs.now/jobs/lockheed-martin/contracts-intern-non-technical?utm_source=github&utm_medium=internship-list) | Titusville, FL | $20.14–$28.15/hr |  | Nov 16 |
 | **Lockheed Martin** | [Software Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 1 more | $20.14–$31.67/hr | Summer 2027 | Nov 12 |
 | **Lockheed Martin** | [Software Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/software-engineer-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA | $30.16–$34.84/hr |  | Nov 12 |
-| **Lockheed Martin** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO | $22.66–$31.67/hr | Summer 2027 | Nov 12 |
 | **Lockheed Martin** | [aerospace engineering intern](https://spacejobs.now/jobs/lockheed-martin/aerospace-engineering-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 12 |
 | **Lockheed Martin** | [AI Research Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/ai-research-engineer-intern?utm_source=github&utm_medium=internship-list) | virtual two, Colombia and 2 more |  |  | Nov 11 |
 | **Lockheed Martin** | [Cyber Software Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/cyber-software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Herndon, VA | $22.66–$31.67/hr | Summer 2027 | Nov 11 |

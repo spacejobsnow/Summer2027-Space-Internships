@@ -1,11 +1,11 @@
 ---
 title: "Rendezvous Robotics internships 2027: open roles, pay and how to apply"
-description: "6 open Rendezvous Robotics internships and co-ops in the US (Manufacturing; Flight software and GNC; Mechanical, structures and thermal), updated daily."
+description: "6 open Rendezvous Robotics internships and co-ops in the US (Mechanical, structures and thermal; Flight software and GNC; Manufacturing), updated daily."
 ---
 
 # Rendezvous Robotics internships (2027)
 
-**6 open in the United States. Updated 26 Nov 2026.**
+**6 open in the United States. Updated 27 Nov 2026.**
 
 How Rendezvous Robotics's internship program works, who may apply and when: [Rendezvous Robotics internships on SpaceJobs.Now](https://spacejobs.now/employers/rendezvous-robotics/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

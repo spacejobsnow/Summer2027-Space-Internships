@@ -5,7 +5,7 @@ description: "44 open flight software and gnc internships and co-ops at space co
 
 # Flight software and GNC internships at space companies (2027)
 
-**44 open in the United States at 18 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Apex, Lockheed Martin. Updated 26 Nov 2026.**
+**44 open in the United States at 18 companies, most at The Aerospace Corporation, Blue Origin, Varda Space Industries, Apex, Lockheed Martin. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/gnc-flight-software?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,6 +15,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 |---|---|---|---|---|---|
 | **Apex** | [Software Engineering, Operating Systems Internship (Summer 2027)](https://spacejobs.now/jobs/apex/software-engineering-operating-systems-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 25 |
 | **Apex** | [Flight Software Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/apex/flight-software-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Los Angeles, CA | $45/hr | Summer 2027 | Nov 25 |
+| **Lockheed Martin** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO | $22.66–$31.67/hr | Summer 2027 | Nov 24 |
 | **Viasat** | [Embedded Software Engineer Intern - Viasat Government](https://spacejobs.now/jobs/viasat/embedded-software-engineer-intern-viasat-government?utm_source=github&utm_medium=internship-list) | Tempe, AZ | $25.96–$67.07/hr | with-housing | Nov 23 |
 | **Scout Space** | [GNC and Astrodynamics Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/gnc-and-astrodynamics-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
 | **Scout Space** | [Embedded Firmware Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/embedded-firmware-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
@@ -22,7 +23,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Johns Hopkins APL** | [2027 Internship - Aerospace Engineer - Astrodynamics and Control Systems](https://spacejobs.now/jobs/johns-hopkins-apl/2027-internship-aerospace-engineer-astrodynamics-and-control-systems?utm_source=github&utm_medium=internship-list) | Laurel, MD | $22.60/hr | with-housing | Nov 16 |
 | **Intuitive Machines** | [Flight Software Intern](https://spacejobs.now/jobs/intuitive-machines/flight-software-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Guidance, Navigation & Controls (GNC) Intern](https://spacejobs.now/jobs/intuitive-machines/guidance-navigation-controls-gnc-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 13 |
-| **Lockheed Martin** | [Embedded Software Engineering Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/embedded-software-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Highlands Ranch, CO | $22.66–$31.67/hr | Summer 2027 | Nov 12 |
 | **The Aerospace Corporation** | [2027 Guidance, Navigation, and Control Graduate Intern](https://spacejobs.now/jobs/aerospace-corporation/2027-guidance-navigation-and-control-graduate-intern?utm_source=github&utm_medium=internship-list) | El Segundo, CA |  | graduate-students, with-housing | Nov 12 |
 | **Astranis** | [Embedded Software Developer, Network/Payload Intern (Summer 2027)](https://spacejobs.now/jobs/astranis/embedded-software-developer-network-payload-intern-summer-2027?utm_source=github&utm_medium=internship-list) | San Francisco, CA | $29.00/hr | Summer 2027 | Nov 11 |
 | **CesiumAstro** | [Summer 2027 - Embedded Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-embedded-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |

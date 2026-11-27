@@ -1,11 +1,11 @@
 ---
 title: "The Aerospace Corporation internships 2027: open roles, pay and how to apply"
-description: "51 open The Aerospace Corporation internships and co-ops in the US (RF, communications and payloads; Science, imaging and Earth data; Systems, integration and test), updated daily."
+description: "51 open The Aerospace Corporation internships and co-ops in the US (RF, communications and payloads; Science, imaging and Earth data; Flight software and GNC), updated daily."
 ---
 
 # The Aerospace Corporation internships (2027)
 
-**51 open in the United States. Updated 26 Nov 2026.**
+**51 open in the United States. Updated 27 Nov 2026.**
 
 How The Aerospace Corporation's internship program works, who may apply and when: [The Aerospace Corporation internships on SpaceJobs.Now](https://spacejobs.now/employers/aerospace-corporation/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

@@ -5,7 +5,7 @@ description: "5 open Reflect Orbital internships and co-ops in the US (Flight so
 
 # Reflect Orbital internships (2027)
 
-**5 open in the United States. Updated 26 Nov 2026.**
+**5 open in the United States. Updated 27 Nov 2026.**
 
 How Reflect Orbital's internship program works, who may apply and when: [Reflect Orbital internships on SpaceJobs.Now](https://spacejobs.now/employers/reflect-orbital/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

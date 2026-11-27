@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Alabama (2027)"
-description: "12 open space internships and co-ops in Alabama (Lockheed Martin, Blue Origin, United Launch Alliance, CesiumAstro and more), updated daily."
+description: "15 open space internships and co-ops in Alabama (Lockheed Martin, Blue Origin, United Launch Alliance, CesiumAstro and more), updated daily."
 ---
 
 # Space and aerospace internships in Alabama (2027)
 
-**12 open at 4 companies, most at Lockheed Martin, Blue Origin, United Launch Alliance, CesiumAstro. Updated 26 Nov 2026.**
+**15 open at 4 companies, most at Lockheed Martin, Blue Origin, United Launch Alliance, CesiumAstro. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/alabama?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Lockheed Martin** | [College Student - Technical - Summer Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-technical-summer-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 4 more | $20.14–$35.19/hr |  | Nov 25 |
+| **Lockheed Martin** | [Production Supply Chain Management Intern](https://spacejobs.now/jobs/lockheed-martin/production-supply-chain-management-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $24.37–$28.15/hr |  | Nov 19 |
+| **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 1 more | $20.14–$34.84/hr |  | Nov 18 |
 | **Lockheed Martin** | [Electrical Test Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineering-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $20.14–$28.15/hr | freshmen-and-sophomores | Nov 16 |
 | **Lockheed Martin** | [Manufacturing Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/manufacturing-engineering-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $20.14–$28.15/hr | freshmen-and-sophomores | Nov 16 |
 | **Lockheed Martin** | [Quality Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/quality-engineering-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $20.14–$28.15/hr | freshmen-and-sophomores | Nov 16 |

@@ -1,11 +1,11 @@
 ---
 title: "Quality and mission assurance internships at space companies (2027)"
-description: "14 open quality and mission assurance internships and co-ops at space companies in the US (Astranis, Varda Space Industries, Blue Origin, Virginia Space and more), updated daily."
+description: "14 open quality and mission assurance internships and co-ops at space companies in the US (Astranis, Blue Origin, Varda Space Industries, Lockheed Martin and more), updated daily."
 ---
 
 # Quality and mission assurance internships at space companies (2027)
 
-**14 open in the United States at 10 companies, most at Astranis, Varda Space Industries, Blue Origin, Virginia Space, Agile Space Industries. Updated 26 Nov 2026.**
+**14 open in the United States at 10 companies, most at Astranis, Blue Origin, Varda Space Industries, Lockheed Martin, Rocket Lab. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/quality-safety?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

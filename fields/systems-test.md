@@ -1,11 +1,11 @@
 ---
 title: "Systems, integration and test internships at space companies (2027)"
-description: "60 open systems, integration and test internships and co-ops at space companies in the US (Astranis, Blue Origin, The Aerospace Corporation, Muon Space and more), updated daily."
+description: "62 open systems, integration and test internships and co-ops at space companies in the US (Astranis, Blue Origin, Lockheed Martin, The Aerospace Corporation and more), updated daily."
 ---
 
 # Systems, integration and test internships at space companies (2027)
 
-**60 open in the United States at 23 companies, most at Astranis, Blue Origin, The Aerospace Corporation, Muon Space, Lockheed Martin. Updated 26 Nov 2026.**
+**62 open in the United States at 22 companies, most at Astranis, Blue Origin, Lockheed Martin, The Aerospace Corporation, Muon Space. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/systems-test?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -15,9 +15,12 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 |---|---|---|---|---|---|
 | **Lunar Outpost** | [Crew Systems Intern - Summer 2027](https://spacejobs.now/jobs/lunar-outpost/crew-systems-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Golden, CO | $24.00/hr | Summer 2027 | Nov 25 |
 | **GITAI** | [Field Test Operations Intern (January 2027 Start)](https://spacejobs.now/jobs/gitai/field-test-operations-intern-january-2027-start?utm_source=github&utm_medium=internship-list) | Los Angeles, California | $28–$35/hr |  | Nov 24 |
+| **Lockheed Martin** | [Systems Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | King of Prussia, PA | $22.66–$31.67/hr | Summer 2027 | Nov 24 |
 | **Agile Space Industries** | [Summer Intern 2027 / Test Engineer](https://spacejobs.now/jobs/agile-space-industries/summer-intern-2027-test-engineer?utm_source=github&utm_medium=internship-list) | Durango, CO | $21–$25/hr | with-housing | Nov 21 |
+| **Lockheed Martin** | [Test Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/test-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 19 |
 | **Scout Space** | [Systems Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/scout-space/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Remote (United States) | $30/hr | Summer 2027 | Nov 19 |
-| **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $30.16–$34.84/hr |  | Nov 17 |
+| **Lockheed Martin** | [Systems Engineering Internship](https://spacejobs.now/jobs/lockheed-martin/systems-engineering-internship?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO | $20.14–$28.15/hr |  | Nov 18 |
+| **Lockheed Martin** | [Systems Engineer Intern](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern?utm_source=github&utm_medium=internship-list) | Huntsville, AL and 1 more | $20.14–$34.84/hr |  | Nov 18 |
 | **Lockheed Martin** | [College Student - Systems Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-systems-engineering-intern?utm_source=github&utm_medium=internship-list) | Littleton, CO | $22.66–$31.67/hr |  | Nov 16 |
 | **Intuitive Machines** | [Avionics Engineer – Test Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-test-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Integrated Testing Intern](https://spacejobs.now/jobs/intuitive-machines/integrated-testing-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  | freshmen-and-sophomores | Nov 16 |
@@ -30,7 +33,6 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | **Orbion Space Technology** | [Engineering Intern - Summer 2027](https://spacejobs.now/jobs/orbion-space-technology/engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houghton, MI |  | Summer 2027 | Nov 2 |
 | **Impulse Space** | [Assembly, Integration, and Test (AI&T) Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/assembly-integration-and-test-ai-t-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
 | **Impulse Space** | [Development Test Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/impulse-space/development-test-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $30/hr | Summer 2027 | Oct 30 |
-| **Loft Orbital** | [Summer 2027 Internship – Test Engineering](https://spacejobs.now/jobs/loft-orbital/summer-2027-internship-test-engineering?utm_source=github&utm_medium=internship-list) | Golden, CO | $30.00/hr | Summer 2027, with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Systems Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/systems-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **AeroVironment (AV)** | [Test Engineering Intern - Space Technologies](https://spacejobs.now/jobs/aerovironment/test-engineering-intern-space-technologies?utm_source=github&utm_medium=internship-list) | Albuquerque, NM |  | with-housing | Oct 27 |
 | **Axiom Space** | [Systems Engineering Intern (Summer 2027)](https://spacejobs.now/jobs/axiom-space/systems-engineering-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Houston, TX |  | Summer 2027 | Oct 15 |

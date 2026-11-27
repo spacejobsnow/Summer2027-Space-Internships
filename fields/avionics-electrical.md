@@ -1,11 +1,11 @@
 ---
 title: "Avionics and electrical internships at space companies (2027)"
-description: "38 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro and more), updated daily."
+description: "39 open avionics and electrical internships and co-ops at space companies in the US (Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro and more), updated daily."
 ---
 
 # Avionics and electrical internships at space companies (2027)
 
-**38 open in the United States at 20 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, Impulse Space. Updated 26 Nov 2026.**
+**39 open in the United States at 20 companies, most at Astranis, The Aerospace Corporation, Blue Origin, CesiumAstro, Lockheed Martin. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/avionics-electrical?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,6 +14,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
 | **Muon Space** | [Harness Design Co-Op](https://spacejobs.now/jobs/muon-space/harness-design-co-op?utm_source=github&utm_medium=internship-list) | San Jose, CA | $40/hr |  | Nov 21 |
+| **Lockheed Martin** | [Electrical Test Engineer- Intern](https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineer-intern?utm_source=github&utm_medium=internship-list) | FL | $26.81–$30.97/hr |  | Nov 19 |
 | **Impulse Space** | [Digital Design (FPGA/ASIC) Engineering Internship (Summer 2027)](https://spacejobs.now/jobs/impulse-space/digital-design-fpga-asic-engineering-internship-summer-2027?utm_source=github&utm_medium=internship-list) | Redondo Beach, California | $34/hr | Summer 2027 | Nov 17 |
 | **Lockheed Martin** | [Electrical Test Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineering-intern?utm_source=github&utm_medium=internship-list) | Courtland, AL | $20.14–$28.15/hr | freshmen-and-sophomores | Nov 16 |
 | **Intuitive Machines** | [Avionics Engineer – EE Design Engineer Intern](https://spacejobs.now/jobs/intuitive-machines/avionics-engineer-ee-design-engineer-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |

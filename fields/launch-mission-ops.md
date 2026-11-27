@@ -1,11 +1,11 @@
 ---
 title: "Launch and mission operations internships at space companies (2027)"
-description: "11 open launch and mission operations internships and co-ops at space companies in the US (Intuitive Machines, Firefly Aerospace, Virginia Space, Varda Space Industries and more), updated daily."
+description: "12 open launch and mission operations internships and co-ops at space companies in the US (Intuitive Machines, Firefly Aerospace, Lockheed Martin, Reflect Orbital and more), updated daily."
 ---
 
 # Launch and mission operations internships at space companies (2027)
 
-**11 open in the United States at 8 companies, most at Intuitive Machines, Firefly Aerospace, Virginia Space, Varda Space Industries, Reflect Orbital. Updated 26 Nov 2026.**
+**12 open in the United States at 9 companies, most at Intuitive Machines, Firefly Aerospace, Lockheed Martin, Reflect Orbital, Axiom Space. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/launch-mission-ops?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Lockheed Martin** | [Satellite Operations Intern](https://spacejobs.now/jobs/lockheed-martin/satellite-operations-intern?utm_source=github&utm_medium=internship-list) | Sunnyvale, CA | $25.18–$35.19/hr |  | Nov 24 |
 | **Intuitive Machines** | [Mission Operations Support Engineering Intern](https://spacejobs.now/jobs/intuitive-machines/mission-operations-support-engineering-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 16 |
 | **Intuitive Machines** | [Lunar Lander Mission Operations Intern](https://spacejobs.now/jobs/intuitive-machines/lunar-lander-mission-operations-intern?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 13 |
 | **Intuitive Machines** | [Satellite Mission Operations Intern – Altus](https://spacejobs.now/jobs/intuitive-machines/satellite-mission-operations-intern-altus?utm_source=github&utm_medium=internship-list) | Houston, TX |  |  | Nov 13 |

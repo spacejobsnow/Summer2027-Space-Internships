@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Pennsylvania (2027)"
-description: "9 open space internships and co-ops in Pennsylvania (Lockheed Martin and more), updated daily."
+description: "12 open space internships and co-ops in Pennsylvania (Lockheed Martin and more), updated daily."
 ---
 
 # Space and aerospace internships in Pennsylvania (2027)
 
-**9 open at 1 companies, most at Lockheed Martin. Updated 26 Nov 2026.**
+**12 open at 1 companies, most at Lockheed Martin. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/pennsylvania?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -13,6 +13,9 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
+| **Lockheed Martin** | [College Student - Technical - Summer Intern](https://spacejobs.now/jobs/lockheed-martin/college-student-technical-summer-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 4 more | $20.14–$35.19/hr |  | Nov 25 |
+| **Lockheed Martin** | [Systems Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/systems-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | King of Prussia, PA | $22.66–$31.67/hr | Summer 2027 | Nov 24 |
+| **Lockheed Martin** | [Aeronautical Engineering Intern](https://spacejobs.now/jobs/lockheed-martin/aeronautical-engineering-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA | $22.66–$31.67/hr |  | Nov 23 |
 | **Lockheed Martin** | [Project Engineering - Intern](https://spacejobs.now/jobs/lockheed-martin/project-engineering-intern?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 1 more | $22.66–$31.67/hr |  | Nov 17 |
 | **Lockheed Martin** | [DevSecOps Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/devsecops-intern-summer-2027?utm_source=github&utm_medium=internship-list) | Colorado Springs, CO and 1 more | $20.14–$31.67/hr | Summer 2027 | Nov 16 |
 | **Lockheed Martin** | [Software Engineer Intern - Summer 2027](https://spacejobs.now/jobs/lockheed-martin/software-engineer-intern-summer-2027?utm_source=github&utm_medium=internship-list) | King of Prussia, PA and 1 more | $20.14–$31.67/hr | Summer 2027 | Nov 12 |

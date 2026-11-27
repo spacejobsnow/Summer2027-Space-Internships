@@ -30,9 +30,9 @@ https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/thales-ale
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/cnes
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/aerospace-corporation
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/blue-origin
+https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/lockheed-martin
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/astranis
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/rocket-lab
-https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/lockheed-martin
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/airbus-defence-and-space
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/dlr
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/varda
@@ -50,7 +50,6 @@ https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/firefly-ae
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/apex
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/lunar-outpost
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/the-exploration-company
-https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/loft-orbital
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/scout-space
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/ursa-major
 https://spacejobsnow.github.io/Summer2027-Space-Internships/companies/aerovironment

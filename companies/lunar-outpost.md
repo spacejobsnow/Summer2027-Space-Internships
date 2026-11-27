@@ -5,7 +5,7 @@ description: "9 open Lunar Outpost internships and co-ops in the US (Business an
 
 # Lunar Outpost internships (2027)
 
-**9 open in the United States. Updated 26 Nov 2026.**
+**9 open in the United States. Updated 27 Nov 2026.**
 
 How Lunar Outpost's internship program works, who may apply and when: [Lunar Outpost internships on SpaceJobs.Now](https://spacejobs.now/employers/lunar-outpost/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

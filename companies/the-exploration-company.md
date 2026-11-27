@@ -1,11 +1,11 @@
 ---
 title: "The Exploration Company internships 2027: open roles, pay and how to apply"
-description: "8 open The Exploration Company internships and co-ops (4 in the US) (Software and IT; Avionics and electrical; Mechanical, structures and thermal), updated daily."
+description: "8 open The Exploration Company internships and co-ops (4 in the US) (Software and IT; Mechanical, structures and thermal; Launch and mission operations), updated daily."
 ---
 
 # The Exploration Company internships (2027)
 
-**8 open, 4 of them in the United States. Updated 26 Nov 2026.**
+**8 open, 4 of them in the United States. Updated 27 Nov 2026.**
 
 How The Exploration Company's internship program works, who may apply and when: [The Exploration Company internships on SpaceJobs.Now](https://spacejobs.now/employers/the-exploration-company/internships?utm_source=github&utm_medium=internship-list). Each role below opens its full posting there, with how to apply. Many roles require US citizenship or US person status (export rules); each role's page says so.
 

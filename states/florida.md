@@ -1,11 +1,11 @@
 ---
 title: "Space and aerospace internships in Florida (2027)"
-description: "12 open space internships and co-ops in Florida (Blue Origin, CesiumAstro, Lockheed Martin, Stoke Space and more), updated daily."
+description: "13 open space internships and co-ops in Florida (Blue Origin, CesiumAstro, Lockheed Martin, Stoke Space and more), updated daily."
 ---
 
 # Space and aerospace internships in Florida (2027)
 
-**12 open at 4 companies, most at Blue Origin, CesiumAstro, Lockheed Martin, Stoke Space. Updated 26 Nov 2026.**
+**13 open at 4 companies, most at Blue Origin, CesiumAstro, Lockheed Martin, Stoke Space. Updated 27 Nov 2026.**
 
 Read each night from each company's own careers site by [SpaceJobs.Now](https://spacejobs.now/space-internships/florida?utm_source=github&utm_medium=internship-list), which shows the same list with pay, filters and the full postings. Many roles require US citizenship or US person status (export rules); each role's page says so.
 
@@ -14,6 +14,7 @@ Read each night from each company's own careers site by [SpaceJobs.Now](https://
 | Company | Role | Location | Pay | Term | Posted |
 |---|---|---|---|---|---|
 | **CesiumAstro** | [Summer 2027 - Mechanical Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-mechanical-engineering-internship?utm_source=github&utm_medium=internship-list) | El Segundo, CA and 3 more |  | Summer 2027 | Nov 20 |
+| **Lockheed Martin** | [Electrical Test Engineer- Intern](https://spacejobs.now/jobs/lockheed-martin/electrical-test-engineer-intern?utm_source=github&utm_medium=internship-list) | FL | $26.81–$30.97/hr |  | Nov 19 |
 | **Lockheed Martin** | [Contracts Intern - Non-Technical](https://spacejobs.now/jobs/lockheed-martin/contracts-intern-non-technical?utm_source=github&utm_medium=internship-list) | Titusville, FL | $20.14–$28.15/hr |  | Nov 16 |
 | **CesiumAstro** | [Summer 2027 - Embedded Software Engineering Internship](https://spacejobs.now/jobs/cesiumastro/summer-2027-embedded-software-engineering-internship?utm_source=github&utm_medium=internship-list) | Melbourne, FL and 2 more |  | Summer 2027 | Nov 9 |
 | **CesiumAstro** | [Summer 2027 - Electrical Engineering Internship, FPGA](https://spacejobs.now/jobs/cesiumastro/summer-2027-electrical-engineering-internship-fpga?utm_source=github&utm_medium=internship-list) | Melbourne, FL |  | Summer 2027 | Nov 9 |
